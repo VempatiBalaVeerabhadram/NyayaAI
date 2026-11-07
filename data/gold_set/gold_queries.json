@@ -1,0 +1,220 @@
+{
+  "version": "1.0",
+  "created": "2026-11-07",
+  "description": "NyayaAI evaluation gold set - criminal law domain",
+  "schema": {
+    "query_id": "unique string",
+    "query_en": "query in English",
+    "query_te": "query in Telugu (PLACEHOLDER if not reviewed)",
+    "query_hi": "query in Hindi (PLACEHOLDER if not reviewed)",
+    "date": "YYYY-MM-DD or null",
+    "expected_law_version": "IPC/CrPC/IEA or BNS/BNSS/BSA or null",
+    "expected_sections": ["list of section references"],
+    "expected_cases": ["list of case names"],
+    "expected_answer_contains": ["key phrases that must appear in answer"],
+    "difficulty": "easy|medium|hard",
+    "domain": "bail|theft|cheating|murder|procedure",
+    "reviewer": "PLACEHOLDER"
+  },
+  "entries": [
+    {
+      "query_id": "Q001",
+      "query_en": "What are the scope and principles governing anticipatory bail under Section 438 CrPC as laid down by the Supreme Court?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2023-01-01",
+      "expected_law_version": "IPC/CrPC/IEA",
+      "expected_sections": ["Section 438 CrPC", "CrPC 438"],
+      "expected_cases": ["Gurbaksh Singh Sibbia v. State of Punjab"],
+      "expected_answer_contains": [
+        "anticipatory bail",
+        "Section 438",
+        "apprehension of arrest",
+        "Sibbia"
+      ],
+      "difficulty": "medium",
+      "domain": "bail",
+      "reviewer": "PLACEHOLDER"
+    },
+    {
+      "query_id": "Q002",
+      "query_en": "What guidelines did the Supreme Court lay down in Arnesh Kumar regarding arrest and Section 41A CrPC?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2023-01-01",
+      "expected_law_version": "IPC/CrPC/IEA",
+      "expected_sections": ["Section 41 CrPC", "Section 41A CrPC"],
+      "expected_cases": ["Arnesh Kumar v. State of Bihar"],
+      "expected_answer_contains": [
+        "Section 41A",
+        "arrest",
+        "notice",
+        "police officer",
+        "Arnesh Kumar"
+      ],
+      "difficulty": "medium",
+      "domain": "procedure",
+      "reviewer": "PLACEHOLDER"
+    },
+    {
+      "query_id": "Q003",
+      "query_en": "What reforms to bail law did the Supreme Court direct in Satender Kumar Antil v. CBI and what categories of offences were identified?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2023-01-01",
+      "expected_law_version": "IPC/CrPC/IEA",
+      "expected_sections": ["Section 436A CrPC", "Section 437 CrPC", "Section 439 CrPC"],
+      "expected_cases": ["Satender Kumar Antil v. CBI"],
+      "expected_answer_contains": [
+        "bail reform",
+        "categories",
+        "undertrial",
+        "Satender Kumar Antil"
+      ],
+      "difficulty": "hard",
+      "domain": "bail",
+      "reviewer": "PLACEHOLDER"
+    },
+    {
+      "query_id": "Q004",
+      "query_en": "Is registration of an FIR mandatory when a cognizable offence is disclosed? What did the Supreme Court hold in Lalita Kumari?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2023-01-01",
+      "expected_law_version": "IPC/CrPC/IEA",
+      "expected_sections": ["Section 154 CrPC"],
+      "expected_cases": ["Lalita Kumari v. Govt. of UP"],
+      "expected_answer_contains": [
+        "mandatory",
+        "FIR",
+        "cognizable offence",
+        "Section 154",
+        "Lalita Kumari"
+      ],
+      "difficulty": "easy",
+      "domain": "procedure",
+      "reviewer": "PLACEHOLDER"
+    },
+    {
+      "query_id": "Q005",
+      "query_en": "What is the general principle on bail versus jail as a rule stated by the Supreme Court in State of Rajasthan v. Balchand?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2023-01-01",
+      "expected_law_version": "IPC/CrPC/IEA",
+      "expected_sections": ["Section 437 CrPC", "Section 439 CrPC"],
+      "expected_cases": ["State of Rajasthan v. Balchand"],
+      "expected_answer_contains": [
+        "bail is the rule",
+        "jail is the exception",
+        "Balchand"
+      ],
+      "difficulty": "easy",
+      "domain": "bail",
+      "reviewer": "PLACEHOLDER"
+    },
+    {
+      "query_id": "Q006",
+      "query_en": "What are the essential ingredients of cheating under Section 420 IPC and what is the punishment prescribed?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2023-01-01",
+      "expected_law_version": "IPC/CrPC/IEA",
+      "expected_sections": ["Section 415 IPC", "Section 420 IPC"],
+      "expected_cases": [],
+      "expected_answer_contains": [
+        "cheating",
+        "Section 420",
+        "dishonestly",
+        "deception",
+        "imprisonment",
+        "seven years"
+      ],
+      "difficulty": "easy",
+      "domain": "cheating",
+      "reviewer": "PLACEHOLDER"
+    },
+    {
+      "query_id": "Q007",
+      "query_en": "What is the punishment for theft under Section 303 of the Bharatiya Nyaya Sanhita (BNS) which came into force in July 2024?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2025-01-01",
+      "expected_law_version": "BNS/BNSS/BSA",
+      "expected_sections": ["Section 303 BNS", "Section 303 Bharatiya Nyaya Sanhita"],
+      "expected_cases": [],
+      "expected_answer_contains": [
+        "BNS",
+        "Bharatiya Nyaya Sanhita",
+        "theft",
+        "imprisonment",
+        "Section 303"
+      ],
+      "difficulty": "easy",
+      "domain": "theft",
+      "reviewer": "PLACEHOLDER"
+    },
+    {
+      "query_id": "Q008",
+      "query_en": "Does anticipatory bail granted under Section 438 CrPC have a fixed tenure or does it operate until trial conclusion? What did the Supreme Court decide in Sushila Aggarwal?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2023-01-01",
+      "expected_law_version": "IPC/CrPC/IEA",
+      "expected_sections": ["Section 438 CrPC"],
+      "expected_cases": ["Sushila Aggarwal v. State (NCT of Delhi)"],
+      "expected_answer_contains": [
+        "anticipatory bail",
+        "duration",
+        "trial",
+        "Sushila Aggarwal",
+        "Section 438"
+      ],
+      "difficulty": "medium",
+      "domain": "bail",
+      "reviewer": "PLACEHOLDER"
+    },
+    {
+      "query_id": "Q009",
+      "query_en": "In what circumstances can an FIR be quashed by the High Court under Section 482 CrPC? What categories were laid down in the Bhajan Lal case?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2023-01-01",
+      "expected_law_version": "IPC/CrPC/IEA",
+      "expected_sections": ["Section 482 CrPC"],
+      "expected_cases": ["State of Haryana v. Bhajan Lal"],
+      "expected_answer_contains": [
+        "quashing",
+        "Section 482",
+        "FIR",
+        "Bhajan Lal",
+        "inherent powers",
+        "categories"
+      ],
+      "difficulty": "hard",
+      "domain": "procedure",
+      "reviewer": "PLACEHOLDER"
+    },
+    {
+      "query_id": "Q010",
+      "query_en": "What factors should a court consider while deciding a bail application? What principles were enumerated in Dataram Singh v. State of UP?",
+      "query_te": "PLACEHOLDER - Requires native speaker review",
+      "query_hi": "PLACEHOLDER - Requires native speaker review",
+      "date": "2023-01-01",
+      "expected_law_version": "IPC/CrPC/IEA",
+      "expected_sections": ["Section 437 CrPC", "Section 439 CrPC"],
+      "expected_cases": ["Dataram Singh v. State of UP"],
+      "expected_answer_contains": [
+        "bail",
+        "factors",
+        "flight risk",
+        "tampering",
+        "Dataram Singh",
+        "personal liberty"
+      ],
+      "difficulty": "medium",
+      "domain": "bail",
+      "reviewer": "PLACEHOLDER"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+# ===========================================
+# NyayaAI — Docker Compose Configuration
+# ===========================================
+# Usage:
+#   docker-compose up -d           # Start all services
+#   docker-compose up -d mongodb   # Start only MongoDB
+#   docker-compose down            # Stop all services
+#   docker-compose logs -f         # View logs
+
+version: '3.8'
+
+services:
+  # ========================
+  # MongoDB
+  # ========================
+  mongodb:
+    image: mongo:7.0
+    container_name: nyayaai-mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: nyayaai
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - nyayaai-network
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # ========================
+  # Neo4j Knowledge Graph
+  # ========================
+  neo4j:
+    image: neo4j:5.20-community
+    container_name: nyayaai-neo4j
+    restart: unless-stopped
+    ports:
+      - "7474:7474"   # HTTP browser
+      - "7687:7687"   # Bolt protocol
+    environment:
+      NEO4J_AUTH: neo4j/${NEO4J_PASSWORD:-nyayaai_neo4j_2024}
+      NEO4J_PLUGINS: '["apoc"]'
+      NEO4J_dbms_security_procedures_unrestricted: apoc.*
+      NEO4J_dbms_memory_heap_initial__size: 512m
+      NEO4J_dbms_memory_heap_max__size: 1G
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+    networks:
+      - nyayaai-network
+    healthcheck:
+      test: ["CMD-SHELL", "wget --no-verbose --tries=1 --spider http://localhost:7474 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # ========================
+  # Qdrant Vector Database
+  # ========================
+  qdrant:
+    image: qdrant/qdrant:v1.9.4
+    container_name: nyayaai-qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333"   # REST API
+      - "6334:6334"   # gRPC
+    volumes:
+      - qdrant_data:/qdrant/storage
+    networks:
+      - nyayaai-network
+    healthcheck:
+      test: ["CMD-SHELL", "wget --no-verbose --tries=1 --spider http://localhost:6333/readyz || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # ========================
+  # NyayaAI Backend (Node.js)
+  # ========================
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: nyayaai-backend
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    env_file:
+      - .env
+    environment:
+      - MONGODB_URI=mongodb://mongodb:27017/nyayaai
+      - AI_SERVICE_URL=http://ai-service:8000
+      - NEO4J_URI=bolt://neo4j:7687
+      - QDRANT_URL=http://qdrant:6333
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    networks:
+      - nyayaai-network
+    volumes:
+      - ./data:/app/data
+
+  # ========================
+  # NyayaAI AI Service (Python)
+  # ========================
+  ai-service:
+    build:
+      context: ./ai-service
+      dockerfile: Dockerfile
+    container_name: nyayaai-ai-service
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      - NEO4J_URI=bolt://neo4j:7687
+      - QDRANT_URL=http://qdrant:6333
+    depends_on:
+      qdrant:
+        condition: service_healthy
+    networks:
+      - nyayaai-network
+    volumes:
+      - ./data:/app/data
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+
+  # ========================
+  # NyayaAI Frontend (React)
+  # ========================
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: nyayaai-frontend
+    restart: unless-stopped
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    networks:
+      - nyayaai-network
+
+# ========================
+# Volumes
+# ========================
+volumes:
+  mongodb_data:
+    driver: local
+  neo4j_data:
+    driver: local
+  neo4j_logs:
+    driver: local
+  qdrant_data:
+    driver: local
+
+# ========================
+# Networks
+# ========================
+networks:
+  nyayaai-network:
+    driver: bridge

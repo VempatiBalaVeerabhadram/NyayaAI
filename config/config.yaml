@@ -1,0 +1,58 @@
+# NyayaAI Master Configuration
+# All tuneable parameters - change here, never in code
+
+retrieval:
+  bm25_top_k: 10
+  semantic_top_k: 10
+  hybrid_top_k: 10
+  default_alpha: 0.5          # BM25 weight in hybrid scoring
+  
+  # Intent-based alpha values
+  intent_alpha:
+    statute_lookup: 0.70       # BM25 heavy for section lookups
+    case_narrative: 0.30       # SBERT heavy for fact patterns
+    mixed: 0.50               # balanced
+  
+  auto_intent: true           # use intent classifier to set alpha
+
+embedding:
+  english_model: "all-MiniLM-L6-v2"          # fast dev model
+  english_model_full: "law-ai/InLegalBERT"    # full legal model (slower)
+  multilingual_model: "intfloat/multilingual-e5-base"
+  vector_dim: 384
+
+graph:
+  enabled: true
+  depth: 1                    # graph expansion depth
+  authority_weight: 0.4       # weight of KG authority in final case score
+  role_similarity_weight: 0.6 # weight of role-based text similarity
+
+temporal:
+  enabled: true
+  ipc_to_bns_date: "2024-07-01"   # transition date
+  mapping_file: "data/raw/acts/ipc_bns_mapping.csv"
+
+generation:
+  model: "gemini-1.5-flash"
+  temperature: 0.1
+  max_output_tokens: 2048
+  require_citations: true
+  verify_citations: true
+
+language:
+  supported: ["en", "te", "hi"]
+  default: "en"
+  glossary_file: "data/glossary/legal_glossary.csv"
+  translate_branch: true      # Branch A: translate query for BM25
+  multilingual_branch: true   # Branch B: embed original for dense
+
+evaluation:
+  gold_set_path: "data/gold_set/gold_queries.json"
+  results_dir: "evaluation/results"
+  top_k_precision: 5
+  top_k_recall: 10
+
+logging:
+  level: "INFO"
+  retrieval_log: true
+  generation_log: true

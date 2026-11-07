@@ -1,0 +1,108 @@
+# NyayaAI Ablation Configurations
+# Each config can be run independently for fair comparison
+
+ablations:
+  bm25_only:
+    description: "BM25 lexical retrieval only, no generation"
+    retrieval:
+      use_bm25: true
+      use_sbert: false
+      use_graph: false
+      use_temporal: false
+    generation:
+      enabled: false
+
+  sbert_only:
+    description: "Dense semantic retrieval only, no generation"
+    retrieval:
+      use_bm25: false
+      use_sbert: true
+      use_graph: false
+      use_temporal: false
+    generation:
+      enabled: false
+
+  hybrid:
+    description: "BM25 + SBERT hybrid, no KG, no generation"
+    retrieval:
+      use_bm25: true
+      use_sbert: true
+      use_graph: false
+      use_temporal: false
+      alpha: 0.5
+    generation:
+      enabled: false
+
+  hybrid_kg:
+    description: "Hybrid retrieval + Knowledge Graph authority reranking"
+    retrieval:
+      use_bm25: true
+      use_sbert: true
+      use_graph: true
+      use_temporal: false
+      alpha: 0.5
+    generation:
+      enabled: false
+
+  hybrid_kg_temporal:
+    description: "Hybrid + KG + temporal statute versioning"
+    retrieval:
+      use_bm25: true
+      use_sbert: true
+      use_graph: true
+      use_temporal: true
+      alpha: 0.5
+    generation:
+      enabled: false
+
+  full_system:
+    description: "Complete NyayaAI pipeline with generation and verification"
+    retrieval:
+      use_bm25: true
+      use_sbert: true
+      use_graph: true
+      use_temporal: true
+      auto_intent: true
+    generation:
+      enabled: true
+      verify_citations: true
+      multilingual: true
+
+  gemini_baseline:
+    description: "Gemini with no retrieval - hallucination baseline"
+    retrieval:
+      use_bm25: false
+      use_sbert: false
+      use_graph: false
+      use_temporal: false
+    generation:
+      enabled: true
+      use_retrieved_context: false  # raw LLM, no RAG
+
+multilingual_ablations:
+  translate_only:
+    description: "Translate query to English, BM25 only, no multilingual embed"
+    language:
+      translate_branch: true
+      multilingual_branch: false
+    retrieval:
+      use_bm25: true
+      use_sbert: false
+
+  multilingual_embed_only:
+    description: "Multilingual embedding only, no translation"
+    language:
+      translate_branch: false
+      multilingual_branch: true
+    retrieval:
+      use_bm25: false
+      use_sbert: true
+
+  combined_multilingual:
+    description: "Full dual-branch: translate for BM25 + multilingual embed for dense"
+    language:
+      translate_branch: true
+      multilingual_branch: true
+    retrieval:
+      use_bm25: true
+      use_sbert: true

@@ -1,0 +1,29 @@
+ipc_act,ipc_section,ipc_title,bns_act,bns_section,bns_title,transition_type,valid_from_ipc,valid_to_ipc,valid_from_bns,notes
+IPC,378,Theft,BNS,303,Theft,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,379,Punishment for theft,BNS,304,Punishment for theft,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,380,Theft in dwelling house etc.,BNS,305,Theft in dwelling house etc.,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,381,Theft by clerk or servant of property in possession of master,BNS,306,Theft by clerk or servant of property in possession of master,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,382,Theft after preparation made for causing death hurt or restraint in order to the committing of theft,BNS,307,Theft after preparation made for causing death hurt or restraint in order to the committing of theft,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,405,Criminal breach of trust,BNS,316,Criminal breach of trust,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,406,Punishment for criminal breach of trust,BNS,317,Punishment for criminal breach of trust,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,415,Cheating,BNS,318,Cheating,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,416,Cheating by personation,BNS,319,Cheating by personation,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,417,Punishment for cheating,BNS,320,Punishment for cheating,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,418,Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect,BNS,321,Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,419,Punishment for cheating by personation,BNS,322,Punishment for cheating by personation,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,420,Cheating and dishonestly inducing delivery of property,BNS,323,Cheating and dishonestly inducing delivery of property,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,300,Murder,BNS,101,Murder,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,302,Punishment for murder,BNS,103,Punishment for murder,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,304,Culpable homicide not amounting to murder,BNS,105,Culpable homicide not amounting to murder,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,299,Culpable homicide,BNS,100,Culpable homicide,mapped,1860-10-06,2024-06-30,2024-07-01,
+CrPC,436,Bail in bailable offences,BNSS,478,Bail in bailable offences,mapped,1974-04-01,2024-06-30,2024-07-01,
+CrPC,437,When bail may be taken in case of non-bailable offence,BNSS,479,When bail may be taken in case of non-bailable offence,mapped,1974-04-01,2024-06-30,2024-07-01,
+CrPC,438,Direction for grant of bail to person apprehending arrest,BNSS,482,Direction for grant of bail to person apprehending arrest,mapped,1974-04-01,2024-06-30,2024-07-01,Section renumbered from 438 to 482 in BNSS
+CrPC,439,Special powers of High Court or Court of Sessions regarding bail,BNSS,483,Special powers of High Court or Court of Sessions regarding bail,mapped,1974-04-01,2024-06-30,2024-07-01,
+CrPC,440,Amount of bail and reduction thereof,BNSS,484,Amount of bail and reduction thereof,mapped,1974-04-01,2024-06-30,2024-07-01,
+CrPC,41,When police may arrest without warrant,BNSS,35,When police may arrest without warrant,mapped,1974-04-01,2024-06-30,2024-07-01,
+CrPC,41A,Notice of appearance before police officer,BNSS,35A,Notice of appearance before police officer,mapped,1974-04-01,2024-06-30,2024-07-01,Codified explicitly in BNSS as 35A
+CrPC,154,Information in cognizable cases (FIR),BNSS,173,Information in cognizable cases (FIR),mapped,1974-04-01,2024-06-30,2024-07-01,
+CrPC,482,Saving of inherent powers of High Court,BNSS,528,Saving of inherent powers of High Court,mapped,1974-04-01,2024-06-30,2024-07-01,
+IEA,3,Definitions - Interpretation clause,BSA,2,Definitions - Interpretation clause,mapped,1872-03-15,2024-06-30,2024-07-01,Indian Evidence Act → Bharatiya Sakshya Adhiniyam
+IEA,45,Opinions of experts,BSA,39,Opinions of experts,mapped,1872-03-15,2024-06-30,2024-07-01,Indian Evidence Act → Bharatiya Sakshya Adhiniyam

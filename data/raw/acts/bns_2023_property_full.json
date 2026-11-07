@@ -1,0 +1,93 @@
+{
+  "act_id": "ACT_BNS_2023",
+  "act_name": "Bharatiya Nyaya Sanhita, 2023",
+  "short_title": "BNS",
+  "year": 2023,
+  "enactment_date": "2023-12-25",
+  "valid_from": "2024-07-01",
+  "jurisdiction": "India",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+  "sections": [
+    {
+      "section_number": "303",
+      "section_title": "Theft",
+      "chapter": "XVII",
+      "section_text": "Whoever, intending to take dishonestly any moveable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.\n\nExplanation 1.—A thing so long as it is attached to the earth, not being moveable property, cannot be the subject of theft; but it becomes capable of being the subject of theft as soon as it is severed from the earth.\n\nExplanation 2.—A moving effected by the same act which effects the severance may be a theft.\n\nExplanation 3.—A person is said to cause a thing to move by removing an obstacle which prevented it from moving or by separating it from any other thing, as well as by actually moving it.\n\nExplanation 4.—A person, who by any means causes an animal to move, is said to move that animal, and to move everything which, in consequence of the motion so caused, is moved by that animal.\n\nExplanation 5.—The consent mentioned in the definition may be express or implied, and may be given either by the person in possession, or by any person having for that purpose authority either express or implied.",
+      "legal_domain": "Criminal Law",
+      "valid_from": "2024-07-01",
+      "ipc_equivalent": "378"
+    },
+    {
+      "section_number": "304",
+      "section_title": "Punishment for theft",
+      "chapter": "XVII",
+      "section_text": "Whoever commits theft shall be punished with rigorous imprisonment for a term which shall not be less than one year but which may extend to three years and with fine, and if the theft is committed in any building, tent or vessel, which building, tent or vessel is used as a human dwelling or for the custody of property, shall be punished with rigorous imprisonment for a term which may extend to seven years and shall also be liable to fine.",
+      "legal_domain": "Criminal Law",
+      "valid_from": "2024-07-01",
+      "ipc_equivalent": "379"
+    },
+    {
+      "section_number": "305",
+      "section_title": "Theft in dwelling house, etc.",
+      "chapter": "XVII",
+      "section_text": "Whoever commits theft in any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or used for the custody of property, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+      "legal_domain": "Criminal Law",
+      "valid_from": "2024-07-01",
+      "ipc_equivalent": "380"
+    },
+    {
+      "section_number": "316",
+      "section_title": "Criminal breach of trust",
+      "chapter": "XVII",
+      "section_text": "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits 'criminal breach of trust'.\n\nExplanation 1.—A person, being an employer of an establishment whether exempted under the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 or not, who deducts the employee's contribution from the wages payable to the employee for credit to a Provident Fund or Family Pension Fund established by any law for the time being in force, shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to said Fund in violation of the said law, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.\n\nExplanation 2.—A person, being an employer, who deducts the employee's contribution from the wages payable to the employee for credit to the Employees' State Insurance Fund held and administered by the Employees' State Insurance Corporation established under the Employees' State Insurance Act, 1948, shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said Act, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.",
+      "legal_domain": "Criminal Law",
+      "valid_from": "2024-07-01",
+      "ipc_equivalent": "405"
+    },
+    {
+      "section_number": "317",
+      "section_title": "Punishment for criminal breach of trust",
+      "chapter": "XVII",
+      "section_text": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to seven years, and shall also be liable to fine.\n\nProvided that in case of criminal breach of trust by a carrier, wharfinger or warehouse-keeper under sub-section (1) of section 316 of this Sanhita, the punishment shall be imprisonment of either description for a term which may extend to two years, with or without fine.",
+      "legal_domain": "Criminal Law",
+      "valid_from": "2024-07-01",
+      "ipc_equivalent": "406"
+    },
+    {
+      "section_number": "318",
+      "section_title": "Cheating",
+      "chapter": "XVII",
+      "section_text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to 'cheat'.\n\nExplanation.—A dishonest concealment of facts is a deception within the meaning of this section.",
+      "legal_domain": "Criminal Law",
+      "valid_from": "2024-07-01",
+      "ipc_equivalent": "415"
+    },
+    {
+      "section_number": "319",
+      "section_title": "Cheating by personation",
+      "chapter": "XVII",
+      "section_text": "A person is said to 'cheat by personation' if he cheats by pretending to be some other person, or by knowingly substituting one person for another, or representing that he or any other person is a person other than he or such other person really is.\n\nExplanation.—The offence is committed whether the individual personated is a real or imaginary person.",
+      "legal_domain": "Criminal Law",
+      "valid_from": "2024-07-01",
+      "ipc_equivalent": "416"
+    },
+    {
+      "section_number": "320",
+      "section_title": "Punishment for cheating",
+      "chapter": "XVII",
+      "section_text": "Whoever cheats shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "legal_domain": "Criminal Law",
+      "valid_from": "2024-07-01",
+      "ipc_equivalent": "417"
+    },
+    {
+      "section_number": "323",
+      "section_title": "Cheating and dishonestly inducing delivery of property",
+      "chapter": "XVII",
+      "section_text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "legal_domain": "Criminal Law",
+      "valid_from": "2024-07-01",
+      "ipc_equivalent": "420"
+    }
+  ]
+}

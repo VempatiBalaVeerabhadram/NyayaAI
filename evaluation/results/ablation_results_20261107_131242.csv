@@ -1,0 +1,6 @@
+config_name,num_queries,avg_precision_at5,avg_recall_at10,avg_mrr,avg_ndcg_at10,avg_citation_accuracy,avg_hallucination_rate,temporal_correctness
+bm25_only,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+sbert_only,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+hybrid,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+hybrid_kg,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+hybrid_kg_temporal,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0

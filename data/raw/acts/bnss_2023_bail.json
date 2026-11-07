@@ -1,0 +1,18 @@
+{
+  "act_id": "ACT_BNSS_2023",
+  "act_name": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+  "short_title": "BNSS",
+  "year": 2023,
+  "enactment_date": "2023-12-25",
+  "jurisdiction": "India",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/21808",
+  "sections": [
+    {
+      "section_number": "482",
+      "section_title": "Direction for grant of bail to person apprehending arrest",
+      "chapter": "XXXV",
+      "section_text": "(1) Where any person has reason to believe that he may be arrested on accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest he shall be released on bail; and that Court may, after taking into consideration, inter alia, the following factors, namely:— (i) the nature and gravity of the accusation; (ii) the antecedents of the applicant including the fact as to whether he has previously undergone imprisonment on conviction by a Court in respect of any cognizable offence; (iii) the possibility of the applicant to flee from justice; and (iv) where the accusation has been made with the object of injuring or humiliating the applicant by having him so arrested, either reject the application forthwith or issue an interim order for the grant of anticipatory bail.",
+      "legal_domain": "Criminal Law"
+    }
+  ]
+}

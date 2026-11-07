@@ -1,0 +1,39 @@
+{
+  "act_id": "ACT_CRPC_1973",
+  "act_name": "Code of Criminal Procedure, 1973",
+  "short_title": "CrPC",
+  "year": 1973,
+  "enactment_date": "1974-01-25",
+  "jurisdiction": "India",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+  "sections": [
+    {
+      "section_number": "436",
+      "section_title": "In what cases bail to be taken",
+      "chapter": "XXXIII",
+      "section_text": "When any person other than a person accused of a non-bailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, and is prepared at any time while in the custody of such officer or at any stage of the proceeding before such Court to give bail, such person shall be released on bail: Provided that such officer or Court, if he or it thinks fit, may, and shall, if such person is indigent and is unable to furnish surety, instead of taking bail from such person, discharge him on his executing a bond without sureties for his appearance as hereinafter provided.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "437",
+      "section_title": "When bail may be taken in case of non-bailable offence",
+      "chapter": "XXXIII",
+      "section_text": "When any person accused of, or suspected of, the commission of any non-bailable offence is arrested or detained without warrant by an officer in charge of a police station or appears or is brought before a Court other than the High Court or Court of Session, he may be released on bail, but— (i) such person shall not be so released if there appear reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life; (ii) such person shall not be so released if such offence is a cognizable offence and he had been previously convicted of an offence punishable with death, imprisonment for life or imprisonment for seven years or more, or he had been previously convicted on two or more occasions of a cognizable offence punishable with imprisonment for three years or more but not less than seven years.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "438",
+      "section_title": "Direction for grant of bail to person apprehending arrest",
+      "chapter": "XXXIII",
+      "section_text": "(1) Where any person has reason to believe that he may be arrested on accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest he shall be released on bail; and that Court may, after taking into consideration, inter alia, the following factors, namely:— (i) the nature and gravity of the accusation; (ii) the antecedents of the applicant including the fact as to whether he has previously undergone imprisonment on conviction by a Court in respect of any cognizable offence; (iii) the possibility of the applicant to flee from justice; and (iv) where the accusation has been made with the object of injuring or humiliating the applicant by having him so arrested, either reject the application forthwith or issue an interim order for the grant of anticipatory bail.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "439",
+      "section_title": "Special powers of High Court or Court of Session regarding bail",
+      "chapter": "XXXIII",
+      "section_text": "(1) A High Court or Court of Session may direct— (a) that any person accused of an offence and in custody be released on bail, and if the offence is of the nature specified in sub-section (3) of section 437, may impose any condition which it considers necessary for the purposes mentioned in that sub-section; (b) that any condition imposed by a Magistrate when releasing any person on bail be set aside or modified.",
+      "legal_domain": "Criminal Law"
+    }
+  ]
+}

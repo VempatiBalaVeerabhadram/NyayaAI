@@ -1,0 +1,63 @@
+english,telugu,hindi,domain,reviewed_by
+bail,బెయిల్,जमानत,criminal,PLACEHOLDER
+anticipatory bail,ముందస్తు జామీను,अग्रिम जमानत,criminal,PLACEHOLDER
+arrest,అరెస్టు,गिरफ्तारी,criminal,PLACEHOLDER
+accused,నిందితుడు,आरोपी,criminal,PLACEHOLDER
+complainant,ఫిర్యాదీ,शिकायतकर्ता,criminal,PLACEHOLDER
+theft,దొంగతనం,चोरी,criminal,PLACEHOLDER
+cheating,మోసం,धोखाधड़ी,criminal,PLACEHOLDER
+murder,హత్య,हत्या,criminal,PLACEHOLDER
+culpable homicide,దోషపూరిత హత్య,गैर इरादतन हत्या,criminal,PLACEHOLDER
+section,సెక్షన్,धारा,general,PLACEHOLDER
+act,చట్టం,अधिनियम,general,PLACEHOLDER
+court,న్యాయస్థానం,न्यायालय,general,PLACEHOLDER
+judge,న్యాయమూర్తి,न्यायाधीश,general,PLACEHOLDER
+judgment,తీర్పు,निर्णय,general,PLACEHOLDER
+FIR,ఫస్ట్ ఇన్ఫర్మేషన్ రిపోర్ట్,प्रथम सूचना रिपोर्ट,criminal,PLACEHOLDER
+evidence,సాక్ష్యం,साक्ष्य,general,PLACEHOLDER
+witness,సాక్షి,गवाह,general,PLACEHOLDER
+prosecution,ప్రాసిక్యూషన్,अभियोजन,criminal,PLACEHOLDER
+defence,బాధితుల తరఫు,बचाव,criminal,PLACEHOLDER
+sentence,శిక్ష,सज़ा,criminal,PLACEHOLDER
+fine,జరిమానా,जुर्माना,criminal,PLACEHOLDER
+imprisonment,కారాగార శిక్ష,कारावास,criminal,PLACEHOLDER
+acquittal,నిర్దోషిగా విడుదల,बरी,criminal,PLACEHOLDER
+conviction,శిక్ష విధింపు,दोषसिद्धि,criminal,PLACEHOLDER
+appeal,అప్పీలు,अपील,general,PLACEHOLDER
+petition,పిటిషన్,याचिका,general,PLACEHOLDER
+writ,రిట్,रिट,general,PLACEHOLDER
+habeas corpus,హేబియస్ కార్పస్,बंदी प्रत्यक्षीकरण,constitutional,PLACEHOLDER
+fundamental rights,ప్రాథమిక హక్కులు,मौलिक अधिकार,constitutional,PLACEHOLDER
+personal liberty,వ్యక్తిగత స్వేచ్ఛ,व्यक्तिगत स्वतंत्रता,constitutional,PLACEHOLDER
+breach of trust,నమ్మకద్రోహం,विश्वासघात,criminal,PLACEHOLDER
+fraud,మోసం,धोखाधड़ी,criminal,PLACEHOLDER
+cognizable offence,సంజ్ఞేయ నేరం,संज्ञेय अपराध,criminal,PLACEHOLDER
+non-cognizable offence,అసంజ్ఞేయ నేరం,असंज्ञेय अपराध,criminal,PLACEHOLDER
+bailable offence,జామీను లభించే నేరం,जमानती अपराध,criminal,PLACEHOLDER
+non-bailable offence,జామీను లభించని నేరం,गैर जमानती अपराध,criminal,PLACEHOLDER
+chargesheet,చార్జిషీట్,चार्जशीट,criminal,PLACEHOLDER
+remand,రిమాండ్,रिमांड,criminal,PLACEHOLDER
+custody,నిర్బంధం,हिरासत,criminal,PLACEHOLDER
+police,పోలీస్,पुलिस,criminal,PLACEHOLDER
+magistrate,మేజిస్ట్రేట్,मजिस्ट्रेट,criminal,PLACEHOLDER
+sessions court,సెషన్స్ కోర్టు,सत्र न्यायालय,general,PLACEHOLDER
+high court,హైకోర్టు,उच्च न्यायालय,general,PLACEHOLDER
+supreme court,సుప్రీం కోర్టు,सर्वोच्च न्यायालय,general,PLACEHOLDER
+quash,రద్దు చేయు,रद्द करना,criminal,PLACEHOLDER
+injunction,నిషేధాజ్ఞ,निषेधाज्ञा,civil,PLACEHOLDER
+surety,ఆధారం,ज़मानदार,criminal,PLACEHOLDER
+undertrial,విచారణలో నిందితుడు,विचाराधीन कैदी,criminal,PLACEHOLDER
+parole,పెరోల్,पैरोल,criminal,PLACEHOLDER
+juvenile,బాల నేరస్థుడు,किशोर,criminal,PLACEHOLDER
+offence,నేరం,अपराध,criminal,PLACEHOLDER
+penalty,శిక్ష,दंड,criminal,PLACEHOLDER
+complaint,ఫిర్యాదు,शिकायत,criminal,PLACEHOLDER
+investigation,దర్యాప్తు,जांच,criminal,PLACEHOLDER
+charge,ఆరోపణ,आरोप,criminal,PLACEHOLDER
+confession,ఒప్పుకోలు,इकबालिया बयान,criminal,PLACEHOLDER
+deposition,నిధి వాచకం,जमानती,criminal,PLACEHOLDER
+cross-examination,క్రాస్ ఎగ్జామినేషన్,जिरह,general,PLACEHOLDER
+precedent,తీర్పు ఆధారం,नज़ीर,general,PLACEHOLDER
+ratio decidendi,నిర్ణయ సూత్రం,विनिश्चय का कारण,general,PLACEHOLDER
+obiter dictum,అనుషంగిక వ్యాఖ్య,परिधीय टिप्पणी,general,PLACEHOLDER
+

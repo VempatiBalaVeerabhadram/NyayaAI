@@ -1,0 +1,116 @@
+{
+  "act_id": "ACT_IPC_1860",
+  "act_name": "Indian Penal Code, 1860",
+  "short_title": "IPC",
+  "year": 1860,
+  "enactment_date": "1860-10-06",
+  "jurisdiction": "India",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+  "sections": [
+    {
+      "section_number": "299",
+      "section_title": "Culpable homicide",
+      "chapter": "XVI",
+      "section_text": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "300",
+      "section_title": "Murder",
+      "chapter": "XVI",
+      "section_text": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or secondly, if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or thirdly, if it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death, or fourthly, if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "302",
+      "section_title": "Punishment for murder",
+      "chapter": "XVI",
+      "section_text": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "304",
+      "section_title": "Punishment for culpable homicide not amounting to murder",
+      "chapter": "XVI",
+      "section_text": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or with imprisonment of either description for a term which may extend to ten years, or with fine, or with both, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "378",
+      "section_title": "Theft",
+      "chapter": "XVII",
+      "section_text": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft. Explanation 1.—A thing so long as it is attached to the earth, not being movable property, is not the subject of theft; but it becomes capable of being the subject of theft as soon as it is severed from the earth. Explanation 2.—A moving effected by the same act which affects the severance may be a theft. Explanation 3.—A person is said to cause a thing to move by removing an obstacle which prevented it from moving or by separating it from any other thing, as well as by actually moving it. Explanation 4.—A person who by any means causes an animal to move, is said to move that animal, and to move everything which, in consequence of the motion so caused, is moved by that animal. Explanation 5.—The consent mentioned in the definition may be express or implied, and may be given either by the person in possession, or by any person having for that purpose authority either express or implied.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "379",
+      "section_title": "Punishment for theft",
+      "chapter": "XVII",
+      "section_text": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "380",
+      "section_title": "Theft in dwelling house, etc.",
+      "chapter": "XVII",
+      "section_text": "Whoever commits theft in any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or used for the custody of property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "381",
+      "section_title": "Theft by clerk or servant of property in possession of master",
+      "chapter": "XVII",
+      "section_text": "Whoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property in the possession of his master or employer, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "382",
+      "section_title": "Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft",
+      "chapter": "XVII",
+      "section_text": "Whoever commits theft, having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person, in order to the committing of such theft, or in order to the effecting of his escape after the committing of such theft, or in order to the retaining of property taken by such theft, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "405",
+      "section_title": "Criminal breach of trust",
+      "chapter": "XVII",
+      "section_text": "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits 'criminal breach of trust'.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "406",
+      "section_title": "Punishment for criminal breach of trust",
+      "chapter": "XVII",
+      "section_text": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "415",
+      "section_title": "Cheating",
+      "chapter": "XVII",
+      "section_text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to 'cheat'.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "416",
+      "section_title": "Cheating by personation",
+      "chapter": "XVII",
+      "section_text": "A person is said to 'cheat by personation' if he cheats by pretending to be some other person, or by knowingly substituting one person for another, or representing that he or any other person is a person other than he or such other person really is.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "417",
+      "section_title": "Punishment for cheating",
+      "chapter": "XVII",
+      "section_text": "Whoever commits cheating shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "legal_domain": "Criminal Law"
+    },
+    {
+      "section_number": "420",
+      "section_title": "Cheating and dishonestly inducing delivery of property",
+      "chapter": "XVII",
+      "section_text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "legal_domain": "Criminal Law"
+    }
+  ]
+}
