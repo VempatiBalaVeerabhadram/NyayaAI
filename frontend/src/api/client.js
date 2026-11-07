@@ -22,7 +22,15 @@ export const api = {
   // 1. RAG AI Query (Dual Mode)
   async queryLegalAI(params) {
     try {
-      const response = await aiClient.post('/ai/query', params);
+      const payload = {
+        query: params.query,
+        mode: params.mode || params.user_mode || 'researcher',
+        top_k: params.top_k || 5,
+        alpha: params.alpha !== undefined ? parseFloat(params.alpha) : 0.5,
+        graph_expansion_depth: params.graph_expansion_depth || (params.depth ? parseInt(params.depth, 10) : 1),
+        legal_domain: params.legal_domain || params.domain_filter || null,
+      };
+      const response = await aiClient.post('/ai/query', payload);
       return { success: true, data: response.data };
     } catch (err) {
       console.error('Legal AI query failed:', err);
