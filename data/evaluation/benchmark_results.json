@@ -1,0 +1,459 @@
+{
+  "num_queries": 8,
+  "mean_metrics": {
+    "BM25_Lexical": {
+      "P@1": 0.125,
+      "P@3": 0.25,
+      "P@5": 0.25,
+      "R@5": 0.3646,
+      "R@10": 0.4271,
+      "MRR": 0.4688,
+      "MAP@10": 0.2331,
+      "NDCG@5": 0.3271,
+      "NDCG@10": 0.3599
+    },
+    "Dense_Semantic": {
+      "P@1": 0.5,
+      "P@3": 0.3333,
+      "P@5": 0.225,
+      "R@5": 0.3333,
+      "R@10": 0.3646,
+      "MRR": 0.6042,
+      "MAP@10": 0.251,
+      "NDCG@5": 0.3554,
+      "NDCG@10": 0.3695
+    },
+    "Convex_Hybrid": {
+      "P@1": 0.125,
+      "P@3": 0.2083,
+      "P@5": 0.25,
+      "R@5": 0.3646,
+      "R@10": 0.4688,
+      "MRR": 0.4375,
+      "MAP@10": 0.231,
+      "NDCG@5": 0.3153,
+      "NDCG@10": 0.3651
+    },
+    "Graph_Enhanced_Hybrid": {
+      "P@1": 0.25,
+      "P@3": 0.3333,
+      "P@5": 0.275,
+      "R@5": 0.3958,
+      "R@10": 0.5,
+      "MRR": 0.5139,
+      "MAP@10": 0.3129,
+      "NDCG@5": 0.3771,
+      "NDCG@10": 0.4262
+    }
+  },
+  "per_query_results": [
+    {
+      "query_id": "Q01",
+      "query": "anticipatory bail guidelines and conditions for grant under CrPC section 438 and BNSS section 482",
+      "category": "Bail & Personal Liberty",
+      "metrics": {
+        "BM25_Lexical": {
+          "P@1": 0.0,
+          "P@3": 0.0,
+          "P@5": 0.2,
+          "R@5": 0.25,
+          "R@10": 0.25,
+          "MRR": 0.25,
+          "MAP@10": 0.0625,
+          "NDCG@5": 0.1681,
+          "NDCG@10": 0.1681
+        },
+        "Dense_Semantic": {
+          "P@1": 0.0,
+          "P@3": 0.0,
+          "P@5": 0.0,
+          "R@5": 0.0,
+          "R@10": 0.0,
+          "MRR": 0.0,
+          "MAP@10": 0.0,
+          "NDCG@5": 0.0,
+          "NDCG@10": 0.0
+        },
+        "Convex_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.0,
+          "P@5": 0.2,
+          "R@5": 0.25,
+          "R@10": 0.25,
+          "MRR": 0.25,
+          "MAP@10": 0.0625,
+          "NDCG@5": 0.1681,
+          "NDCG@10": 0.1681
+        },
+        "Graph_Enhanced_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.0,
+          "P@5": 0.0,
+          "R@5": 0.0,
+          "R@10": 0.25,
+          "MRR": 0.1111,
+          "MAP@10": 0.0278,
+          "NDCG@5": 0.0,
+          "NDCG@10": 0.1175
+        }
+      }
+    },
+    {
+      "query_id": "Q02",
+      "query": "mandatory guidelines to prevent unnecessary arrest by police and section 41A notice",
+      "category": "Arrest & Police Procedure",
+      "metrics": {
+        "BM25_Lexical": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.5,
+          "MRR": 0.5,
+          "MAP@10": 0.25,
+          "NDCG@5": 0.4144,
+          "NDCG@10": 0.4144
+        },
+        "Dense_Semantic": {
+          "P@1": 1.0,
+          "P@3": 0.6667,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.5,
+          "MRR": 1.0,
+          "MAP@10": 0.4167,
+          "NDCG@5": 0.5856,
+          "NDCG@10": 0.5856
+        },
+        "Convex_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.5,
+          "MRR": 0.5,
+          "MAP@10": 0.25,
+          "NDCG@5": 0.4144,
+          "NDCG@10": 0.4144
+        },
+        "Graph_Enhanced_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.5,
+          "MRR": 0.5,
+          "MAP@10": 0.25,
+          "NDCG@5": 0.4144,
+          "NDCG@10": 0.4144
+        }
+      }
+    },
+    {
+      "query_id": "Q03",
+      "query": "unconstitutionality of section 66A Information Technology Act freedom of speech article 19",
+      "category": "Cyber & Constitutional Law",
+      "metrics": {
+        "BM25_Lexical": {
+          "P@1": 1.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.5,
+          "R@10": 0.5,
+          "MRR": 1.0,
+          "MAP@10": 0.5,
+          "NDCG@5": 0.6131,
+          "NDCG@10": 0.6131
+        },
+        "Dense_Semantic": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.5,
+          "R@10": 0.5,
+          "MRR": 0.5,
+          "MAP@10": 0.25,
+          "NDCG@5": 0.3869,
+          "NDCG@10": 0.3869
+        },
+        "Convex_Hybrid": {
+          "P@1": 1.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.5,
+          "R@10": 0.5,
+          "MRR": 1.0,
+          "MAP@10": 0.5,
+          "NDCG@5": 0.6131,
+          "NDCG@10": 0.6131
+        },
+        "Graph_Enhanced_Hybrid": {
+          "P@1": 1.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.5,
+          "R@10": 0.5,
+          "MRR": 1.0,
+          "MAP@10": 0.5,
+          "NDCG@5": 0.6131,
+          "NDCG@10": 0.6131
+        }
+      }
+    },
+    {
+      "query_id": "Q04",
+      "query": "principles for quashing of FIR and criminal proceedings under inherent powers of High Court section 482",
+      "category": "Criminal Procedure & Quashing",
+      "metrics": {
+        "BM25_Lexical": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.75,
+          "MRR": 0.5,
+          "MAP@10": 0.3438,
+          "NDCG@5": 0.4144,
+          "NDCG@10": 0.5376
+        },
+        "Dense_Semantic": {
+          "P@1": 1.0,
+          "P@3": 0.6667,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.5,
+          "MRR": 1.0,
+          "MAP@10": 0.4167,
+          "NDCG@5": 0.5856,
+          "NDCG@10": 0.5856
+        },
+        "Convex_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.75,
+          "MRR": 0.5,
+          "MAP@10": 0.375,
+          "NDCG@5": 0.4144,
+          "NDCG@10": 0.5535
+        },
+        "Graph_Enhanced_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.75,
+          "MRR": 0.5,
+          "MAP@10": 0.375,
+          "NDCG@5": 0.4144,
+          "NDCG@10": 0.5535
+        }
+      }
+    },
+    {
+      "query_id": "Q05",
+      "query": "cheating and dishonestly inducing delivery of property ingredients of offence section 420 IPC and BNS 318",
+      "category": "Substantive Criminal Law",
+      "metrics": {
+        "BM25_Lexical": {
+          "P@1": 0.0,
+          "P@3": 0.0,
+          "P@5": 0.0,
+          "R@5": 0.0,
+          "R@10": 0.0,
+          "MRR": 0.0,
+          "MAP@10": 0.0,
+          "NDCG@5": 0.0,
+          "NDCG@10": 0.0
+        },
+        "Dense_Semantic": {
+          "P@1": 0.0,
+          "P@3": 0.0,
+          "P@5": 0.0,
+          "R@5": 0.0,
+          "R@10": 0.0,
+          "MRR": 0.0,
+          "MAP@10": 0.0,
+          "NDCG@5": 0.0,
+          "NDCG@10": 0.0
+        },
+        "Convex_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.0,
+          "P@5": 0.0,
+          "R@5": 0.0,
+          "R@10": 0.0,
+          "MRR": 0.0,
+          "MAP@10": 0.0,
+          "NDCG@5": 0.0,
+          "NDCG@10": 0.0
+        },
+        "Graph_Enhanced_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.0,
+          "P@5": 0.0,
+          "R@5": 0.0,
+          "R@10": 0.0,
+          "MRR": 0.0,
+          "MAP@10": 0.0,
+          "NDCG@5": 0.0,
+          "NDCG@10": 0.0
+        }
+      }
+    },
+    {
+      "query_id": "Q06",
+      "query": "grant of regular bail in economic offences and prolonged incarceration as violation of article 21",
+      "category": "Bail & Personal Liberty",
+      "metrics": {
+        "BM25_Lexical": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.75,
+          "MRR": 0.5,
+          "MAP@10": 0.375,
+          "NDCG@5": 0.4144,
+          "NDCG@10": 0.5535
+        },
+        "Dense_Semantic": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.75,
+          "MRR": 0.3333,
+          "MAP@10": 0.2583,
+          "NDCG@5": 0.3462,
+          "NDCG@10": 0.4591
+        },
+        "Convex_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.4,
+          "R@5": 0.5,
+          "R@10": 0.75,
+          "MRR": 0.5,
+          "MAP@10": 0.3438,
+          "NDCG@5": 0.4144,
+          "NDCG@10": 0.5376
+        },
+        "Graph_Enhanced_Hybrid": {
+          "P@1": 1.0,
+          "P@3": 1.0,
+          "P@5": 0.8,
+          "R@5": 1.0,
+          "R@10": 1.0,
+          "MRR": 1.0,
+          "MAP@10": 0.95,
+          "NDCG@5": 0.9829,
+          "NDCG@10": 0.9829
+        }
+      }
+    },
+    {
+      "query_id": "Q07",
+      "query": "mandatory registration of FIR in cognizable offences and preliminary enquiry exceptions",
+      "category": "Criminal Procedure & Investigation",
+      "metrics": {
+        "BM25_Lexical": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.3333,
+          "R@10": 0.3333,
+          "MRR": 0.5,
+          "MAP@10": 0.1667,
+          "NDCG@5": 0.2961,
+          "NDCG@10": 0.2961
+        },
+        "Dense_Semantic": {
+          "P@1": 1.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.3333,
+          "R@10": 0.3333,
+          "MRR": 1.0,
+          "MAP@10": 0.3333,
+          "NDCG@5": 0.4693,
+          "NDCG@10": 0.4693
+        },
+        "Convex_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.3333,
+          "R@10": 0.3333,
+          "MRR": 0.5,
+          "MAP@10": 0.1667,
+          "NDCG@5": 0.2961,
+          "NDCG@10": 0.2961
+        },
+        "Graph_Enhanced_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.3333,
+          "R@10": 0.3333,
+          "MRR": 0.5,
+          "MAP@10": 0.1667,
+          "NDCG@5": 0.2961,
+          "NDCG@10": 0.2961
+        }
+      }
+    },
+    {
+      "query_id": "Q08",
+      "query": "twin conditions for bail under Prevention of Money Laundering Act section 45",
+      "category": "Special Economic Statutes",
+      "metrics": {
+        "BM25_Lexical": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.3333,
+          "R@10": 0.3333,
+          "MRR": 0.5,
+          "MAP@10": 0.1667,
+          "NDCG@5": 0.2961,
+          "NDCG@10": 0.2961
+        },
+        "Dense_Semantic": {
+          "P@1": 1.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.3333,
+          "R@10": 0.3333,
+          "MRR": 1.0,
+          "MAP@10": 0.3333,
+          "NDCG@5": 0.4693,
+          "NDCG@10": 0.4693
+        },
+        "Convex_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.0,
+          "P@5": 0.2,
+          "R@5": 0.3333,
+          "R@10": 0.6667,
+          "MRR": 0.25,
+          "MAP@10": 0.15,
+          "NDCG@5": 0.2021,
+          "NDCG@10": 0.3378
+        },
+        "Graph_Enhanced_Hybrid": {
+          "P@1": 0.0,
+          "P@3": 0.3333,
+          "P@5": 0.2,
+          "R@5": 0.3333,
+          "R@10": 0.6667,
+          "MRR": 0.5,
+          "MAP@10": 0.2333,
+          "NDCG@5": 0.2961,
+          "NDCG@10": 0.4317
+        }
+      }
+    }
+  ]
+}

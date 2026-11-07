@@ -1,0 +1,84 @@
+[
+  {
+    "query_id": "Q01",
+    "query": "anticipatory bail guidelines and conditions for grant under CrPC section 438 and BNSS section 482",
+    "category": "Bail & Personal Liberty",
+    "relevant_doc_ids": [
+      "DOC_SC_2020_SUSHILA_AGGARWAL",
+      "DOC_SC_1980_GURBAKSH_SINGH_SIBBIA",
+      "ACT_CRPC_1973_BAIL_PROVISIONS",
+      "ACT_BNSS_2023_BAIL_PROVISIONS"
+    ]
+  },
+  {
+    "query_id": "Q02",
+    "query": "mandatory guidelines to prevent unnecessary arrest by police and section 41A notice",
+    "category": "Arrest & Police Procedure",
+    "relevant_doc_ids": [
+      "DOC_SC_2014_ARNESH_KUMAR",
+      "DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+      "ACT_CRPC_1973_BAIL_PROVISIONS",
+      "ACT_BNSS_2023_BAIL_PROVISIONS"
+    ]
+  },
+  {
+    "query_id": "Q03",
+    "query": "unconstitutionality of section 66A Information Technology Act freedom of speech article 19",
+    "category": "Cyber & Constitutional Law",
+    "relevant_doc_ids": [
+      "DOC_SC_2015_SHREYA_SINGHAL",
+      "ACT_IT_2000_CYBER_OFFENCES"
+    ]
+  },
+  {
+    "query_id": "Q04",
+    "query": "principles for quashing of FIR and criminal proceedings under inherent powers of High Court section 482",
+    "category": "Criminal Procedure & Quashing",
+    "relevant_doc_ids": [
+      "DOC_SC_1992_BHAJAN_LAL",
+      "DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+      "DOC_SC_2012_GIAN_SINGH",
+      "ACT_CRPC_1973_BAIL_PROVISIONS"
+    ]
+  },
+  {
+    "query_id": "Q05",
+    "query": "cheating and dishonestly inducing delivery of property ingredients of offence section 420 IPC and BNS 318",
+    "category": "Substantive Criminal Law",
+    "relevant_doc_ids": [
+      "ACT_IPC_1860_OFFENCES",
+      "ACT_BNS_2023_OFFENCES"
+    ]
+  },
+  {
+    "query_id": "Q06",
+    "query": "grant of regular bail in economic offences and prolonged incarceration as violation of article 21",
+    "category": "Bail & Personal Liberty",
+    "relevant_doc_ids": [
+      "DOC_SC_2012_SANJAY_CHANDRA",
+      "DOC_SC_2023_MANISH_SISODIA",
+      "DOC_SC_2018_DATARAM_SINGH",
+      "DOC_SC_2022_SATENDER_KUMAR_ANTIL"
+    ]
+  },
+  {
+    "query_id": "Q07",
+    "query": "mandatory registration of FIR in cognizable offences and preliminary enquiry exceptions",
+    "category": "Criminal Procedure & Investigation",
+    "relevant_doc_ids": [
+      "DOC_SC_2014_LALITA_KUMARI",
+      "ACT_CRPC_1973_BAIL_PROVISIONS",
+      "ACT_BNSS_2023_BAIL_PROVISIONS"
+    ]
+  },
+  {
+    "query_id": "Q08",
+    "query": "twin conditions for bail under Prevention of Money Laundering Act section 45",
+    "category": "Special Economic Statutes",
+    "relevant_doc_ids": [
+      "DOC_SC_2022_VIJAY_MADANLAL_CHOUDHARY",
+      "DOC_SC_2019_P_CHIDAMBARAM",
+      "DOC_SC_2023_MANISH_SISODIA"
+    ]
+  }
+]
