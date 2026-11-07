@@ -27,3 +27,18 @@ CrPC,154,Information in cognizable cases (FIR),BNSS,173,Information in cognizabl
 CrPC,482,Saving of inherent powers of High Court,BNSS,528,Saving of inherent powers of High Court,mapped,1974-04-01,2024-06-30,2024-07-01,
 IEA,3,Definitions - Interpretation clause,BSA,2,Definitions - Interpretation clause,mapped,1872-03-15,2024-06-30,2024-07-01,Indian Evidence Act → Bharatiya Sakshya Adhiniyam
 IEA,45,Opinions of experts,BSA,39,Opinions of experts,mapped,1872-03-15,2024-06-30,2024-07-01,Indian Evidence Act → Bharatiya Sakshya Adhiniyam
+IPC,34,Acts done by several persons in furtherance of common intention,BNS,3(5),Joint liability in furtherance of common intention,mapped,1860-10-06,2024-06-30,2024-07-01,Section 34 IPC renumbered as Section 3(5) in BNS
+IPC,120B,Punishment of criminal conspiracy,BNS,61,Criminal conspiracy,mapped,1860-10-06,2024-06-30,2024-07-01,Criminal conspiracy renumbered to Section 61 in BNS
+IPC,149,Every member of unlawful assembly guilty of offence committed in prosecution of common object,BNS,190,Liability of members of unlawful assembly,mapped,1860-10-06,2024-06-30,2024-07-01,Section 149 IPC renumbered as Section 190 in BNS
+IPC,304A,Causing death by negligence,BNS,106,Causing death by negligence,mapped,1860-10-06,2024-06-30,2024-07-01,Section 304A IPC renumbered as Section 106 in BNS
+IPC,304B,Dowry death,BNS,80,Dowry death,mapped,1860-10-06,2024-06-30,2024-07-01,Dowry death transferred to Chapter V of BNS as Section 80
+IPC,375,Rape,BNS,63,Rape,mapped,1860-10-06,2024-06-30,2024-07-01,Definition of rape relocated to Section 63 of BNS
+IPC,376,Punishment for rape,BNS,64,Punishment for rape,mapped,1860-10-06,2024-06-30,2024-07-01,Punishment for rape relocated to Section 64 of BNS
+IPC,376D,Gang rape,BNS,70,Gang rape,mapped,1860-10-06,2024-06-30,2024-07-01,Gang rape relocated to Section 70 of BNS
+IPC,463,Forgery,BNS,336,Forgery,mapped,1860-10-06,2024-06-30,2024-07-01,Forgery definition relocated to Section 336 in BNS
+IPC,468,Forgery for purpose of cheating,BNS,338,Forgery for purpose of cheating,mapped,1860-10-06,2024-06-30,2024-07-01,Renumbered in BNS
+IPC,471,Using as genuine a forged document,BNS,340,Using as genuine a forged document,mapped,1860-10-06,2024-06-30,2024-07-01,Renumbered in BNS
+IPC,498A,Husband or relative of husband of a woman subjecting her to cruelty,BNS,85,Husband or relative of husband subjecting woman to cruelty,mapped,1860-10-06,2024-06-30,2024-07-01,Section 498A IPC relocated to Section 85 of BNS
+IPC,499,Defamation,BNS,356,Defamation,mapped,1860-10-06,2024-06-30,2024-07-01,Defamation relocated to Section 356 with community service option
+IPC,500,Punishment for defamation,BNS,356(2),Punishment for defamation,mapped,1860-10-06,2024-06-30,2024-07-01,
+IPC,511,Punishment for attempting to commit offences,BNS,62,Punishment for attempting to commit offences,mapped,1860-10-06,2024-06-30,2024-07-01,General attempt provision renumbered as Section 62 in BNS

@@ -1,0 +1,26 @@
+{
+  "document_id": "DOC_SC_2019_P_CHIDAMBARAM",
+  "document_type": "judgment",
+  "case_id": "CASE_2019_SC_P_CHIDAMBARAM",
+  "case_name": "P. Chidambaram v. Directorate of Enforcement",
+  "court": "Supreme Court of India",
+  "judgment_date": "2019-09-05",
+  "judges": ["R. Banumathi", "A.S. Bopanna"],
+  "case_number": "Criminal Appeal No. 1340 of 2019",
+  "legal_domain": "Criminal Law",
+  "acts": ["Code of Criminal Procedure, 1973", "Prevention of Money Laundering Act, 2002", "Indian Penal Code, 1860"],
+  "sections": ["438", "420", "120B"],
+  "citations": ["(2019) 9 SCC 24", "2019 SCC OnLine SC 1143"],
+  "source_url": "https://main.sci.gov.in/supremecourt/2019/29676/29676_2019_10_1501_16616_Judgement_05-Sep-2019.pdf",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "IN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCriminal Appeal No. 1340 of 2019\nP. Chidambaram ... Appellant\nversus\nDirectorate of Enforcement ... Respondent\nCoram: R. Banumathi and A.S. Bopanna, JJ.\nJudgment Dated: 05 September, 2019\n\nR. BANUMATHI, J.:\n1. This appeal arises out of the order passed by the High Court of Delhi refusing to grant anticipatory bail to the appellant in respect of offences alleged under the Prevention of Money Laundering Act, 2002 and Section 420 of the Indian Penal Code, 1860."
+    },
+    {
+      "page_number": 2,
+      "text": "19. The grant of anticipatory bail in economic offences stands on a different footing. Economic offences have deep-rooted conspiracies involving huge loss of public funds. Anticipatory bail is not to be granted as a matter of rule in cases where custodial interrogation of the accused is necessary to unearth the money trail and unravel complex illicit transactions.\n\n20. The discretion under Section 438 of the Code of Criminal Procedure is extraordinary in character and must be exercised with caution, particularly where granting protection may impede a fair and effective investigation."
+    }
+  ]
+}

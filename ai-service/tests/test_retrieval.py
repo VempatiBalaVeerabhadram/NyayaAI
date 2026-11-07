@@ -19,7 +19,9 @@ from app.retrieval.hybrid_retriever import LegalHybridRetriever
 @pytest.fixture(scope="module")
 def embedding_service():
     service = EmbeddingService()
-    # Ensure index exists
+    # Check if index already has chunks; if not, build it
+    if hasattr(service, "faiss_index") and service.faiss_index is not None and service.faiss_index.ntotal > 0:
+        return service
     service.index_chunks()
     return service
 

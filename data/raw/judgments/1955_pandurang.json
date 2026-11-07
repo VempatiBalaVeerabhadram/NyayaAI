@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_1955_PANDURANG",
+  "document_type": "judgment",
+  "case_id": "CASE_1955_SC_PANDURANG",
+  "case_name": "Pandurang and Others v. State of Hyderabad",
+  "court": "Supreme Court of India",
+  "judgment_date": "1955-01-31",
+  "judges": [
+    "Vivian Bose",
+    "B. Jagannadhadas",
+    "B.P. Sinha"
+  ],
+  "case_number": "Criminal Appeal No. 91 of 1954",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "34",
+    "149",
+    "302"
+  ],
+  "citations": [
+    "(1955) 1 SCR 1083",
+    "AIR 1955 SC 216",
+    "1955 Cri LJ 572"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "IN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nPandurang, Tukia and Bhilia ... Appellants\nversus\nState of Hyderabad ... Respondent\nCoram: Vivian Bose, B. Jagannadhadas, B.P. Sinha, JJ.\nJudgment Dated: 31 January 1955\n\nBOSE, J.:\n1. This appeal raises essential questions regarding the scope and distinction between Section 34 and Section 149 of the Indian Penal Code in cases of murderous assault by multiple accused persons."
+    },
+    {
+      "page_number": 2,
+      "text": "2. Reasoning on Section 34: Section 34 embodies the principle of joint liability but requires a pre-arranged plan and prior meeting of minds (prior concert). Common intention cannot be presumed merely because several persons attack a person simultaneously. There must be either evidence of prior planning or a common intention that developed on the spot during the course of the occurrence to the knowledge of all participants."
+    },
+    {
+      "page_number": 3,
+      "text": "3. Distinction with Section 149: Under Section 149, an unlawful assembly of five or more persons must share a common object. Once common object is established, every member is vicariously liable without proving individual participation or prior concert. In the present case, in the absence of proof of prior concert under Section 34, each accused could only be held liable for the specific injuries inflicted by him."
+    }
+  ]
+}
