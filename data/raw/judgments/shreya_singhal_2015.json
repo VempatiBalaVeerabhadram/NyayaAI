@@ -20,5 +20,16 @@
       "page_number": 2,
       "text": "2. Section 66A of the Information Technology Act, 2000 penalizes the sending of offensive messages through communication services. We find that the terms used in Section 66A such as 'offensive' and 'annoyance' are vague, nebulous, and lack clear judicial definition, creating an impermissible chilling effect on speech.\n\n3. Consequently, Section 66A of the Information Technology Act, 2000 is declared unconstitutional in its entirety as being violative of Article 19(1)(a) and not saved under Article 19(2). However, provisions dealing with cyber offenses, identity theft under Section 66C, and cheating by personation under Section 66D of the Information Technology Act, 2000 remain valid and enforceable."
     }
+  ],
+  "acts": [
+    "Information Technology Act, 2000",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "66A",
+    "506"
+  ],
+  "citations": [
+    "(2015) 5 SCC 1"
   ]
 }
