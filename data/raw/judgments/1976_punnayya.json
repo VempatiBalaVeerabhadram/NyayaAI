@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_1976_PUNNAYYA",
+  "document_type": "judgment",
+  "case_id": "CASE_1976_SC_PUNNAYYA",
+  "case_name": "State of Andhra Pradesh v. Rayavarapu Punnayya and Another",
+  "court": "Supreme Court of India",
+  "judgment_date": "1976-09-24",
+  "judges": [
+    "R.S. Sarkaria",
+    "P.N. Shinghal"
+  ],
+  "case_number": "Criminal Appeal No. 42 of 1972",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "299",
+    "300",
+    "302",
+    "304"
+  ],
+  "citations": [
+    "(1976) 4 SCC 382",
+    "AIR 1977 SC 45",
+    "1977 Cri LJ 1"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "IN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nState of Andhra Pradesh ... Appellant\nversus\nRayavarapu Punnayya and Another ... Respondents\nCoram: R.S. Sarkaria, P.N. Shinghal, JJ.\nJudgment Dated: 24 September 1976\n\nSARKARIA, J.:\n1. In the scheme of the Indian Penal Code, culpable homicide is the genus and murder is its specie. All murder is culpable homicide, but all culpable homicide is not murder. Section 299 defines culpable homicide and Section 300 defines murder."
+    },
+    {
+      "page_number": 2,
+      "text": "2. Three-Tier Comparative Analysis:\n(a) Clause (a) of Section 299 corresponds to Clause (1) of Section 300: Intention to cause death is common to both.\n(b) Clause (b) of Section 299 corresponds to Clauses (2) and (3) of Section 300: Section 299(b) requires intention to cause bodily injury 'likely' to cause death (lower degree of probability); whereas Section 300 Clause 3 requires intention to cause bodily injury 'sufficient in the ordinary course of nature to cause death' (higher degree of certainty).\n(c) Clause (c) of Section 299 corresponds to Clause (4) of Section 300: Knowledge of likelihood vs knowledge that act is imminently dangerous without excuse."
+    },
+    {
+      "page_number": 3,
+      "text": "3. Decision: Where the injuries inflicted on the legs and arms of the deceased caused shock and haemorrhage resulting in death, the accused had the knowledge that their act was likely to cause death, but lacked the intention or knowledge of high degree required under Section 300. Conviction altered from Section 302 to Section 304 Part II IPC."
+    }
+  ]
+}
