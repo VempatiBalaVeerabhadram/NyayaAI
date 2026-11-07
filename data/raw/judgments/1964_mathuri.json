@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_1964_MATHURI",
+  "document_type": "judgment",
+  "case_id": "CASE_1964_SC_MATHURI",
+  "case_name": "Mathuri and Others v. State of Punjab",
+  "court": "Supreme Court of India",
+  "judgment_date": "1964-02-12",
+  "judges": [
+    "K.C. Das Gupta",
+    "J.R. Mudholkar"
+  ],
+  "case_number": "Criminal Appeal No. 129 of 1962",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "441",
+    "447"
+  ],
+  "citations": [
+    "AIR 1964 SC 986",
+    "(1964) 5 SCR 916",
+    "1964 (2) Cri LJ 57"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Appellants entered agricultural land claimed by them under tenancy and ploughed the field, resulting in a dispute with the landlord. Charged under Section 447 IPC (Criminal trespass)."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 441 IPC requires entry upon property in possession of another with intent to commit an offence or to intimidate, insult or annoy the person in possession. Mere civil trespass does not become criminal unless accompanied by such specific intent."
+    },
+    {
+      "page_number": 3,
+      "text": "Entry made in bona fide assertion of a disputed civil claim lacks the criminal intent required under Section 441 IPC. Acquitted of Section 447 IPC."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_1964_HARICHARAN",
+  "document_type": "judgment",
+  "case_id": "CASE_1964_SC_HARICHARAN",
+  "case_name": "Haricharan Kurmi and Another v. State of Bihar",
+  "court": "Supreme Court of India",
+  "judgment_date": "1964-01-24",
+  "judges": [
+    "P.B. Gajendragadkar",
+    "K.N. Wanchoo",
+    "K.C. Das Gupta",
+    "J.C. Shah",
+    "N. Rajagopala Ayyangar"
+  ],
+  "case_number": "Criminal Appeal Nos. 19-20 of 1963",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872"
+  ],
+  "sections": [
+    "30",
+    "3"
+  ],
+  "citations": [
+    "AIR 1964 SC 1184",
+    "(1964) 6 SCR 623",
+    "1964 (2) Cri LJ 344"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Constitution Bench examined the evidentiary value of confession of co-accused under Section 30 Evidence Act."
+    },
+    {
+      "page_number": 2,
+      "text": "Held: Confession of co-accused is not 'evidence' as defined under Section 3 Evidence Act, because it is not recorded on oath or subject to cross-examination. It can only be used to tilt the balance when other evidence exists."
+    },
+    {
+      "page_number": 3,
+      "text": "Court cannot treat confession of co-accused as the foundation of conviction. Prosecution must stand on independent evidence. Reaffirmed Kashmira Singh."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_1957_RAMJI_LAL_MODI",
+  "document_type": "judgment",
+  "case_id": "CASE_1957_SC_RAMJI_LAL_MODI",
+  "case_name": "Ramji Lal Modi v. State of Uttar Pradesh",
+  "court": "Supreme Court of India",
+  "judgment_date": "1957-04-05",
+  "judges": [
+    "S.R. Das",
+    "T.L. Venkatarama Ayyar",
+    "B.P. Sinha",
+    "S.K. Das"
+  ],
+  "case_number": "Writ Petition No. 166 of 1956",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Constitution of India"
+  ],
+  "sections": [
+    "295A"
+  ],
+  "citations": [
+    "AIR 1957 SC 620",
+    "1957 SCR 860",
+    "1957 Cri LJ 1006"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Publisher of a Hindi monthly magazine challenged the constitutional validity of Section 295A IPC (Malicious acts intending to outrage religious feelings) as infringing Article 19(1)(a)."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 295A IPC does not penalize every act or insult to religion; it punishes only aggravated forms of insult perpetrated with deliberate and malicious intention to outrage the religious feelings of a class."
+    },
+    {
+      "page_number": 3,
+      "text": "Section 295A is protected as a reasonable restriction in the interests of public order under Article 19(2). Constitutionality upheld."
+    }
+  ]
+}

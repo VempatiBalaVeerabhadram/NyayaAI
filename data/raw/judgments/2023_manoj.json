@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_2023_MANOJ",
+  "document_type": "judgment",
+  "case_id": "CASE_2023_SC_MANOJ",
+  "case_name": "Manoj and Others v. State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "judgment_date": "2022-05-27",
+  "judges": [
+    "U.U. Lalit",
+    "S. Ravindra Bhat",
+    "Bela M. Trivedi"
+  ],
+  "case_number": "Criminal Appeal Nos. 248-250 of 2015",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "302",
+    "354(3)",
+    "235(2)"
+  ],
+  "citations": [
+    "(2023) 2 SCC 353",
+    "AIR 2022 SC 2626",
+    "2022 Cri LJ 3141"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Supreme Court issued mandatory guidelines for trial courts conducting sentencing hearings in death penalty cases under Section 235(2) CrPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Mandated collection of psychiatric and psychological evaluation of the accused, report from jail authorities on conduct and vocational work, and socio-economic background report prior to sentencing."
+    },
+    {
+      "page_number": 3,
+      "text": "Sentencing hearing cannot be conducted on the same day as conviction. Trial courts must afford meaningful opportunity for defense to lead mitigating evidence."
+    }
+  ]
+}

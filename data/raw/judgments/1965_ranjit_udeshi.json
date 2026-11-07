@@ -1,0 +1,43 @@
+{
+  "document_id": "DOC_SC_1965_RANJIT_UDESHI",
+  "document_type": "judgment",
+  "case_id": "CASE_1965_SC_RANJIT_UDESHI",
+  "case_name": "Ranjit D. Udeshi v. State of Maharashtra",
+  "court": "Supreme Court of India",
+  "judgment_date": "1964-08-19",
+  "judges": [
+    "P.B. Gajendragadkar",
+    "M. Hidayatullah",
+    "J.C. Shah",
+    "J.R. Mudholkar"
+  ],
+  "case_number": "Criminal Appeal No. 178 of 1962",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "292"
+  ],
+  "citations": [
+    "AIR 1965 SC 881",
+    "(1965) 1 SCR 65",
+    "1965 (1) Cri LJ 8"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A Bombay bookseller was prosecuted under Section 292 IPC for selling an unexpurgated edition of D.H. Lawrence's novel 'Lady Chatterley's Lover'."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court adopted the English Hicklin test to determine obscenity under Section 292 IPC: Whether the tendency of the matter is to deprave and corrupt those whose minds are open to immoral influences."
+    },
+    {
+      "page_number": 3,
+      "text": "Section 292 is a constitutional restriction on speech under Article 19(2) in the interest of decency and morality. The book was held obscene; conviction upheld."
+    }
+  ]
+}

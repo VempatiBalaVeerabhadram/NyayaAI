@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_PC_1947_PULUKURI",
+  "document_type": "judgment",
+  "case_id": "CASE_1947_PC_PULUKURI",
+  "case_name": "Pulukuri Kottaya and Others v. Emperor",
+  "court": "Privy Council / Supreme Court Landmark Precedent",
+  "judgment_date": "1947-02-14",
+  "judges": [
+    "Lord Wright",
+    "Lord Simonds",
+    "Lord Uthwatt",
+    "Sir John Beaumont"
+  ],
+  "case_number": "Privy Council Appeal No. 49 of 1946",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872"
+  ],
+  "sections": [
+    "25",
+    "26",
+    "27"
+  ],
+  "citations": [
+    "AIR 1947 PC 67",
+    "(1947) 49 BOMLR 508",
+    "74 IA 65"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused charged with rioting and murder stated to police: 'I have hidden the spear in a roof; I will produce it.' Spear recovered."
+    },
+    {
+      "page_number": 2,
+      "text": "Sir John Beaumont on Section 27 Evidence Act: Section 27 is an exception to Sections 25 and 26 (barring confessions to police). Only that part of statement which distinctly relates to the discovery of fact is admissible, not the confession of guilt."
+    },
+    {
+      "page_number": 3,
+      "text": "The statement 'I will produce the spear' is admissible, but 'I stabbed the deceased with spear' is inadmissible. Classic ratio governing police recoveries."
+    }
+  ]
+}

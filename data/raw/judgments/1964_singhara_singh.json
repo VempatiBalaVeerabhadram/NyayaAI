@@ -1,0 +1,46 @@
+{
+  "document_id": "DOC_SC_1964_SINGHARA_SINGH",
+  "document_type": "judgment",
+  "case_id": "CASE_1964_SC_SINGHARA_SINGH",
+  "case_name": "State of Uttar Pradesh v. Singhara Singh and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "1963-08-20",
+  "judges": [
+    "A.K. Sarkar",
+    "M. Hidayatullah",
+    "J.C. Shah"
+  ],
+  "case_number": "Criminal Appeal No. 177 of 1961",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973",
+    "Indian Evidence Act, 1872"
+  ],
+  "sections": [
+    "164",
+    "364",
+    "533",
+    "80"
+  ],
+  "citations": [
+    "AIR 1964 SC 358",
+    "(1964) 4 SCR 485",
+    "1964 (1) Cri LJ 263"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Magistrate recorded confession of murder accused without following mandatory statutory warnings under Section 164 CrPC and gave oral evidence in court to prove confession."
+    },
+    {
+      "page_number": 2,
+      "text": "Taylor v. Taylor principle applied: Where a power is given to do a certain thing in a certain way, the thing must be done in that way or not at all; other methods of performance are necessarily forbidden."
+    },
+    {
+      "page_number": 3,
+      "text": "Oral evidence of magistrate cannot cure total disregard of statutory recording procedures under Section 164 CrPC. Confession held inadmissible."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_1953_NARAYAN",
+  "document_type": "judgment",
+  "case_id": "CASE_1953_SC_NARAYAN",
+  "case_name": "Chelloor Mankkal Narayan Ittiravi Nambudiri v. State of Travancore-Cochin",
+  "court": "Supreme Court of India",
+  "judgment_date": "1952-12-05",
+  "judges": [
+    "Patanjali Sastri",
+    "B.K. Mukherjea",
+    "S.R. Das",
+    "Ghulam Hasan",
+    "N.H. Bhagwati"
+  ],
+  "case_number": "Criminal Appeal No. 15 of 1952",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "405",
+    "406"
+  ],
+  "citations": [
+    "AIR 1953 SC 478",
+    "1954 SCR 169",
+    "1953 Cri LJ 1795"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Appellant, an illam administrator in Kerala, was prosecuted for criminal breach of trust in respect of estate income."
+    },
+    {
+      "page_number": 2,
+      "text": "Essential ingredients of Section 405 IPC: (1) Entrustment of property; (2) Dishonest misappropriation or conversion to own use; (3) Mere failure to account or delay in payment does not establish dishonest intention."
+    },
+    {
+      "page_number": 3,
+      "text": "Prosecution must prove dishonest intention beyond reasonable doubt. Failure to render accounts due to estate disputes is a civil matter. Acquitted of Section 406 IPC."
+    }
+  ]
+}

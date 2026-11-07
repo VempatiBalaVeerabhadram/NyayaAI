@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_1980_RATLAM",
+  "document_type": "judgment",
+  "case_id": "CASE_1980_SC_RATLAM",
+  "case_name": "Municipal Council, Ratlam v. Vardichan and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "1980-07-29",
+  "judges": [
+    "V.R. Krishna Iyer",
+    "O. Chinnappa Reddy"
+  ],
+  "case_number": "Criminal Appeal No. 286 of 1980",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "268",
+    "269",
+    "133"
+  ],
+  "citations": [
+    "(1980) 4 SCC 162",
+    "AIR 1980 SC 1622",
+    "1980 Cri LJ 1075"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Open drains and stench from liquor factory caused public nuisance to residents in Ratlam. Magistrate ordered municipality to construct drainage under Section 133 CrPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Public nuisance under Section 268 IPC: An act or illegal omission causing common injury, danger or annoyance to the public. Municipalities cannot plead lack of financial resources to escape mandatory statutory duty to abate nuisance."
+    },
+    {
+      "page_number": 3,
+      "text": "Human rights and dignity under Article 21 require decent living conditions. Section 133 CrPC is a public duty weapon against municipal default. Order compelling construction of drainage affirmed."
+    }
+  ]
+}

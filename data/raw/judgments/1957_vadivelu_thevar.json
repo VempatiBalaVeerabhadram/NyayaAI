@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_1957_VADIVELU",
+  "document_type": "judgment",
+  "case_id": "CASE_1957_SC_VADIVELU",
+  "case_name": "Vadivelu Thevar v. State of Madras",
+  "court": "Supreme Court of India",
+  "judgment_date": "1957-04-18",
+  "judges": [
+    "B.P. Sinha",
+    "P. Govinda Menon",
+    "J.L. Kapur"
+  ],
+  "case_number": "Criminal Appeal No. 24 of 1957",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "134",
+    "302"
+  ],
+  "citations": [
+    "AIR 1957 SC 614",
+    "1957 SCR 981",
+    "1957 Cri LJ 1000"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Conviction for murder under Section 302 IPC based upon the sole testimony of an eye-witness."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court classified witnesses under Section 134 Evidence Act into three categories: (1) Wholly reliable; (2) Wholly unreliable; (3) Neither wholly reliable nor wholly unreliable."
+    },
+    {
+      "page_number": 3,
+      "text": "Law of evidence weighs testimonies, not counts heads (testis unus, testis nullus does not apply in India). Conviction can rest on a single wholly reliable witness without corroboration."
+    }
+  ]
+}

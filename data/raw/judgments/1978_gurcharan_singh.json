@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_1978_GURCHARAN",
+  "document_type": "judgment",
+  "case_id": "CASE_1978_SC_GURCHARAN",
+  "case_name": "Gurcharan Singh and Others v. State (Delhi Administration)",
+  "court": "Supreme Court of India",
+  "judgment_date": "1977-12-09",
+  "judges": [
+    "P.K. Goswami",
+    "P.N. Shinghal"
+  ],
+  "case_number": "Criminal Appeal No. 441 of 1977",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "437",
+    "439"
+  ],
+  "citations": [
+    "(1978) 1 SCC 118",
+    "AIR 1978 SC 179",
+    "1978 Cri LJ 129"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Sessions Judge granted bail to accused charged with conspiracy and murder under Section 302 IPC. High Court cancelled bail under Section 439(2) CrPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court explained the distinction between Section 437 (Magistrate's restricted bail powers in capital offences) and Section 439 (High Court & Sessions Court unrestricted special bail powers)."
+    },
+    {
+      "page_number": 3,
+      "text": "Bail in capital offences requires careful judicial discretion considering gravity, witness tampering, and public safety. Cancellation by High Court affirmed."
+    }
+  ]
+}

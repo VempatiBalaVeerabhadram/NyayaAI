@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_1966_ANDA",
+  "document_type": "judgment",
+  "case_id": "CASE_1966_SC_ANDA",
+  "case_name": "Anda and Others v. State of Rajasthan",
+  "court": "Supreme Court of India",
+  "judgment_date": "1965-04-12",
+  "judges": [
+    "K.N. Wanchoo",
+    "M. Hidayatullah",
+    "V. Ramaswami"
+  ],
+  "case_number": "Criminal Appeal No. 197 of 1963",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "299",
+    "300",
+    "302",
+    "304"
+  ],
+  "citations": [
+    "AIR 1966 SC 148",
+    "(1966) 1 SCR 864",
+    "1966 Cri LJ 171"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused persons attacked Biju with lathis, fracturing his arms and legs into numerous pieces, leading to death due to multiple compound fractures and shock."
+    },
+    {
+      "page_number": 2,
+      "text": "Scope of Section 300 Clause Thirdly: The clause requires two things: (1) Intention to cause that particular bodily injury; and (2) The injury intended is objectively sufficient in the ordinary course of nature to cause death."
+    },
+    {
+      "page_number": 3,
+      "text": "Systematic smashing of all limbs by multiple blows constituted bodily injuries sufficient in ordinary course of nature to cause death. Conviction under Section 302 IPC confirmed."
+    }
+  ]
+}

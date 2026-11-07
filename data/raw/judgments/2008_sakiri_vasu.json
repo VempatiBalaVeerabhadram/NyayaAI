@@ -1,0 +1,43 @@
+{
+  "document_id": "DOC_SC_2008_SAKIRI_VASU",
+  "document_type": "judgment",
+  "case_id": "CASE_2008_SC_SAKIRI_VASU",
+  "case_name": "Sakiri Vasu v. State of Uttar Pradesh and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "2007-12-07",
+  "judges": [
+    "A.K. Mathur",
+    "Markandey Katju"
+  ],
+  "case_number": "Criminal Appeal No. 1685 of 2007",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "154",
+    "156(3)",
+    "482"
+  ],
+  "citations": [
+    "(2008) 2 SCC 409",
+    "AIR 2008 SC 907",
+    "2008 Cri LJ 1625"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Father of deceased army officer approached High Court under Section 482 CrPC seeking CBI investigation after police failed to register FIR for murder."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 156(3) CrPC gives Magistrate wide powers to ensure proper investigation: Magistrate can order registration of FIR, monitor progress of investigation, and ensure speedy and fair inquiry."
+    },
+    {
+      "page_number": 3,
+      "text": "When police refuse to register FIR, the aggrieved party should approach the Magistrate under Section 156(3) CrPC rather than rushing to High Court under Article 226 or Section 482 CrPC."
+    }
+  ]
+}

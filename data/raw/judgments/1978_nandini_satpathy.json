@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_1978_NANDINI_SATPATHY",
+  "document_type": "judgment",
+  "case_id": "CASE_1978_SC_NANDINI_SATPATHY",
+  "case_name": "Nandini Satpathy v. P.L. Dani and Another",
+  "court": "Supreme Court of India",
+  "judgment_date": "1978-04-07",
+  "judges": [
+    "V.R. Krishna Iyer",
+    "V.D. Tulzapurkar",
+    "Jaswant Singh"
+  ],
+  "case_number": "Criminal Appeal No. 101 of 1978",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973",
+    "Constitution of India"
+  ],
+  "sections": [
+    "161",
+    "179"
+  ],
+  "citations": [
+    "(1978) 2 SCC 424",
+    "AIR 1978 SC 1025",
+    "1978 Cri LJ 968"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Former Chief Minister of Orissa was summoned by police and served with a lengthy questionnaire regarding corruption. She refused to answer and was charged under Section 179 IPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 161(2) CrPC read with Article 20(3) protects an accused or suspect from answering questions which have a tendency to expose him to a criminal charge (Right against self-incrimination)."
+    },
+    {
+      "page_number": 3,
+      "text": "The right to silence applies not only in court trial but during police interrogation. Accused cannot be compelled to answer self-incriminating questions. Prosecution under Section 179 IPC quashed."
+    }
+  ]
+}

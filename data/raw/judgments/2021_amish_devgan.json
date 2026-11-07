@@ -1,0 +1,43 @@
+{
+  "document_id": "DOC_SC_2021_AMISH_DEVGAN",
+  "document_type": "judgment",
+  "case_id": "CASE_2021_SC_AMISH_DEVGAN",
+  "case_name": "Amish Devgan v. Union of India and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "2020-12-07",
+  "judges": [
+    "A.M. Khanwilkar",
+    "Sanjiv Khanna"
+  ],
+  "case_number": "Writ Petition (Criminal) No. 160 of 2020",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "153A",
+    "295A",
+    "505(2)"
+  ],
+  "citations": [
+    "(2021) 1 SCC 1",
+    "AIR 2021 SC 294",
+    "2021 Cri LJ 612"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Television journalist aired debate referring to Sufi saint Khwaja Moinuddin Chishti in derogatory terms. Multiple FIRs filed under Sections 153A, 295A and 505(2) IPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court expounded on Hate Speech: Differentiated between 'free speech' (which can be hurtful or provocative) and 'hate speech' (which targets identity of a community with intent to promote hatred or marginalization)."
+    },
+    {
+      "page_number": 3,
+      "text": "Refused to quash FIRs under Section 482; journalist's intent and impact of broadcast required police investigation. Consolidated all FIRs to one police station."
+    }
+  ]
+}

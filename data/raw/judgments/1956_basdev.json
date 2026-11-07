@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_1956_BASDEV",
+  "document_type": "judgment",
+  "case_id": "CASE_1956_SC_BASDEV",
+  "case_name": "Basdev v. State of Pepsu",
+  "court": "Supreme Court of India",
+  "judgment_date": "1956-04-17",
+  "judges": [
+    "N.H. Bhagwati",
+    "B.P. Sinha",
+    "Syed Jafer Imam"
+  ],
+  "case_number": "Criminal Appeal No. 12 of 1956",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "85",
+    "86",
+    "300",
+    "304"
+  ],
+  "citations": [
+    "AIR 1956 SC 488",
+    "1956 SCR 363",
+    "1956 Cri LJ 919"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "The appellant, a retired military jemadar, attended a wedding feast, consumed liquor, and when a young boy refused to step aside, shot him dead with a pistol. He pleaded intoxication under Section 86 IPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Under Section 86 IPC, where an act is not an offence unless done with a particular knowledge or intent, voluntary intoxication imputes the same knowledge as if sober, but not necessarily intent. Intent must be gathered from surrounding circumstances."
+    },
+    {
+      "page_number": 3,
+      "text": "Although heavily intoxicated, the appellant had the presence of mind to draw his pistol, cock it, and threaten bystanders. Knowledge under Section 300 Clause 4 was established. Conviction under Section 304 Part I affirmed."
+    }
+  ]
+}

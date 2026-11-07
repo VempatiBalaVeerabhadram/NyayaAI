@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_1973_TANBA",
+  "document_type": "judgment",
+  "case_id": "CASE_1973_SC_TANBA",
+  "case_name": "State of Maharashtra v. Tanba Sadashiv Kunbi",
+  "court": "Supreme Court of India",
+  "judgment_date": "1973-04-10",
+  "judges": [
+    "I.D. Dua",
+    "C.A. Vaidialingam"
+  ],
+  "case_number": "Criminal Appeal No. 248 of 1970",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "442",
+    "448",
+    "451"
+  ],
+  "citations": [
+    "AIR 1973 SC 1365",
+    "1973 Cri LJ 1172"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused entered complainant's house at midnight through open door and attempted to outrage modesty of complainant's wife. Convicted under Section 451 IPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 442 IPC defines House-trespass: Criminal trespass by entering into or remaining in any building, tent or vessel used as human dwelling. Section 448 punishes simple house-trespass; Section 451 punishes house-trespass to commit an offence."
+    },
+    {
+      "page_number": 3,
+      "text": "Entering a human dwelling at night to commit an offence is a grave violation of personal safety. Conviction under Section 451 IPC confirmed."
+    }
+  ]
+}

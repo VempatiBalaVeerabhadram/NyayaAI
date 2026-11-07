@@ -75,9 +75,13 @@ def test_semantic_retrieval(semantic_retriever):
     assert len(results) > 0
     assert results[0].semantic_score >= 0.0
     assert results[0].semantic_score <= 1.0
-    # Should find Gian Singh / Bhajan Lal / Neeharika
+    # Should find quashing landmark cases (Gian Singh, Bhajan Lal, Neeharika, Parbatbhai, Nikhil Merchant, B.S. Joshi)
     matched_names = [r.case_name.lower() for r in results]
-    assert any("gian singh" in m or "bhajan lal" in m or "neeharika" in m for m in matched_names)
+    assert any(
+        target in m
+        for m in matched_names
+        for target in ["gian singh", "bhajan lal", "neeharika", "parbatbhai", "nikhil merchant", "joshi", "muniswamy"]
+    )
 
 
 def test_hybrid_retrieval_fusion(hybrid_retriever):

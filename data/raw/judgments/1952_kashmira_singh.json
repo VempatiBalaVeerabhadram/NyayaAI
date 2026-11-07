@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_1952_KASHMIRA_SINGH",
+  "document_type": "judgment",
+  "case_id": "CASE_1952_SC_KASHMIRA_SINGH",
+  "case_name": "Kashmira Singh v. State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "judgment_date": "1952-03-04",
+  "judges": [
+    "Patanjali Sastri",
+    "B.K. Mukherjea",
+    "S.R. Das",
+    "Vivian Bose"
+  ],
+  "case_number": "Criminal Appeal No. 53 of 1951",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "30",
+    "302"
+  ],
+  "citations": [
+    "AIR 1952 SC 159",
+    "1952 SCR 526",
+    "1952 Cri LJ 839"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused was convicted of murdering a 5-year-old child solely on the confession of a co-accused under Section 30 of the Evidence Act."
+    },
+    {
+      "page_number": 2,
+      "text": "Vivian Bose J. on Co-accused Confession: The confession of a co-accused under Section 30 is not substantive evidence against another accused. It can only be used to lend assurance to other independent evidence already established on record."
+    },
+    {
+      "page_number": 3,
+      "text": "A court cannot begin with the confession of a co-accused; it must marshal other evidence first. Since there was no independent substantive evidence, conviction under Section 302 IPC set aside."
+    }
+  ]
+}

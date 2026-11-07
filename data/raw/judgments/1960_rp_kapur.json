@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_1960_RP_KAPUR",
+  "document_type": "judgment",
+  "case_id": "CASE_1960_SC_RP_KAPUR",
+  "case_name": "R.P. Kapur v. State of Punjab",
+  "court": "Supreme Court of India",
+  "judgment_date": "1960-03-29",
+  "judges": [
+    "P.B. Gajendragadkar",
+    "K.N. Wanchoo",
+    "K.C. Das Gupta"
+  ],
+  "case_number": "Criminal Appeal No. 197 of 1958",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "482",
+    "420",
+    "120B"
+  ],
+  "citations": [
+    "AIR 1960 SC 866",
+    "(1960) 3 SCR 388",
+    "1960 Cri LJ 1239"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Senior IAS officer challenged criminal proceedings under Section 420/120B IPC for cheating in sale of land, seeking quashing under inherent powers."
+    },
+    {
+      "page_number": 2,
+      "text": "Gajendragadkar J. laid down the 3 classic categories where High Court can quash criminal proceedings under Section 482 (inherent powers): (1) Legal bar against institution (e.g. want of sanction); (2) Allegations in FIR taken at face value do not constitute an offence; (3) Manifest lack of evidence or allegations are absurd and inherently improbable."
+    },
+    {
+      "page_number": 3,
+      "text": "Allegations made out a prima facie case requiring investigation. Inherent jurisdiction should be exercised sparingly. Petition dismissed."
+    }
+  ]
+}

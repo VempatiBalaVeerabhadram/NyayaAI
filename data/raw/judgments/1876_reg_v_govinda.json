@@ -1,0 +1,41 @@
+{
+  "document_id": "DOC_BOM_1876_REG_GOVINDA",
+  "document_type": "judgment",
+  "case_id": "CASE_1876_BOM_REG_GOVINDA",
+  "case_name": "Reg v. Govinda",
+  "court": "High Court of Bombay / Landmark SC Precedent",
+  "judgment_date": "1876-07-18",
+  "judges": [
+    "Melvill J."
+  ],
+  "case_number": "Criminal Reference No. 55 of 1876",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "299",
+    "300",
+    "302",
+    "304"
+  ],
+  "citations": [
+    "(1876) ILR 1 Bom 342"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "The accused knocked down his 15-year-old wife with a closed fist blow to the face, struck her twice, causing extravasation of blood on the brain and death."
+    },
+    {
+      "page_number": 2,
+      "text": "Melvill J. laid down the foundational distinction between culpable homicide (Section 299) and murder (Section 300) based on comparative probability of death: bodily injury 'likely to cause death' (s.299) vs injury 'sufficient in the ordinary course of nature to cause death' (s.300(3))."
+    },
+    {
+      "page_number": 3,
+      "text": "The blows were inflicted with fists without weapons. Death was a likely result but not one sufficient in the ordinary course of nature. Conviction altered from Section 302 to Section 304 (culpable homicide not amounting to murder)."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_2013_SAHAB_SINGH",
+  "document_type": "judgment",
+  "case_id": "CASE_2013_SC_SAHAB_SINGH",
+  "case_name": "Sahab Singh and Others v. State of Haryana",
+  "court": "Supreme Court of India",
+  "judgment_date": "2013-08-27",
+  "judges": [
+    "B.S. Chauhan",
+    "S.A. Bobde"
+  ],
+  "case_number": "Criminal Appeal No. 1290 of 2008",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872",
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "164",
+    "24",
+    "302"
+  ],
+  "citations": [
+    "(2013) 14 SCC 252",
+    "AIR 2013 SC 3761",
+    "2013 Cri LJ 4436"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused made a voluntary judicial confession under Section 164 CrPC admitting murder of his brother, and subsequently retracted it during trial."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court on Retracted Confession: A confession recorded in compliance with Section 164 CrPC does not lose its evidentiary value merely because it is retracted at the trial."
+    },
+    {
+      "page_number": 3,
+      "text": "If the court is satisfied that the confession was voluntary and truthful, a conviction can be sustained, provided there is general corroboration on material particulars. Conviction under Section 302 affirmed."
+    }
+  ]
+}

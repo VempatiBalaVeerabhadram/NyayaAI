@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_1980_MOHD_YAKUB",
+  "document_type": "judgment",
+  "case_id": "CASE_1980_SC_MOHD_YAKUB",
+  "case_name": "State of Maharashtra v. Mohd. Yakub and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "1980-01-24",
+  "judges": [
+    "R.S. Sarkaria",
+    "O. Chinnappa Reddy"
+  ],
+  "case_number": "Criminal Appeal No. 248 of 1974",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Customs Act, 1962"
+  ],
+  "sections": [
+    "511"
+  ],
+  "citations": [
+    "(1980) 3 SCC 57",
+    "AIR 1980 SC 1111",
+    "1980 Cri LJ 793"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Customs officers intercepted truck near seashore at midnight carrying silver ingots, alongside a mechanized seafaring vessel waiting near the creek."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 511 IPC (Attempt): What constitutes an attempt as distinct from preparation? An attempt is committed when an overt act is done in execution of criminal intent, which would lead to commission of offence unless interrupted by outside agency."
+    },
+    {
+      "page_number": 3,
+      "text": "Transporting silver to the lonely creek where sea vessel was waiting was an overt step towards export. Interruption by customs officers alone stopped the commission. Conviction under Section 511 affirmed."
+    }
+  ]
+}

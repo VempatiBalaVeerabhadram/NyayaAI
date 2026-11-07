@@ -1,0 +1,43 @@
+{
+  "document_id": "DOC_SC_2020_ARJUN_KHOTKAR",
+  "document_type": "judgment",
+  "case_id": "CASE_2020_SC_ARJUN_KHOTKAR",
+  "case_name": "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "2020-07-14",
+  "judges": [
+    "R.F. Nariman",
+    "S. Ravindra Bhat",
+    "V. Ramasubramanian"
+  ],
+  "case_number": "Civil Appeal Nos. 2082-2083 of 2013",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872"
+  ],
+  "sections": [
+    "65A",
+    "65B"
+  ],
+  "citations": [
+    "(2020) 7 SCC 1",
+    "AIR 2020 SC 3408",
+    "2020 (4) RCR (Civil) 130"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Three-Judge Bench settled conflicting precedents on admissibility of electronic evidence (CDs, CCTV footage, mobile printouts) under Section 65B Evidence Act."
+    },
+    {
+      "page_number": 2,
+      "text": "Certificate under Section 65B(4) is an absolute condition precedent for admissibility of secondary electronic evidence. Overruled Shafhi Mohammad (2018); affirmed Anvar P.V. (2014)."
+    },
+    {
+      "page_number": 3,
+      "text": "Where party is not in possession of the electronic device, application can be made to court under Section 165 Evidence Act / Order XVI CPC to compel production of 65B certificate from the device custodian."
+    }
+  ]
+}

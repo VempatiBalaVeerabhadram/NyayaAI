@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_1981_SHEW_MANGAL",
+  "document_type": "judgment",
+  "case_id": "CASE_1981_SC_SHEW_MANGAL",
+  "case_name": "State of West Bengal v. Shew Mangal Singh",
+  "court": "Supreme Court of India",
+  "judgment_date": "1981-08-19",
+  "judges": [
+    "Y.V. Chandrachud",
+    "A. Varadarajan",
+    "A.N. Sen"
+  ],
+  "case_number": "Criminal Appeal No. 231 of 1978",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "76",
+    "79",
+    "302"
+  ],
+  "citations": [
+    "(1981) 4 SCC 2",
+    "AIR 1981 SC 1917",
+    "1981 Cri LJ 1683"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Police officers opened fire under orders of the Deputy Commissioner of Police during violent mob attacks in Calcutta, resulting in deaths. Accused claimed protection under Section 76 IPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 76 IPC protects a person who by reason of a mistake of fact and not of law in good faith believes himself to be bound by law to do the act. An order of a superior officer to fire on a riotous mob is a complete defence unless palpably illegal."
+    },
+    {
+      "page_number": 3,
+      "text": "The firing was ordered by a competent superior officer to control an armed mob attacking police personnel. The subordinate police officers were bound by law to obey. Acquittal affirmed."
+    }
+  ]
+}

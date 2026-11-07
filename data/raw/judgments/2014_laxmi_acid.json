@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_2014_LAXMI",
+  "document_type": "judgment",
+  "case_id": "CASE_2014_SC_LAXMI",
+  "case_name": "Laxmi v. Union of India and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "2014-04-10",
+  "judges": [
+    "R.M. Lodha",
+    "Kurian Joseph"
+  ],
+  "case_number": "Writ Petition (Criminal) No. 129 of 2006",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "326A",
+    "326B",
+    "357C"
+  ],
+  "citations": [
+    "(2014) 4 SCC 427",
+    "AIR 2014 SC 2383",
+    "2014 Cri LJ 2341"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Public Interest Litigation by acid attack survivor Laxmi seeking total ban on over-the-counter sale of acid and rehabilitation for acid attack victims."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court issued nationwide mandatory directives: (1) Over-the-counter sale of acid banned without photo ID and register; (2) Minimum victim compensation of Rs. 3 lakhs under Section 357A CrPC; (3) Free medical treatment at all government and private hospitals under Section 357C CrPC."
+    },
+    {
+      "page_number": 3,
+      "text": "Affirmed severity of punishment under Section 326A (Voluntarily causing grievous hurt by acid, minimum 10 years up to life) and Section 326B (Attempt to throw acid) enacted via Criminal Law Amendment Act, 2013."
+    }
+  ]
+}

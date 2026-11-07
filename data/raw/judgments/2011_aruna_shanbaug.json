@@ -1,0 +1,43 @@
+{
+  "document_id": "DOC_SC_2011_ARUNA_SHANBAUG",
+  "document_type": "judgment",
+  "case_id": "CASE_2011_SC_ARUNA_SHANBAUG",
+  "case_name": "Aruna Ramchandra Shanbaug v. Union of India",
+  "court": "Supreme Court of India",
+  "judgment_date": "2011-03-07",
+  "judges": [
+    "Markandey Katju",
+    "Gyan Sudha Misra"
+  ],
+  "case_number": "Writ Petition (Criminal) No. 115 of 2009",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Constitution of India"
+  ],
+  "sections": [
+    "306",
+    "309"
+  ],
+  "citations": [
+    "(2011) 4 SCC 454",
+    "AIR 2011 SC 1290",
+    "2011 Cri LJ 2095"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Petition filed by next friend on behalf of Aruna Shanbaug, a nurse in a permanent vegetative state for 37 years following sexual assault, seeking withdrawal of life support."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court distinguished between active euthanasia (which is illegal homicide under Section 302/304 IPC) and passive euthanasia (withdrawal of life-support systems)."
+    },
+    {
+      "page_number": 3,
+      "text": "Passive euthanasia permitted under strict safeguards requiring approval of High Court Division Bench after consulting a committee of three expert doctors. Parliament recommended to repeal Section 309 IPC."
+    }
+  ]
+}

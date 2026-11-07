@@ -1,0 +1,47 @@
+{
+  "document_id": "DOC_SC_1961_KATHI_KALU",
+  "document_type": "judgment",
+  "case_id": "CASE_1961_SC_KATHI_KALU",
+  "case_name": "State of Bombay v. Kathi Kalu Oghad and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "1961-08-04",
+  "judges": [
+    "B.P. Sinha",
+    "S.J. Imam",
+    "K. Subba Rao",
+    "K.N. Wanchoo",
+    "K.C. Das Gupta",
+    "J.C. Shah",
+    "N. Rajagopala Ayyangar"
+  ],
+  "case_number": "Criminal Appeal No. 146 of 1958",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872",
+    "Constitution of India"
+  ],
+  "sections": [
+    "73"
+  ],
+  "citations": [
+    "AIR 1961 SC 1808",
+    "(1962) 3 SCR 10",
+    "1961 (2) Cri LJ 856"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Constitution Bench test of whether compelling an accused to give specimen handwriting, signatures, or fingerprints violates Article 20(3) (Privilege against self-incrimination)."
+    },
+    {
+      "page_number": 2,
+      "text": "'To be a witness' in Article 20(3) means imparting knowledge in respect of relevant facts by oral statement or written testimony. Giving physical evidence (fingerprints, handwriting samples) is not testimonial compulsion."
+    },
+    {
+      "page_number": 3,
+      "text": "Specimen handwriting or fingerprints are immutable physical characteristics and do not convey accused's personal knowledge. Section 73 Evidence Act is constitutionally valid."
+    }
+  ]
+}

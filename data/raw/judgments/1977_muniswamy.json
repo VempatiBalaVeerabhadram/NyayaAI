@@ -1,0 +1,46 @@
+{
+  "document_id": "DOC_SC_1977_MUNISWAMY",
+  "document_type": "judgment",
+  "case_id": "CASE_1977_SC_MUNISWAMY",
+  "case_name": "State of Karnataka v. L. Muniswamy and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "1977-03-22",
+  "judges": [
+    "Y.V. Chandrachud",
+    "P.K. Goswami",
+    "P.N. Shinghal"
+  ],
+  "case_number": "Criminal Appeal No. 222 of 1976",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "482",
+    "227",
+    "307",
+    "120B"
+  ],
+  "citations": [
+    "(1977) 2 SCC 699",
+    "AIR 1977 SC 1489",
+    "1977 Cri LJ 1125"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "High Court quashed proceedings under Section 482 CrPC against accused charged with attempt to murder under Section 307 read with Section 120B IPC for lack of material."
+    },
+    {
+      "page_number": 2,
+      "text": "Chandrachud J. on Inherent Powers under Section 482 CrPC: The wholesome power under Section 482 is intended to prevent abuse of the process of any court and to secure the ends of justice. Section 482 is not fettered by the code."
+    },
+    {
+      "page_number": 3,
+      "text": "Where there is no prima facie material connecting accused to conspiracy, forcing him to undergo trial is an abuse of process. Quashing order affirmed."
+    }
+  ]
+}

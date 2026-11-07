@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_2002_SANJU_SENGAR",
+  "document_type": "judgment",
+  "case_id": "CASE_2002_SC_SANJU_SENGAR",
+  "case_name": "Sanju @ Sanjay Singh Sengar v. State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "judgment_date": "2002-05-02",
+  "judges": [
+    "K.T. Thomas",
+    "H.K. Sema"
+  ],
+  "case_number": "Criminal Appeal No. 572 of 2002",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "107",
+    "306"
+  ],
+  "citations": [
+    "(2002) 5 SCC 371",
+    "AIR 2002 SC 1998",
+    "2002 Cri LJ 2796"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Appellant engaged in a quarrel with his sister's husband and told him to 'go and die'. Two days later, the husband committed suicide, naming the appellant in a suicide note."
+    },
+    {
+      "page_number": 2,
+      "text": "Abetment under Section 107 read with Section 306 IPC requires active instigation or intentional aiding. Uttering words 'go and die' in the heat of a quarrel does not satisfy the mens rea of instigation."
+    },
+    {
+      "page_number": 3,
+      "text": "Suicide was committed 48 hours after the quarrel; the deceased had ample time to reflect. Criminal proceedings under Section 306 IPC quashed."
+    }
+  ]
+}

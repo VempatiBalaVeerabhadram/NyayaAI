@@ -1,0 +1,43 @@
+{
+  "document_id": "DOC_SC_2013_SANGEET",
+  "document_type": "judgment",
+  "case_id": "CASE_2013_SC_SANGEET",
+  "case_name": "Sangeet and Another v. State of Haryana",
+  "court": "Supreme Court of India",
+  "judgment_date": "2012-11-20",
+  "judges": [
+    "K.S. Radhakrishnan",
+    "Madan B. Lokur"
+  ],
+  "case_number": "Criminal Appeal Nos. 490-491 of 2011",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "302",
+    "354(3)"
+  ],
+  "citations": [
+    "(2013) 2 SCC 452",
+    "AIR 2013 SC 447",
+    "2013 Cri LJ 555"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Appellants sentenced to death for multiple murders. Supreme Court reviewed inconsistency and subjectivity in death penalty sentencing post-Bachan Singh."
+    },
+    {
+      "page_number": 2,
+      "text": "Held: Balancing of aggravating and mitigating circumstances has become judge-centric rather than objective. Courts have frequently ignored the possibility of reformation of the convict."
+    },
+    {
+      "page_number": 3,
+      "text": "Death penalty commuted to life imprisonment with a minimum term of 20 years without remission."
+    }
+  ]
+}

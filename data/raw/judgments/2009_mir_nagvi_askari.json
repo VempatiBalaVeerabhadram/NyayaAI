@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_2009_MIR_NAGVI",
+  "document_type": "judgment",
+  "case_id": "CASE_2009_SC_MIR_NAGVI",
+  "case_name": "Mir Nagvi Askari v. Central Bureau of Investigation",
+  "court": "Supreme Court of India",
+  "judgment_date": "2009-08-04",
+  "judges": [
+    "S.B. Sinha",
+    "Cyriac Joseph"
+  ],
+  "case_number": "Criminal Appeal No. 719 of 2002",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "464",
+    "468",
+    "471",
+    "120B"
+  ],
+  "citations": [
+    "(2009) 15 SCC 643",
+    "AIR 2010 SC 528",
+    "2010 Cri LJ 1140"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "In the 1992 securities scam, bank officers fabricated false debit vouchers and credit advices to siphon funds to stockbrokers."
+    },
+    {
+      "page_number": 2,
+      "text": "Sections 468 & 471 IPC: To establish forgery, document must be false under Section 464 IPC, made with fraudulent intent. Authorizing false financial entries in official capacity without simulating another identity is not forgery under Section 464."
+    },
+    {
+      "page_number": 3,
+      "text": "Forging voucher signatures was proved against specific officers. Conviction under Section 468/471 affirmed for those who created false signatures."
+    }
+  ]
+}

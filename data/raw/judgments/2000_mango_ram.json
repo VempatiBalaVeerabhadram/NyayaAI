@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_2000_MANGO_RAM",
+  "document_type": "judgment",
+  "case_id": "CASE_2000_SC_MANGO_RAM",
+  "case_name": "State of Himachal Pradesh v. Mango Ram",
+  "court": "Supreme Court of India",
+  "judgment_date": "2000-08-30",
+  "judges": [
+    "K.T. Thomas",
+    "R.P. Sethi"
+  ],
+  "case_number": "Criminal Appeal No. 696 of 2000",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "375",
+    "376"
+  ],
+  "citations": [
+    "(2000) 7 SCC 224",
+    "AIR 2000 SC 2797",
+    "2000 Cri LJ 4017"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused entered prosecutrix's room, threatened her with dire consequences, and committed rape. Trial court held lack of physical struggle implied consent."
+    },
+    {
+      "page_number": 2,
+      "text": "Consent vs Submission: Submission under fear of injury or intimidation is not free consent under Section 375 IPC. Absence of physical resistance or scratch marks does not prove consent."
+    },
+    {
+      "page_number": 3,
+      "text": "Passive submission under threat cannot be equated with voluntary consent. Conviction under Section 376 IPC restored."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "DOC_SC_1965_BHAURAO",
+  "document_type": "judgment",
+  "case_id": "CASE_1965_SC_BHAURAO",
+  "case_name": "Bhaurao Shankar Lokhande and Another v. State of Maharashtra",
+  "court": "Supreme Court of India",
+  "judgment_date": "1965-02-01",
+  "judges": [
+    "K.N. Wanchoo",
+    "M. Hidayatullah",
+    "J.R. Mudholkar"
+  ],
+  "case_number": "Criminal Appeal No. 178 of 1963",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Hindu Marriage Act, 1955"
+  ],
+  "sections": [
+    "494"
+  ],
+  "citations": [
+    "AIR 1965 SC 1564",
+    "(1965) 2 SCR 837",
+    "1965 (2) Cri LJ 544"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Appellant was prosecuted for bigamy under Section 494 IPC for marrying a second wife during subsistence of first marriage. Essential Hindu marriage ceremonies were omitted."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 494 IPC requires that second marriage must be valid according to customary law or statute, but for the existence of first marriage. If essential ceremonies (Saptapadi, Datta Homa) are not performed, marriage is void in law and does not attract Section 494."
+    },
+    {
+      "page_number": 3,
+      "text": "Since Saptapadi was not performed, the second marriage was not solemnized according to law. Conviction under Section 494 IPC set aside."
+    }
+  ]
+}

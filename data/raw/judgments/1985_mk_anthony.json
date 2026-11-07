@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_1985_MK_ANTHONY",
+  "document_type": "judgment",
+  "case_id": "CASE_1985_SC_MK_ANTHONY",
+  "case_name": "State of Uttar Pradesh v. M.K. Anthony",
+  "court": "Supreme Court of India",
+  "judgment_date": "1984-12-19",
+  "judges": [
+    "D.A. Desai",
+    "V. Balakrishna Eradi",
+    "V. Khalid"
+  ],
+  "case_number": "Criminal Appeal No. 719 of 1974",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "134",
+    "302"
+  ],
+  "citations": [
+    "(1985) 1 SCC 505",
+    "AIR 1985 SC 48",
+    "1985 Cri LJ 493"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused murdered his wife and two infant children. Acquitted by High Court because of minor discrepancies in prosecution witness statements."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court held: While appreciating evidence of witnesses, minor discrepancies or embellishments due to lapse of time or memory do not warrant rejection of credible testimony."
+    },
+    {
+      "page_number": 3,
+      "text": "Court must look at broad human probability and core truth. Unrealistic standards of mathematical exactness should not be applied to rural witnesses. Acquittal reversed; conviction under Section 302 IPC restored."
+    }
+  ]
+}

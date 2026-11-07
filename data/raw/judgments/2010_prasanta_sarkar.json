@@ -1,0 +1,41 @@
+{
+  "document_id": "DOC_SC_2010_PRASANTA_SARKAR",
+  "document_type": "judgment",
+  "case_id": "CASE_2010_SC_PRASANTA_SARKAR",
+  "case_name": "Prasanta Kumar Sarkar v. Ashis Chatterjee and Another",
+  "court": "Supreme Court of India",
+  "judgment_date": "2010-10-29",
+  "judges": [
+    "D.K. Jain",
+    "H.L. Dattu"
+  ],
+  "case_number": "Criminal Appeal No. 2086 of 2010",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "439"
+  ],
+  "citations": [
+    "(2010) 14 SCC 496",
+    "AIR 2011 SC 218",
+    "2011 Cri LJ 644"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "High Court granted bail to murder accused in a single-paragraph unreasoned order. Deceased's father appealed to Supreme Court."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court enumerated 7 mandatory factors for bail in heinous crimes: (1) Prima facie case; (2) Nature and gravity of accusation; (3) Severity of punishment; (4) Danger of accused absconding; (5) Character and criminal antecedents; (6) Danger of witness tampering; (7) Larger public interest."
+    },
+    {
+      "page_number": 3,
+      "text": "High Court failed to consider heinous nature of murder and witness danger. Mechanical grant of bail set aside."
+    }
+  ]
+}

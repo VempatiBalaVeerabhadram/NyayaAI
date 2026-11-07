@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_2000_LILY_THOMAS",
+  "document_type": "judgment",
+  "case_id": "CASE_2000_SC_LILY_THOMAS",
+  "case_name": "Lily Thomas and Others v. Union of India and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "2000-05-05",
+  "judges": [
+    "S. Saghir Ahmad",
+    "R.P. Sethi"
+  ],
+  "case_number": "Writ Petition (Civil) No. 509 of 1992",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Hindu Marriage Act, 1955"
+  ],
+  "sections": [
+    "494"
+  ],
+  "citations": [
+    "(2000) 6 SCC 224",
+    "AIR 2000 SC 1650",
+    "2000 Cri LJ 2433"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Review of Sarla Mudgal ruling on whether prosecuting a Hindu husband for bigamy under Section 494 IPC upon sham conversion to Islam infringes Article 25 religious freedom."
+    },
+    {
+      "page_number": 2,
+      "text": "Held: Freedom of religion under Article 25 is subject to public order, morality, and health. Feigning religious conversion to commit bigamy is a fraud on personal law and religion."
+    },
+    {
+      "page_number": 3,
+      "text": "Section 494 IPC applies equally to all persons whose first marriage subsists in law. Conviction under Section 494 does not violate Article 25. Review petition dismissed."
+    }
+  ]
+}

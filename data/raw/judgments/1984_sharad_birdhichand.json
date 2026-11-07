@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_1984_SHARAD_SARDA",
+  "document_type": "judgment",
+  "case_id": "CASE_1984_SC_SHARAD_SARDA",
+  "case_name": "Sharad Birdhichand Sarda v. State of Maharashtra",
+  "court": "Supreme Court of India",
+  "judgment_date": "1984-07-17",
+  "judges": [
+    "S. Murtaza Fazal Ali",
+    "A. Varadarajan",
+    "Sabyasachi Mukharji"
+  ],
+  "case_number": "Criminal Appeal No. 487 of 1983",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "3",
+    "32(1)",
+    "302"
+  ],
+  "citations": [
+    "(1984) 4 SCC 116",
+    "AIR 1984 SC 1622",
+    "1984 Cri LJ 1738"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Manju died of potassium cyanide poisoning 4 months after marriage. Husband prosecuted based on circumstantial evidence."
+    },
+    {
+      "page_number": 2,
+      "text": "Five Golden Principles (Panchsheel) of Circumstantial Evidence: (1) Circumstances must be fully established; (2) Facts must be consistent only with guilt; (3) Conclusive nature; (4) Must exclude every hypothesis of innocence; (5) Chain of evidence so complete as to leave no reasonable ground for conclusion consistent with innocence."
+    },
+    {
+      "page_number": 3,
+      "text": "Possibility of suicide was not excluded; poison administration was not traced to husband. Prosecution failed to establish complete chain. Conviction under Section 302 set aside."
+    }
+  ]
+}

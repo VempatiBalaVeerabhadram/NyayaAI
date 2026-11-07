@@ -1,0 +1,46 @@
+{
+  "document_id": "DOC_SC_1962_KEDAR_NATH",
+  "document_type": "judgment",
+  "case_id": "CASE_1962_SC_KEDAR_NATH",
+  "case_name": "Kedar Nath Singh v. State of Bihar",
+  "court": "Supreme Court of India",
+  "judgment_date": "1962-01-20",
+  "judges": [
+    "B.P. Sinha",
+    "A.K. Sarkar",
+    "J.R. Mudholkar",
+    "N. Rajagopala Ayyangar",
+    "Subba Rao"
+  ],
+  "case_number": "Criminal Appeal No. 169 of 1957",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Constitution of India"
+  ],
+  "sections": [
+    "124A",
+    "505"
+  ],
+  "citations": [
+    "AIR 1962 SC 955",
+    "1962 Supp (2) SCR 769",
+    "1962 (2) Cri LJ 103"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Constitution Bench test of Section 124A IPC (Sedition) against freedom of speech under Article 19(1)(a) and reasonable restrictions under Article 19(2)."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 124A IPC must be read down to save its constitutionality: Criticizing the government, using strong or disparaging words, does not constitute sedition unless accompanied by an incitement to public disorder or violence."
+    },
+    {
+      "page_number": 3,
+      "text": "Sedition is attracted only when spoken words tend or intend to create public disturbance or lead to the overthrow of government by force. Vituperative political speech without call to arms does not constitute an offence under Section 124A."
+    }
+  ]
+}

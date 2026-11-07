@@ -1,0 +1,41 @@
+{
+  "document_id": "DOC_SC_1992_ANUPAM_KULKARNI",
+  "document_type": "judgment",
+  "case_id": "CASE_1992_SC_ANUPAM_KULKARNI",
+  "case_name": "Central Bureau of Investigation v. Anupam J. Kulkarni",
+  "court": "Supreme Court of India",
+  "judgment_date": "1992-05-08",
+  "judges": [
+    "A.M. Ahmadi",
+    "K. Ramaswamy"
+  ],
+  "case_number": "Criminal Appeal No. 343 of 1992",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "167"
+  ],
+  "citations": [
+    "(1992) 3 SCC 141",
+    "AIR 1992 SC 1768",
+    "1992 Cri LJ 2768"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused arrested in kidnapping case fell ill during initial 15-day remand. CBI sought police custody after expiry of the 15-day period."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 167(2) CrPC interpretation: Total period of police custody cannot exceed 15 days from the date of initial production before magistrate. Subsequent remand can only be judicial custody."
+    },
+    {
+      "page_number": 3,
+      "text": "Even if the accused could not be interrogated during initial 15 days due to hospitalization, police custody cannot be granted after expiry of the first 15 days."
+    }
+  ]
+}

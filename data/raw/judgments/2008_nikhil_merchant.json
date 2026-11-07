@@ -1,0 +1,47 @@
+{
+  "document_id": "DOC_SC_2008_NIKHIL_MERCHANT",
+  "document_type": "judgment",
+  "case_id": "CASE_2008_SC_NIKHIL_MERCHANT",
+  "case_name": "Nikhil Merchant v. Central Bureau of Investigation and Another",
+  "court": "Supreme Court of India",
+  "judgment_date": "2008-08-20",
+  "judges": [
+    "Altamas Kabir",
+    "Markandey Katju"
+  ],
+  "case_number": "Criminal Appeal No. 1325 of 2008",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "482",
+    "320",
+    "420",
+    "468",
+    "471",
+    "120B"
+  ],
+  "citations": [
+    "(2008) 9 SCC 677",
+    "AIR 2008 SC (Supp) 850",
+    "2008 Cri LJ 4369"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Company and bank compromised civil dispute before Debts Recovery Tribunal and executed full discharge. Accused sought quashing of CBI chargesheet under Sections 420, 468, 471 IPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court held: Even though offences under Sections 468 and 471 IPC are non-compoundable, where dispute is predominantly civil/commercial and parties have settled all claims, criminal proceedings should be quashed."
+    },
+    {
+      "page_number": 3,
+      "text": "Continuing criminal prosecution after total financial settlement serves no purpose. Chargesheet quashed under Section 482 CrPC."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "DOC_SC_1994_SANJAY_DUTT",
+  "document_type": "judgment",
+  "case_id": "CASE_1994_SC_SANJAY_DUTT",
+  "case_name": "Sanjay Dutt v. State through CBI, Bombay",
+  "court": "Supreme Court of India",
+  "judgment_date": "1994-09-09",
+  "judges": [
+    "A.M. Ahmadi",
+    "J.S. Verma",
+    "P.B. Sawant",
+    "B.P. Jeevan Reddy",
+    "N.P. Singh"
+  ],
+  "case_number": "Criminal Appeal No. 574 of 1994",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973",
+    "TADA Act, 1987",
+    "Arms Act, 1959"
+  ],
+  "sections": [
+    "167(2)",
+    "20(4)"
+  ],
+  "citations": [
+    "(1994) 5 SCC 410",
+    "1994 SCC (Cri) 1433",
+    "1995 Cri LJ 477"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Constitution Bench examined the 'indefeasible right' to default bail under Section 167(2) CrPC / Section 20(4) TADA upon expiry of statutory remand period."
+    },
+    {
+      "page_number": 2,
+      "text": "The right to default bail accrues on expiry of 180/90 days and remains enforceable until the chargesheet is filed. If chargesheet is filed before the accused applies for default bail, the right is extinguished."
+    },
+    {
+      "page_number": 3,
+      "text": "Accused must avail the right before filing of chargesheet by being ready to furnish bail. Principles governing statutory remand authoritatively settled."
+    }
+  ]
+}

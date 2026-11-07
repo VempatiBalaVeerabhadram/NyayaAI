@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_1977_BALCHAND",
+  "document_type": "judgment",
+  "case_id": "CASE_1977_SC_BALCHAND",
+  "case_name": "State of Rajasthan v. Balchand @ Baliya",
+  "court": "Supreme Court of India",
+  "judgment_date": "1977-09-20",
+  "judges": [
+    "V.R. Krishna Iyer",
+    "Jaswant Singh"
+  ],
+  "case_number": "Special Leave Petition (Criminal) No. 444 of 1977",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "437",
+    "439"
+  ],
+  "citations": [
+    "(1977) 4 SCC 308",
+    "AIR 1977 SC 2447",
+    "1978 Cri LJ 195"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "State challenged High Court order granting bail to accused convicted of murder under Section 302 IPC pending appeal."
+    },
+    {
+      "page_number": 2,
+      "text": "Krishna Iyer J. pronounced the classic doctrine: 'The basic rule may perhaps be tersely put as bail, not jail, except where there are circumstances suggestive of fleeing from justice or thwarting the course of justice.'"
+    },
+    {
+      "page_number": 3,
+      "text": "Bail should not be punitive. Unless there is serious danger of the accused absconding or tampering with witnesses, bail should normally be granted. High Court order upheld."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_2023_RITU_CHHABARIA",
+  "document_type": "judgment",
+  "case_id": "CASE_2023_SC_RITU_CHHABARIA",
+  "case_name": "Ritu Chhabaria v. Union of India and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "2023-04-26",
+  "judges": [
+    "Krishna Murari",
+    "C.T. Ravikumar"
+  ],
+  "case_number": "Writ Petition (Criminal) No. 60 of 2023",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "167(2)",
+    "173(2)"
+  ],
+  "citations": [
+    "(2023) 6 SCC 345",
+    "AIR 2023 SC 2210",
+    "2023 Cri LJ 2345"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Investigating agencies filed incomplete chargesheets (without FSL/investigation completion) to prevent accused from seeking statutory default bail under Section 167(2) CrPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Right to default bail under Section 167(2) CrPC is a fundamental right emanating from Article 21. An incomplete investigation report does not defeat default bail."
+    },
+    {
+      "page_number": 3,
+      "text": "Filing piecemeal chargesheet without completing investigation violates statutory mandate. Accused is entitled to default bail if full investigation is not concluded within prescribed 60/90 days."
+    }
+  ]
+}

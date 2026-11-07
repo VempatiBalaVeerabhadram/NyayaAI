@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_1970_CHAMAN_LAL",
+  "document_type": "judgment",
+  "case_id": "CASE_1970_SC_CHAMAN_LAL",
+  "case_name": "Chaman Lal v. State of Punjab",
+  "court": "Supreme Court of India",
+  "judgment_date": "1970-02-27",
+  "judges": [
+    "S.M. Sikri",
+    "P. Jaganmohan Reddy"
+  ],
+  "case_number": "Criminal Appeal No. 209 of 1967",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "499",
+    "500"
+  ],
+  "citations": [
+    "(1970) 1 SCC 590",
+    "AIR 1970 SC 1372",
+    "1970 Cri LJ 1266"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Municipal commissioner published defamatory allegations against president of municipal committee and pleaded good faith under Exception 8 and 9 of Section 499 IPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Good faith under Section 52 IPC requires 'due care and attention'. To succeed under exceptions to Section 499, accused must prove: (1) Circumstances under which statement was made; (2) Bona fide belief in truth after reasonable inquiry; (3) Absence of malice."
+    },
+    {
+      "page_number": 3,
+      "text": "Appellant made reckless allegations without verifying facts. Good faith rejected; conviction under Section 500 IPC affirmed."
+    }
+  ]
+}

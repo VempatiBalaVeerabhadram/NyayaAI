@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_2014_HARDEEP_SINGH",
+  "document_type": "judgment",
+  "case_id": "CASE_2014_SC_HARDEEP_SINGH",
+  "case_name": "Hardeep Singh v. State of Punjab and Others",
+  "court": "Supreme Court of India",
+  "judgment_date": "2014-01-10",
+  "judges": [
+    "B.S. Chauhan",
+    "F.M.I. Kalifulla",
+    "C.K. Prasad",
+    "M.Y. Eqbal",
+    "A.K. Sikri"
+  ],
+  "case_number": "Criminal Appeal No. 175 of 2009",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "319"
+  ],
+  "citations": [
+    "(2014) 3 SCC 92",
+    "AIR 2014 SC 1400",
+    "2014 Cri LJ 1118"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Constitution Bench settled the scope and standard of evidence required to summon additional persons as accused under Section 319 CrPC during trial."
+    },
+    {
+      "page_number": 2,
+      "text": "Held: The word 'evidence' in Section 319 CrPC means statement of witnesses recorded during trial examination-in-chief, even before cross-examination. Power can be exercised against persons not named in FIR or discharged."
+    },
+    {
+      "page_number": 3,
+      "text": "The degree of satisfaction required is more than a prima facie case at charge stage, but less than proof beyond reasonable doubt: reasonable satisfaction that accused committed the offence."
+    }
+  ]
+}

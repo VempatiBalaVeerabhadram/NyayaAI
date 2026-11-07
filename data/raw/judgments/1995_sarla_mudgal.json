@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_1995_SARLA_MUDGAL",
+  "document_type": "judgment",
+  "case_id": "CASE_1995_SC_SARLA_MUDGAL",
+  "case_name": "Sarla Mudgal and Others v. Union of India",
+  "court": "Supreme Court of India",
+  "judgment_date": "1995-05-10",
+  "judges": [
+    "Kuldip Singh",
+    "R.M. Sahai"
+  ],
+  "case_number": "Writ Petition (Civil) No. 347 of 1990",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Hindu Marriage Act, 1955"
+  ],
+  "sections": [
+    "494"
+  ],
+  "citations": [
+    "(1995) 3 SCC 635",
+    "AIR 1995 SC 1531",
+    "1995 Cri LJ 2926"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Hindu husband converted to Islam to marry a second wife without dissolving his first Hindu marriage, claiming Muslim personal law permits four wives."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court held: A Hindu marriage solemnized under the Hindu Marriage Act can only be dissolved under that Act. Conversion to Islam does not dissolve the prior marriage."
+    },
+    {
+      "page_number": 3,
+      "text": "Second marriage of a converted Hindu during lifetime of first wife is void and punishable as bigamy under Section 494 IPC. Emphasized need for Uniform Civil Code."
+    }
+  ]
+}

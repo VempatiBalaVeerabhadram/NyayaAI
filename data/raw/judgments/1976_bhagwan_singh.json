@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_1976_BHAGWAN_SINGH",
+  "document_type": "judgment",
+  "case_id": "CASE_1976_SC_BHAGWAN_SINGH",
+  "case_name": "Bhagwan Singh v. State of Haryana",
+  "court": "Supreme Court of India",
+  "judgment_date": "1975-10-10",
+  "judges": [
+    "P.N. Bhagwati",
+    "A.C. Gupta",
+    "S. Murtaza Fazal Ali"
+  ],
+  "case_number": "Criminal Appeal No. 41 of 1974",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872"
+  ],
+  "sections": [
+    "154"
+  ],
+  "citations": [
+    "(1976) 1 SCC 389",
+    "AIR 1976 SC 202",
+    "1976 Cri LJ 203"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "In a murder trial, prosecution eye-witness turned hostile and was cross-examined by the prosecutor under Section 154 Evidence Act."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court held: Merely because a witness is declared hostile under Section 154 Evidence Act, his entire testimony does not become effaced from the record. The court can accept that part of his evidence which is corroborated by other evidence."
+    },
+    {
+      "page_number": 3,
+      "text": "The hostile witness supported the presence of the accused with gun at the crime scene. That portion was rightly relied upon to convict under Section 302 IPC."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_PC_1939_PAKALA",
+  "document_type": "judgment",
+  "case_id": "CASE_1939_PC_PAKALA",
+  "case_name": "Pakala Narayana Swami v. Emperor",
+  "court": "Privy Council / Supreme Court Precedent",
+  "judgment_date": "1939-01-20",
+  "judges": [
+    "Lord Atkin",
+    "Lord Thankerton",
+    "Lord Roche",
+    "Sir Shadi Lal"
+  ],
+  "case_number": "Privy Council Appeal No. 81 of 1938",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872"
+  ],
+  "sections": [
+    "32(1)"
+  ],
+  "citations": [
+    "AIR 1939 PC 47",
+    "1939 (41) BOMLR 428"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Deceased left home telling his wife he was going to the appellant's house in Berhampur to collect money owed to him. Two days later, deceased's dismembered body was found in a trunk at Puri railway station."
+    },
+    {
+      "page_number": 2,
+      "text": "Lord Atkin's classic exposition on Section 32(1) Evidence Act: Dying declarations include statements made by person before receiving injury, relating to any of the circumstances of the transaction which resulted in his death."
+    },
+    {
+      "page_number": 3,
+      "text": "Deceased's statement to his wife that he was going to accused's house was admissible under Section 32(1) as a circumstance of the transaction resulting in death. Conviction affirmed."
+    }
+  ]
+}

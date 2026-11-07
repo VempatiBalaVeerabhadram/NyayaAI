@@ -1,0 +1,43 @@
+{
+  "document_id": "DOC_SC_1958_RAMASWAMI",
+  "document_type": "judgment",
+  "case_id": "CASE_1958_SC_RAMASWAMI",
+  "case_name": "Ramaswami Nadar v. State of Madras",
+  "court": "Supreme Court of India",
+  "judgment_date": "1957-10-25",
+  "judges": [
+    "B.P. Sinha",
+    "P. Govinda Menon",
+    "J.L. Kapur"
+  ],
+  "case_number": "Criminal Appeal No. 108 of 1957",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "403",
+    "405"
+  ],
+  "citations": [
+    "AIR 1958 SC 56",
+    "1958 SCR 739",
+    "1958 Cri LJ 228"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Appellant conducted prize competitions, collected money from contestants, and failed to disburse prize money or return entry fees."
+    },
+    {
+      "page_number": 2,
+      "text": "Section 403 IPC defines Dishonest Misappropriation of Property: Whoever dishonestly misappropriates or converts to his own use any movable property commits an offence."
+    },
+    {
+      "page_number": 3,
+      "text": "Entry fee money became the property of the competition organizer subject to civil contract; it was not property belonging to another. Dishonest misappropriation under Section 403 IPC was not established."
+    }
+  ]
+}

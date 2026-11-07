@@ -1,0 +1,42 @@
+{
+  "document_id": "DOC_SC_2019_PRADEEP_RAM",
+  "document_type": "judgment",
+  "case_id": "CASE_2019_SC_PRADEEP_RAM",
+  "case_name": "Pradeep Ram v. State of Jharkhand and Another",
+  "court": "Supreme Court of India",
+  "judgment_date": "2019-07-01",
+  "judges": [
+    "Ashok Bhushan",
+    "K.M. Joseph"
+  ],
+  "case_number": "Criminal Appeal Nos. 816-817 of 2019",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "437",
+    "439"
+  ],
+  "citations": [
+    "(2019) 17 SCC 326",
+    "AIR 2019 SC 3193",
+    "2019 Cri LJ 3901"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused was granted bail in a case; during investigation, police added grave non-bailable offences under Section 302 IPC and UAPA, and arrested accused without bail cancellation."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court settled procedure when serious non-bailable offences are added: Investigating officer cannot straightaway arrest accused who is already on bail; police must apply to court for cancellation or surrender."
+    },
+    {
+      "page_number": 3,
+      "text": "Court has power to direct accused to surrender and apply for fresh bail in respect of newly added aggravated offences."
+    }
+  ]
+}

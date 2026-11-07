@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_2009_MD_IBRAHIM",
+  "document_type": "judgment",
+  "case_id": "CASE_2009_SC_MD_IBRAHIM",
+  "case_name": "Md. Ibrahim and Others v. State of Bihar and Another",
+  "court": "Supreme Court of India",
+  "judgment_date": "2009-09-04",
+  "judges": [
+    "R.V. Raveendran",
+    "J.M. Panchal"
+  ],
+  "case_number": "Criminal Appeal No. 1695 of 2009",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "463",
+    "464",
+    "467",
+    "471",
+    "420"
+  ],
+  "citations": [
+    "(2009) 8 SCC 751",
+    "AIR 2010 SC 112",
+    "2009 Cri LJ 4323"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Accused executed a registered sale deed conveying land which did not belong to him, claiming to be the owner. Complainant filed FIR under Sections 467, 471 and 420 IPC for forgery."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court held: A person who executes a document conveying property falsely claiming to be the owner does not make a 'false document' under Section 464 IPC. A false document requires simulating another person's signature or identity."
+    },
+    {
+      "page_number": 3,
+      "text": "Executing a deed without having title is not forgery under Section 463/464. If no false document is made, charges under Section 467 and Section 471 cannot stand. Forgery charges quashed."
+    }
+  ]
+}

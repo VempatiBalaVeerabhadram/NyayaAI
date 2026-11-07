@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_2003_BS_JOSHI",
+  "document_type": "judgment",
+  "case_id": "CASE_2003_SC_BS_JOSHI",
+  "case_name": "B.S. Joshi and Others v. State of Haryana and Another",
+  "court": "Supreme Court of India",
+  "judgment_date": "2003-03-13",
+  "judges": [
+    "S.N. Variava",
+    "B.N. Agrawal",
+    "P. Venkatarama Reddi"
+  ],
+  "case_number": "Criminal Appeal No. 383 of 2003",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Code of Criminal Procedure, 1973",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "482",
+    "320",
+    "498A"
+  ],
+  "citations": [
+    "(2003) 4 SCC 675",
+    "AIR 2003 SC 1386",
+    "2003 Cri LJ 2028"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Husband and wife settled matrimonial dispute mutually, agreed for divorce by mutual consent, and sought quashing of Section 498A IPC FIR under Section 482 CrPC."
+    },
+    {
+      "page_number": 2,
+      "text": "Issue: Does the non-compoundable nature of Section 498A IPC under Section 320 CrPC limit the High Court's inherent power under Section 482 CrPC to quash proceedings upon compromise?"
+    },
+    {
+      "page_number": 3,
+      "text": "Supreme Court held: Section 320 CrPC does not limit Section 482. In matrimonial disputes where parties have genuinely settled, quashing FIR under Section 498A serves the ends of justice. FIR quashed."
+    }
+  ]
+}

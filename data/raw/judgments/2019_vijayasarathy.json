@@ -1,0 +1,44 @@
+{
+  "document_id": "DOC_SC_2019_VIJAYASARATHY",
+  "document_type": "judgment",
+  "case_id": "CASE_2019_SC_VIJAYASARATHY",
+  "case_name": "Prof. R.K. Vijayasarathy and Another v. Sudha Seetharam and Another",
+  "court": "Supreme Court of India",
+  "judgment_date": "2019-02-15",
+  "judges": [
+    "D.Y. Chandrachud",
+    "Hemant Gupta"
+  ],
+  "case_number": "Criminal Appeal No. 238 of 2019",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Penal Code, 1860",
+    "Code of Criminal Procedure, 1973"
+  ],
+  "sections": [
+    "415",
+    "420",
+    "482"
+  ],
+  "citations": [
+    "(2019) 16 SCC 739",
+    "AIR 2019 SC 1092",
+    "2019 Cri LJ 1851"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Complaint filed under Section 420 IPC alleging cheating in respect of an agreement to purchase an apartment after civil suit was already instituted."
+    },
+    {
+      "page_number": 2,
+      "text": "Supreme Court held: A breach of contract does not give rise to criminal cheating unless fraudulent intention is shown at the inception of the contract. Criminal courts cannot be used to exert pressure for civil debt recovery."
+    },
+    {
+      "page_number": 3,
+      "text": "Allowing criminal proceedings where allegations are essentially civil in nature constitutes an abuse of the judicial process. Complaint under Section 420 IPC quashed under Section 482 CrPC."
+    }
+  ]
+}

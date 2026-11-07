@@ -1,0 +1,45 @@
+{
+  "document_id": "DOC_SC_1952_HANUMANT",
+  "document_type": "judgment",
+  "case_id": "CASE_1952_SC_HANUMANT",
+  "case_name": "Hanumant Govind Nargundkar v. State of Madhya Pradesh",
+  "court": "Supreme Court of India",
+  "judgment_date": "1952-09-25",
+  "judges": [
+    "Mehr Chand Mahajan",
+    "S.R. Das",
+    "N.H. Bhagwati"
+  ],
+  "case_number": "Criminal Appeal No. 37 of 1952",
+  "legal_domain": "Criminal Law",
+  "acts": [
+    "Indian Evidence Act, 1872",
+    "Indian Penal Code, 1860"
+  ],
+  "sections": [
+    "3",
+    "120B",
+    "465"
+  ],
+  "citations": [
+    "AIR 1952 SC 343",
+    "1952 SCR 1091",
+    "1953 Cri LJ 129"
+  ],
+  "source_url": "https://main.sci.gov.in/judgment",
+  "language": "English",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Excise Commissioner was convicted of forgery and criminal conspiracy for awarding tender for sugar barrels based on circumstantial typewriter comparison evidence."
+    },
+    {
+      "page_number": 2,
+      "text": "Mahajan J. established the locus classicus on circumstantial evidence: In cases depending on circumstantial evidence, the circumstances from which the conclusion of guilt is drawn must be fully established and consistent only with the guilt of the accused."
+    },
+    {
+      "page_number": 3,
+      "text": "There must be a chain of evidence so complete as not to leave any reasonable ground for conclusion consistent with the innocence of the accused. Conviction quashed."
+    }
+  ]
+}
