@@ -79,8 +79,10 @@ class LegalRAGPipeline:
             domain_filter=request.legal_domain,
         )
 
-        # Step 2: Evidence Grounded Generation (in English based on corpus)
-        raw_english_answer = self.generator.generate_response(
+        # Step 2: Evidence Grounded Generation
+        # Pass target_language so the template synthesizer builds natively in Telugu/Hindi.
+        # Section numbers, case names, and law abbreviations stay in English always.
+        raw_answer = self.generator.generate_response(
             query=search_query,
             mode=mode,
             legal_issue=retrieval_res.primary_legal_issue,
@@ -89,16 +91,29 @@ class LegalRAGPipeline:
             applicable_acts=retrieval_res.applicable_acts,
             evidence_chunks=retrieval_res.results,
             graph_relationships=retrieval_res.graph_relationships,
+            target_language=detected_lang,
         )
 
-        # Step 3: Multilingual Response Translation (Requirement 8)
-        # Gemini/System answers in user's language while keeping section numbers and case names unchanged
+        # Step 3: Multilingual — template already built in target language above.
+        # We still store the English version for the UI toggle when it's non-English.
         if detected_lang != "en":
-            final_answer = self.translator.translate_to_target_language(raw_english_answer, detected_lang)
-            answer_english = raw_english_answer
-            logger.info(f"Answer translated to {det.language_name} (preserving section & case citations)")
+            # Build a parallel English answer for the "Show in English" toggle
+            english_answer = self.generator.generate_response(
+                query=search_query,
+                mode=mode,
+                legal_issue=retrieval_res.primary_legal_issue,
+                legal_domain=retrieval_res.legal_domain,
+                applicable_sections=retrieval_res.applicable_sections,
+                applicable_acts=retrieval_res.applicable_acts,
+                evidence_chunks=retrieval_res.results,
+                graph_relationships=retrieval_res.graph_relationships,
+                target_language="en",
+            )
+            final_answer = raw_answer
+            answer_english = english_answer
+            logger.info(f"Native {det.language_name} answer generated (section & case citations preserved in English)")
         else:
-            final_answer = raw_english_answer
+            final_answer = raw_answer
             answer_english = None
 
         # Step 4: Extract structured sources list for UI inspection
