@@ -33,6 +33,8 @@ class RAGResponse(BaseModel):
     legal_issue: str
     legal_domain: str
     answer: str
+    detected_language: str = "en"
+    answer_english: Optional[str] = None
     applicable_sections: List[str]
     applicable_acts: List[str]
     relevant_judgments: List[str]

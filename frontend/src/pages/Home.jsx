@@ -33,6 +33,7 @@ export default function Home() {
   const [response, setResponse] = useState(null);
   const [error, setError] = useState(null);
   const [openPassages, setOpenPassages] = useState({ 0: true }); // First passage open by default
+  const [showEnglish, setShowEnglish] = useState(false);
 
   // Check if date is post-BNS transition (1 July 2024)
   const isBNS = new Date(incidentDate) >= new Date('2024-07-01');
@@ -357,9 +358,28 @@ export default function Home() {
                 </div>
               </div>
 
+              {/* Language Notice & Toggle for Multilingual Queries */}
+              {response.answer_english && (
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4 p-3 rounded-xl bg-blue-950/40 border border-blue-800/40">
+                  <div className="flex items-center gap-2 text-xs text-blue-300">
+                    <Globe className="w-4 h-4 text-amber-400 flex-shrink-0" />
+                    <span>
+                      Answered in <strong>{response.detected_language === 'te' ? 'Telugu (తెలుగు)' : response.detected_language === 'hi' ? 'Hindi (हिन्दी)' : 'Regional Language'}</strong> (Statutory provisions & case citations preserved)
+                    </span>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => setShowEnglish(!showEnglish)}
+                    className="px-3 py-1 rounded-lg bg-blue-600/30 hover:bg-blue-600/50 text-blue-200 text-xs font-semibold transition-colors self-start cursor-pointer"
+                  >
+                    {showEnglish ? 'Show Regional Language Answer' : 'Show Original English Legal Brief'}
+                  </button>
+                </div>
+              )}
+
               {/* Formatted Legal Answer */}
               <div className="text-slate-200 text-sm sm:text-base leading-relaxed bg-slate-950/80 p-5 rounded-xl border border-slate-800 whitespace-pre-wrap font-sans">
-                {response.answer}
+                {showEnglish && response.answer_english ? response.answer_english : response.answer}
               </div>
 
             </div>
