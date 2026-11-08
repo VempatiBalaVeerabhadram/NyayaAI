@@ -68,10 +68,10 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
-# CORS
+# CORS — Allow all local origins (localhost, 127.0.0.1, network IPs)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:5000"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
