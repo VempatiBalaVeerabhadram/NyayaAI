@@ -18,6 +18,7 @@ from app.rag.prompt_templates import (
 )
 from app.models.retrieval import RetrievedChunkItem
 from app.models.graph_retrieval import GraphRelationshipTriple
+from app.language.translate import translate_prose
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Full bilingual template dictionaries
@@ -330,10 +331,12 @@ class GeminiGenerator:
         # ── USER mode ─────────────────────────────────────────────────────────
         if mode == "user":
             if is_native:
+                issue_display = translate_prose(legal_issue, lang)
+                domain_display = translate_prose(legal_domain, lang)
                 body = [
                     L("h_simple"),
                     (
-                        f"**{legal_issue}** {L('within_domain')} **{legal_domain}**. "
+                        f"**{issue_display}** {L('within_domain')} **{domain_display}**. "
                         f"{act_str} " + L("simple_body").format(act_str=act_str) +
                         f" ({sec_str})."
                     ),
@@ -348,8 +351,9 @@ class GeminiGenerator:
                 body.extend(["", L("h_sources_say")])
                 for chunk in evidence_chunks[:2]:
                     body.append(f"*{L('simple_evidence_intro')}*")
+                    translated_chunk_text = translate_prose(chunk.text[:280], lang)
                     body.append(
-                        f"> \"{chunk.text[:220]}...\" "
+                        f"> \"{translated_chunk_text}...\" "
                         f"— *({chunk.case_name}, {L('page_label')} {chunk.page})*"
                     )
                     body.append("")
@@ -391,15 +395,17 @@ class GeminiGenerator:
 
         # ── RESEARCHER mode ───────────────────────────────────────────────────
         if is_native:
+            issue_display = translate_prose(legal_issue, lang)
+            domain_display = translate_prose(legal_domain, lang)
             body = [
                 L("h_legal_issue"),
                 (
-                    f"{L('question_pertains')} **{legal_issue}** {L('within_domain')} "
-                    f"**{legal_domain}**. {L('governing_framework')} {act_str_cpc}, "
+                    f"{L('question_pertains')} **{issue_display}** {L('within_domain')} "
+                    f"**{domain_display}**. {L('governing_framework')} {act_str_cpc}, "
                     f"విశేషంగా {sec_str}. {L('jurisprudence_body')}"
                     if lang == "te" else
-                    f"{L('question_pertains')} **{legal_issue}** {L('within_domain')} "
-                    f"**{legal_domain}**। {L('governing_framework')} {act_str_cpc}, "
+                    f"{L('question_pertains')} **{issue_display}** {L('within_domain')} "
+                    f"**{domain_display}**। {L('governing_framework')} {act_str_cpc}, "
                     f"विशेष रूप से {sec_str}। {L('jurisprudence_body')}"
                 ),
                 "",
@@ -413,8 +419,9 @@ class GeminiGenerator:
             body.extend(["", L("h_judgments")])
             for chunk in evidence_chunks[:3]:
                 body.append(f"• **{chunk.case_name}** (*{chunk.section}*):")
+                translated_holding = translate_prose(chunk.text[:220], lang)
                 body.append(
-                    f"  - *{L('holding_label')}* \"{chunk.text[:200]}...\" "
+                    f"  - *{L('holding_label')}* \"{translated_holding}...\" "
                     f"`[{L('page_label')} {chunk.page}, {L('para_label')} {chunk.paragraph_number}]`"
                 )
 
@@ -428,19 +435,15 @@ class GeminiGenerator:
 
             body.extend(["", L("h_evidence")])
             for idx, chunk in enumerate(evidence_chunks, start=1):
-                # Native-language header + context sentence before English verbatim quote
                 body.append(
                     f"**{L('extract_label')} {idx} — {chunk.case_name}** "
                     f"({L('section_ref')} {chunk.section} | "
                     f"{L('page_label')} {chunk.page}, {L('para_label')} {chunk.paragraph_number})"
                 )
                 body.append(f"*{L('case_discusses')} **{chunk.case_name}** — {chunk.section}*")
-                body.append(f"*{L('evidence_intro')}*")
-                body.append(f"> {chunk.text.strip()}")
+                translated_evidence = translate_prose(chunk.text.strip(), lang)
+                body.append(f"> {translated_evidence}")
                 body.append("")
-
-            # Note about verbatim English citations
-            body.append(f"---\n{L('judgment_note')}\n")
 
             body.append(L("h_sources"))
             for case in unique_cases:
