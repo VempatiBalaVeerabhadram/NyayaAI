@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-// FastAPI AI Service runs directly on port 8000 with /ai prefix
-const AI_SERVICE_URL = import.meta.env.VITE_AI_URL || 'http://localhost:8000';
+// FastAPI AI Service proxied through Vite (/ai prefix) or direct via env
+const AI_SERVICE_URL = import.meta.env.VITE_AI_URL || '';
 // Node.js Express Gateway on port 5000 (for auth/mongo features)
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
 
