@@ -76,7 +76,8 @@ export const api = {
   async getDocumentsList(params = {}) {
     try {
       const response = await aiClient.get('/ai/documents', { params });
-      return response.data;
+      const docs = Array.isArray(response.data) ? response.data : (response.data?.documents || []);
+      return { documents: docs, total: docs.length };
     } catch (err) {
       console.error('Failed to get documents:', err);
       return { documents: [], total: 0 };

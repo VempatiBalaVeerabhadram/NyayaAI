@@ -22,10 +22,12 @@ router = APIRouter(prefix="/ai/documents", tags=["Documents"])
 @router.get("", response_model=List[DocumentSummaryItem], summary="List all processed documents")
 async def list_documents(
     doc_type: Optional[str] = Query(None, description="Filter by document_type ('judgment' or 'act')"),
+    document_type: Optional[str] = Query(None, description="Alias for doc_type"),
     domain: Optional[str] = Query(None, description="Filter by legal domain"),
     search: Optional[str] = Query(None, description="Search term in case_name or court"),
 ):
     """Returns metadata summary of all ingested documents in the repository."""
+    filter_type = (document_type or doc_type or "").strip().lower()
     metadata_dir = Path(settings.data_metadata_dir)
     if not metadata_dir.exists():
         return []
@@ -46,7 +48,7 @@ async def list_documents(
                     chunks_count = len(json.load(cf))
 
             # Apply filters
-            if doc_type and meta.get("document_type", "").lower() != doc_type.lower():
+            if filter_type and meta.get("document_type", "").lower() != filter_type:
                 continue
             if domain and domain.lower() not in meta.get("legal_domain", "").lower():
                 continue

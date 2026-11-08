@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import {
   Search,
   Scale,
@@ -13,11 +14,17 @@ import {
   ChevronDown,
   ChevronUp,
   Download,
+  ExternalLink,
+  Layers,
+  Award,
 } from 'lucide-react';
 import { api } from '../api/client';
 
 export default function Home() {
-  const [query, setQuery] = useState('');
+  const [searchParams, setSearchParams] = useSearchParams();
+  const initialQuery = searchParams.get('q') || '';
+
+  const [query, setQuery] = useState(initialQuery);
   const [incidentDate, setIncidentDate] = useState('2024-08-15');
   const [language, setLanguage] = useState('auto');
   const [mode, setMode] = useState('researcher'); // 'user' or 'researcher'
@@ -25,27 +32,36 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(false);
   const [response, setResponse] = useState(null);
   const [error, setError] = useState(null);
-  const [expandedPassage, setExpandedPassage] = useState(null);
+  const [openPassages, setOpenPassages] = useState({ 0: true }); // First passage open by default
 
   // Check if date is post-BNS transition (1 July 2024)
   const isBNS = new Date(incidentDate) >= new Date('2024-07-01');
 
   const sampleQueries = [
     { label: 'Anticipatory Bail Grounds', text: 'What are the mandatory conditions and principles governing anticipatory bail under Section 438?' },
-    { label: 'Theft Elements & Punishment', text: 'What are the essential ingredients of theft and what is the punishment?' },
+    { label: 'Theft Elements & Punishment', text: 'What are the essential ingredients of theft under Indian Penal Code and what is the punishment?' },
     { label: 'Cheating vs Criminal Breach of Trust', text: 'When does an offence of cheating under Section 420 IPC also constitute criminal breach of trust?' },
     { label: 'Arrest Guidelines (Arnesh Kumar)', text: 'What guidelines did the Supreme Court lay down in Arnesh Kumar regarding arrest for offences punishable up to 7 years?' },
     { label: 'Telugu (తెలుగు) Query', text: 'దొంగతనం నేరం యొక్క ముఖ్యమైన అంశాలు మరియు బెయిల్ నిబంధనలు ఏమిటి?' },
     { label: 'Hindi (हिन्दी) Query', text: 'अग्रिम जमानत के लिए अदालत की क्या शर्तें हैं और गिरफ्तारी के नियम क्या हैं?' },
   ];
 
-  const handleSearch = async (targetQuery = query) => {
-    const q = (targetQuery || query).trim();
+  // Auto-run if query param is passed from Precedents or Bare Acts
+  useEffect(() => {
+    if (initialQuery && initialQuery.trim()) {
+      setQuery(initialQuery);
+      handleSearch(initialQuery);
+    }
+  }, [initialQuery]);
+
+  const handleSearch = async (targetQuery) => {
+    const q = (targetQuery !== undefined ? targetQuery : query).trim();
     if (!q) return;
 
     setIsLoading(true);
     setError(null);
     setResponse(null);
+    setOpenPassages({ 0: true, 1: true }); // Open top 2 passages by default
 
     try {
       const res = await api.queryLegalAI({
@@ -62,10 +78,30 @@ export default function Home() {
       }
     } catch (err) {
       console.error('Query failed:', err);
-      setError(err.response?.data?.detail || err.message || 'Failed to retrieve legal response. Please ensure backend is running.');
+      setError(
+        err.response?.data?.detail ||
+        err.message ||
+        'Failed to connect to NyayaAI service. Ensure AI backend is running on port 8000.'
+      );
     } finally {
       setIsLoading(false);
     }
+  };
+
+  const togglePassage = (idx) => {
+    setOpenPassages((prev) => ({
+      ...prev,
+      [idx]: !prev[idx],
+    }));
+  };
+
+  const toggleAllPassages = (expandAll) => {
+    if (!response?.evidence_chunks) return;
+    const newState = {};
+    response.evidence_chunks.forEach((_, idx) => {
+      newState[idx] = expandAll;
+    });
+    setOpenPassages(newState);
   };
 
   const handleExport = () => {
@@ -81,19 +117,19 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 py-10 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-5xl mx-auto">
         
         {/* Clean Header */}
         <div className="text-center mb-8">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 text-xs font-medium text-blue-400 mb-4">
-            <Sparkles className="w-3.5 h-3.5" />
+          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 text-xs font-semibold text-blue-400 mb-4">
+            <Sparkles className="w-3.5 h-3.5 text-amber-400" />
             <span>AI Legal Intelligence Grounded in Indian Law</span>
           </div>
           <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight mb-2">
             Ask Any Indian Legal Question
           </h1>
-          <p className="text-sm sm:text-base text-slate-400 max-w-xl mx-auto">
-            Get instant, verifiable answers grounded in Supreme Court judgments and the governing Penal Code (IPC / BNS).
+          <p className="text-sm sm:text-base text-slate-400 max-w-2xl mx-auto">
+            Get instant answers grounded in 146 Supreme Court judgments, the complete Indian Penal Code (IPC 1860), and the new Bharatiya Nyaya Sanhita (BNS 2023).
           </p>
         </div>
 
@@ -131,9 +167,9 @@ export default function Home() {
               />
               <div className="mt-1">
                 {isBNS ? (
-                  <span className="text-[10px] text-emerald-400 font-medium">⚡ BNS 2023 In-Force (Post-July 2024)</span>
+                  <span className="text-[10px] text-emerald-400 font-semibold">⚡ BNS 2023 In-Force (Post-July 2024)</span>
                 ) : (
-                  <span className="text-[10px] text-blue-400 font-medium">🏛️ IPC 1860 Applicable (Pre-July 2024)</span>
+                  <span className="text-[10px] text-blue-400 font-semibold">🏛️ IPC 1860 Applicable (Pre-July 2024)</span>
                 )}
               </div>
             </div>
@@ -154,7 +190,7 @@ export default function Home() {
                 <option value="te">Telugu (తెలుగు)</option>
                 <option value="hi">Hindi (हिन्दी)</option>
               </select>
-              <div className="mt-1 text-[10px] text-slate-500">61 Legal terms shielded</div>
+              <div className="mt-1 text-[10px] text-slate-500">61 Legal terms shielded before translation</div>
             </div>
 
             {/* Explanation Depth */}
@@ -167,7 +203,7 @@ export default function Home() {
                 <button
                   type="button"
                   onClick={() => setMode('user')}
-                  className={`py-1 text-[11px] font-medium rounded-md transition-colors ${
+                  className={`py-1 text-[11px] font-medium rounded-md transition-colors cursor-pointer ${
                     mode === 'user' ? 'bg-blue-600 text-white' : 'text-slate-400 hover:text-white'
                   }`}
                 >
@@ -176,14 +212,14 @@ export default function Home() {
                 <button
                   type="button"
                   onClick={() => setMode('researcher')}
-                  className={`py-1 text-[11px] font-medium rounded-md transition-colors ${
+                  className={`py-1 text-[11px] font-medium rounded-md transition-colors cursor-pointer ${
                     mode === 'researcher' ? 'bg-blue-600 text-white' : 'text-slate-400 hover:text-white'
                   }`}
                 >
-                  Detailed
+                  Detailed Brief
                 </button>
               </div>
-              <div className="mt-1 text-[10px] text-slate-500">{mode === 'researcher' ? 'Includes full ratios & citations' : 'Direct plain explanation'}</div>
+              <div className="mt-1 text-[10px] text-slate-500">{mode === 'researcher' ? 'Full legal ratios, sections, & evidence' : 'Direct summary'}</div>
             </div>
 
           </div>
@@ -203,7 +239,7 @@ export default function Home() {
             ) : (
               <>
                 <Search className="w-4 h-4" />
-                <span>Get Legal Answer</span>
+                <span>Get Legal Answer & Evidence</span>
               </>
             )}
           </button>
@@ -211,7 +247,7 @@ export default function Home() {
           {/* Quick-Pick Sample Chips */}
           <div className="mt-5 pt-4 border-t border-slate-800/80">
             <div className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-2">
-              Or Try A Sample Scenario:
+              Or Click A Landmark Scenario To Analyze:
             </div>
             <div className="flex flex-wrap gap-2">
               {sampleQueries.map((sample, idx) => (
@@ -222,7 +258,7 @@ export default function Home() {
                     setQuery(sample.text);
                     handleSearch(sample.text);
                   }}
-                  className="px-3 py-1.5 rounded-lg bg-slate-950 hover:bg-slate-800 border border-slate-800 text-xs text-slate-300 hover:text-white transition-colors text-left"
+                  className="px-3 py-1.5 rounded-lg bg-slate-950 hover:bg-slate-800 border border-slate-800 text-xs text-slate-300 hover:text-white transition-colors text-left cursor-pointer"
                 >
                   {sample.label}
                 </button>
@@ -245,122 +281,196 @@ export default function Home() {
 
         {/* Result Card */}
         {response && (
-          <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-2xl mb-10">
+          <div className="space-y-8 mb-10">
             
-            {/* Result Header & Status */}
-            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-5 border-b border-slate-800 mb-6">
-              <div>
+            {/* 1. Grounded Analysis Card */}
+            <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-2xl">
+              
+              {/* Result Header & Status */}
+              <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-5 border-b border-slate-800 mb-6">
+                <div>
+                  <div className="flex items-center gap-2">
+                    <span className="text-xs font-semibold text-blue-400 uppercase tracking-wider">
+                      {response.legal_domain || 'Criminal Law'}
+                    </span>
+                    <span className="text-slate-600">•</span>
+                    <span className="text-xs text-slate-300 font-medium">
+                      {response.legal_issue || 'Judicial Analysis'}
+                    </span>
+                  </div>
+                  <h2 className="text-lg font-bold text-white mt-1">
+                    Legal Analysis & Precedent Findings
+                  </h2>
+                </div>
+
                 <div className="flex items-center gap-2">
-                  <span className="text-xs font-semibold text-blue-400 uppercase tracking-wider">
-                    {response.legal_domain || 'Criminal Law'}
-                  </span>
-                  <span className="text-slate-600">•</span>
-                  <span className="text-xs text-slate-300 font-medium">
-                    {response.legal_issue || 'Judicial Analysis'}
-                  </span>
+                  <button
+                    onClick={handleExport}
+                    className="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-medium flex items-center gap-1.5 transition-colors cursor-pointer"
+                    title="Export analysis as Markdown"
+                  >
+                    <Download className="w-3.5 h-3.5" />
+                    <span>Export Brief</span>
+                  </button>
+                  <div className="px-3 py-1.5 rounded-lg bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-semibold flex items-center gap-1.5">
+                    <CheckCircle2 className="w-3.5 h-3.5" />
+                    <span>100% Grounded</span>
+                  </div>
                 </div>
-                <h2 className="text-lg font-bold text-white mt-1">
-                  Legal Analysis & Precedent Findings
-                </h2>
               </div>
 
-              <div className="flex items-center gap-2">
-                <button
-                  onClick={handleExport}
-                  className="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-medium flex items-center gap-1.5 transition-colors"
-                  title="Export analysis as Markdown"
-                >
-                  <Download className="w-3.5 h-3.5" />
-                  <span>Export</span>
-                </button>
-                <div className="px-3 py-1.5 rounded-lg bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-semibold flex items-center gap-1.5">
-                  <CheckCircle2 className="w-3.5 h-3.5" />
-                  <span>100% Grounded</span>
+              {/* Applicable Sections & Precedents Pills */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
+                <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
+                  <div className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-1.5">
+                    Governing Statutory Acts & Sections:
+                  </div>
+                  <div className="flex flex-wrap gap-1.5">
+                    {response.applicable_acts?.map((act, i) => (
+                      <span key={i} className="px-2.5 py-1 rounded-md bg-blue-900/40 border border-blue-500/30 text-blue-300 text-xs font-medium">
+                        {act}
+                      </span>
+                    ))}
+                    {response.applicable_sections?.filter(Boolean).map((sec, i) => (
+                      <span key={i} className="px-2.5 py-1 rounded-md bg-indigo-900/40 border border-indigo-500/30 text-indigo-300 text-xs font-medium">
+                        {sec}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+
+                <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
+                  <div className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-1.5">
+                    Cited Landmark Supreme Court Judgments:
+                  </div>
+                  <div className="flex flex-wrap gap-1.5">
+                    {response.relevant_judgments && response.relevant_judgments.length > 0 ? (
+                      response.relevant_judgments.map((caseName, i) => (
+                        <span key={i} className="px-2.5 py-1 rounded-md bg-amber-900/30 border border-amber-500/30 text-amber-300 text-xs font-medium">
+                          🏛️ {caseName}
+                        </span>
+                      ))
+                    ) : (
+                      <span className="text-xs text-slate-500">Statutory text reference</span>
+                    )}
+                  </div>
                 </div>
               </div>
+
+              {/* Formatted Legal Answer */}
+              <div className="text-slate-200 text-sm sm:text-base leading-relaxed bg-slate-950/80 p-5 rounded-xl border border-slate-800 whitespace-pre-wrap font-sans">
+                {response.answer}
+              </div>
+
             </div>
 
-            {/* Applicable Sections & Precedents Pills */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
-              <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
-                <div className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-1.5">
-                  Governing Statutory Acts & Sections:
-                </div>
-                <div className="flex flex-wrap gap-1.5">
-                  {response.applicable_acts?.map((act, i) => (
-                    <span key={i} className="px-2.5 py-1 rounded-md bg-blue-900/40 border border-blue-500/30 text-blue-300 text-xs font-medium">
-                      {act}
-                    </span>
-                  ))}
-                  {response.applicable_sections?.filter(Boolean).map((sec, i) => (
-                    <span key={i} className="px-2.5 py-1 rounded-md bg-indigo-900/40 border border-indigo-500/30 text-indigo-300 text-xs font-medium">
-                      {sec}
-                    </span>
-                  ))}
-                </div>
-              </div>
-
-              <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
-                <div className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-1.5">
-                  Cited Landmark Supreme Court Judgments:
-                </div>
-                <div className="flex flex-wrap gap-1.5">
-                  {response.relevant_judgments?.slice(0, 3).map((caseName, i) => (
-                    <span key={i} className="px-2.5 py-1 rounded-md bg-amber-900/30 border border-amber-500/30 text-amber-300 text-xs font-medium">
-                      🏛️ {caseName}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            </div>
-
-            {/* Formatted Legal Answer */}
-            <div className="prose prose-invert max-w-none text-slate-200 text-sm sm:text-base leading-relaxed bg-slate-950/60 p-5 rounded-xl border border-slate-800 mb-6 whitespace-pre-wrap font-sans">
-              {response.answer}
-            </div>
-
-            {/* Evidence Passages Accordion */}
+            {/* 2. Primary Evidence Sources Section (Prominent, Always Readable) */}
             {response.evidence_chunks && response.evidence_chunks.length > 0 && (
-              <div>
-                <div className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3 flex items-center gap-2">
-                  <BookOpen className="w-4 h-4 text-blue-400" />
-                  <span>Verified Court Excerpts ({response.evidence_chunks.length} Passages Found):</span>
-                </div>
+              <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-2xl">
                 
-                <div className="space-y-2">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-4 border-b border-slate-800 mb-5">
+                  <div>
+                    <h3 className="text-base font-bold text-white flex items-center gap-2">
+                      <BookOpen className="w-5 h-5 text-blue-400" />
+                      Primary Evidence Sources & Verified Court Passages
+                    </h3>
+                    <p className="text-xs text-slate-400 mt-0.5">
+                      Exact judicial ratios and statutory text extracted from official Supreme Court records ({response.evidence_chunks.length} chunks retrieved)
+                    </p>
+                  </div>
+
+                  <div className="flex items-center gap-2">
+                    <button
+                      type="button"
+                      onClick={() => toggleAllPassages(true)}
+                      className="px-2.5 py-1 rounded-md bg-slate-800 hover:bg-slate-700 text-xs text-slate-300 hover:text-white transition-colors cursor-pointer"
+                    >
+                      Expand All
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => toggleAllPassages(false)}
+                      className="px-2.5 py-1 rounded-md bg-slate-800 hover:bg-slate-700 text-xs text-slate-300 hover:text-white transition-colors cursor-pointer"
+                    >
+                      Collapse All
+                    </button>
+                  </div>
+                </div>
+
+                <div className="space-y-4">
                   {response.evidence_chunks.map((chunk, idx) => {
-                    const isExpanded = expandedPassage === idx;
+                    const isOpen = openPassages[idx] !== false; // Default true if not explicitly false
                     return (
-                      <div key={idx} className="border border-slate-800 rounded-xl bg-slate-950 overflow-hidden">
-                        <button
-                          type="button"
-                          onClick={() => setExpandedPassage(isExpanded ? null : idx)}
-                          className="w-full p-3.5 flex items-center justify-between text-left hover:bg-slate-900/80 transition-colors"
+                      <div
+                        key={idx}
+                        className="border border-slate-800 rounded-xl bg-slate-950 overflow-hidden shadow-sm hover:border-blue-500/40 transition-colors"
+                      >
+                        {/* Passage Header */}
+                        <div
+                          onClick={() => togglePassage(idx)}
+                          className="p-4 flex items-center justify-between cursor-pointer hover:bg-slate-900/60 transition-colors"
                         >
-                          <div>
-                            <div className="text-xs font-semibold text-blue-400">
-                              {chunk.case_name || chunk.document_id}
-                            </div>
-                            <div className="text-[11px] text-slate-400">
-                              Page {chunk.page}, Para {chunk.paragraph_number} • Section: {chunk.section}
+                          <div className="flex items-center gap-3">
+                            <span className="w-6 h-6 rounded-full bg-blue-600/20 border border-blue-500/40 text-blue-400 text-xs font-bold flex items-center justify-center flex-shrink-0">
+                              #{idx + 1}
+                            </span>
+                            <div>
+                              <div className="text-sm font-bold text-white flex items-center gap-2">
+                                <span>{chunk.case_name || chunk.document_id}</span>
+                                {chunk.section && (
+                                  <span className="px-2 py-0.5 rounded bg-indigo-950 text-indigo-300 border border-indigo-800 text-[11px] font-mono">
+                                    {chunk.section}
+                                  </span>
+                                )}
+                              </div>
+                              <div className="text-[11px] text-slate-400 mt-0.5 flex flex-wrap items-center gap-2">
+                                <span>Page {chunk.page}, Para {chunk.paragraph_number}</span>
+                                <span>•</span>
+                                <span className="text-slate-500 font-mono">
+                                  Hybrid Score: {(chunk.hybrid_score || 0).toFixed(4)} (BM25: {(chunk.bm25_score || 0).toFixed(4)}, SBERT: {(chunk.semantic_score || 0).toFixed(4)})
+                                </span>
+                              </div>
                             </div>
                           </div>
-                          {isExpanded ? (
-                            <ChevronUp className="w-4 h-4 text-slate-400" />
-                          ) : (
-                            <ChevronDown className="w-4 h-4 text-slate-400" />
-                          )}
-                        </button>
 
-                        {isExpanded && (
-                          <div className="p-3.5 pt-0 text-xs text-slate-300 border-t border-slate-900 font-mono leading-relaxed bg-slate-900/40">
-                            {chunk.text}
+                          <button
+                            type="button"
+                            className="p-1 rounded text-slate-400 hover:text-white"
+                          >
+                            {isOpen ? (
+                              <ChevronUp className="w-4 h-4 text-slate-400" />
+                            ) : (
+                              <ChevronDown className="w-4 h-4 text-slate-400" />
+                            )}
+                          </button>
+                        </div>
+
+                        {/* Passage Text Body */}
+                        {isOpen && (
+                          <div className="px-4 pb-4 pt-1 border-t border-slate-900 bg-slate-900/30">
+                            <div className="p-3.5 rounded-lg bg-slate-950 border border-slate-800/80 text-xs text-slate-200 font-mono leading-relaxed whitespace-pre-wrap">
+                              {chunk.text}
+                            </div>
+                            {chunk.source_url && (
+                              <div className="mt-2 text-[11px] text-slate-500 flex items-center gap-1">
+                                <span>Source:</span>
+                                <a
+                                  href={chunk.source_url}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="text-blue-400 hover:underline flex items-center gap-0.5"
+                                >
+                                  {chunk.source_url} <ExternalLink className="w-3 h-3" />
+                                </a>
+                              </div>
+                            )}
                           </div>
                         )}
                       </div>
                     );
                   })}
                 </div>
+
               </div>
             )}
 
@@ -368,7 +478,7 @@ export default function Home() {
         )}
 
         {/* Minimal Legal Disclaimer */}
-        <div className="text-center text-[11px] text-slate-400 py-4 border-t border-slate-900">
+        <div className="text-center text-[11px] text-slate-500 py-4 border-t border-slate-900">
           ⚖️ <span className="font-semibold text-slate-400">Legal Decision-Support Disclaimer:</span> NyayaAI answers are synthesized strictly from official Indian statutory gazettes and Supreme Court records. This tool provides legal intelligence and research support, not formal legal advice under the Advocates Act, 1961.
         </div>
 
