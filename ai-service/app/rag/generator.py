@@ -89,6 +89,14 @@ TEMPLATES: Dict[str, Dict[str, str]] = {
         "judicial_discussion":  "న్యాయపరమైన చర్చ",
         "general_provisions":   "సాధారణ చట్టబద్ధమైన నిబంధనలు",
         "indian_law":           "భారతీయ చట్టం",
+        # Evidence block context
+        "evidence_intro":       "ఈ తీర్పు ప్రకారం న్యాయస్థానం ఇలా పేర్కొంది (అధికారిక ఆంగ్ల న్యాయ సాక్ష్యం):",
+        "case_from":            "కేసు మూలం:",
+        "judgment_note":        "📋 *న్యాయ సాక్ష్యాలు అధికారిక న్యాయస్థాన రికార్డుల నుండి నేరుగా ఉటంకించబడ్డాయి. చట్టపరమైన ప్రామాణికత కోసం అసలు ఆంగ్ల వచనం సంరక్షించబడింది.*",
+        "case_discusses":       "ఈ కేసు చర్చిస్తోంది:",
+        "section_ref":          "సంబంధిత నిబంధన:",
+        "court_held":           "న్యాయస్థానం తీర్పు:",
+        "simple_evidence_intro": "న్యాయ మూలం ఏమి చెప్తోందంటే (అధికారిక ఆంగ్ల న్యాయ సాక్ష్యం):",
     },
 
     # ── Hindi (hi) ────────────────────────────────────────────────────────────
@@ -154,6 +162,14 @@ TEMPLATES: Dict[str, Dict[str, str]] = {
         "judicial_discussion":  "न्यायिक चर्चा",
         "general_provisions":   "सामान्य वैधानिक प्रावधान",
         "indian_law":           "भारतीय कानून",
+        # Evidence block context
+        "evidence_intro":       "इस निर्णय में न्यायालय ने इस प्रकार कहा (आधिकारिक अंग्रेजी कानूनी साक्ष्य):",
+        "case_from":            "मामले का स्रोत:",
+        "judgment_note":        "📋 *कानूनी साक्ष्य आधिकारिक न्यायालय अभिलेखों से सीधे उद्धृत किए गए हैं। कानूनी प्रामाणिकता के लिए मूल अंग्रेजी पाठ संरक्षित है।*",
+        "case_discusses":       "यह मामला चर्चा करता है:",
+        "section_ref":          "संबंधित प्रावधान:",
+        "court_held":           "न्यायालय का निर्णय:",
+        "simple_evidence_intro": "कानूनी स्रोत के अनुसार (आधिकारिक अंग्रेजी कानूनी साक्ष्य):",
     },
 }
 
@@ -331,6 +347,7 @@ class GeminiGenerator:
                     body.append(f"• **{case}**: {L('landmark_ruling')}")
                 body.extend(["", L("h_sources_say")])
                 for chunk in evidence_chunks[:2]:
+                    body.append(f"*{L('simple_evidence_intro')}*")
                     body.append(
                         f"> \"{chunk.text[:220]}...\" "
                         f"— *({chunk.case_name}, {L('page_label')} {chunk.page})*"
@@ -411,12 +428,19 @@ class GeminiGenerator:
 
             body.extend(["", L("h_evidence")])
             for idx, chunk in enumerate(evidence_chunks, start=1):
+                # Native-language header + context sentence before English verbatim quote
                 body.append(
-                    f"**{L('extract_label')} {idx} [{chunk.case_name} — "
-                    f"{L('page_label')} {chunk.page}, {L('para_label')} {chunk.paragraph_number}]**:"
+                    f"**{L('extract_label')} {idx} — {chunk.case_name}** "
+                    f"({L('section_ref')} {chunk.section} | "
+                    f"{L('page_label')} {chunk.page}, {L('para_label')} {chunk.paragraph_number})"
                 )
+                body.append(f"*{L('case_discusses')} **{chunk.case_name}** — {chunk.section}*")
+                body.append(f"*{L('evidence_intro')}*")
                 body.append(f"> {chunk.text.strip()}")
                 body.append("")
+
+            # Note about verbatim English citations
+            body.append(f"---\n{L('judgment_note')}\n")
 
             body.append(L("h_sources"))
             for case in unique_cases:
