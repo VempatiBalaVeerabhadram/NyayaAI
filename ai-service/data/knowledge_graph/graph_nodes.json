@@ -1,0 +1,1135 @@
+[
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "label": "Case",
+    "properties": {
+      "name": "Arnesh Kumar 2014",
+      "court": "Supreme Court of India",
+      "judgment_date": "2014-07-02",
+      "case_number": "Criminal Appeal No. 1277 of 2014",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_ARNESH_KUMAR_2014",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_ARNESH_KUMAR_2014",
+      "sha256": "d657d88387c0137cbd5f1b368b3f158dbe8e94769d42e19b04519b423877dfbf",
+      "total_pages": 3
+    }
+  },
+  {
+    "id": "COURT_SUPREME_COURT_OF_INDIA",
+    "label": "Court",
+    "properties": {
+      "name": "Supreme Court of India"
+    }
+  },
+  {
+    "id": "JUDGE_CHANDRAMAULI_KR._PRASAD",
+    "label": "Judge",
+    "properties": {
+      "name": "Chandramauli Kr. Prasad"
+    }
+  },
+  {
+    "id": "JUDGE_PINAKI_CHANDRA_GHOSE",
+    "label": "Judge",
+    "properties": {
+      "name": "Pinaki Chandra Ghose"
+    }
+  },
+  {
+    "id": "JUDGE_JJ.\nJUDGMENT_DATED:_02_JULY",
+    "label": "Judge",
+    "properties": {
+      "name": "JJ.\nJudgment Dated: 02 July"
+    }
+  },
+  {
+    "id": "JUDGE_2014",
+    "label": "Judge",
+    "properties": {
+      "name": "2014"
+    }
+  },
+  {
+    "id": "ISSUE_ANTICIPATORY_BAIL",
+    "label": "LegalIssue",
+    "properties": {
+      "name": "Anticipatory Bail"
+    }
+  },
+  {
+    "id": "SEC_4",
+    "label": "Section",
+    "properties": {
+      "section_number": "4",
+      "title": "Section 4"
+    }
+  },
+  {
+    "id": "SEC_41",
+    "label": "Section",
+    "properties": {
+      "section_number": "41",
+      "title": "Section 41"
+    }
+  },
+  {
+    "id": "SEC_41A",
+    "label": "Section",
+    "properties": {
+      "section_number": "41A",
+      "title": "Section 41A"
+    }
+  },
+  {
+    "id": "SEC_498",
+    "label": "Section",
+    "properties": {
+      "section_number": "498",
+      "title": "Section 498"
+    }
+  },
+  {
+    "id": "CASE_DOC_BHAJAN_LAL_1992",
+    "label": "Case",
+    "properties": {
+      "name": "Bhajan Lal 1992",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 729 OF 1990",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_BHAJAN_LAL_1992",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_BHAJAN_LAL_1992",
+      "sha256": "ed734bfda6d406d89b4fe06c409c57531d46ed84e589b72ba41cfa49477e519d",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "ISSUE_QUASHING_OF_FIR",
+    "label": "LegalIssue",
+    "properties": {
+      "name": "Quashing Of Fir"
+    }
+  },
+  {
+    "id": "SEC_155",
+    "label": "Section",
+    "properties": {
+      "section_number": "155",
+      "title": "Section 155"
+    }
+  },
+  {
+    "id": "SEC_156",
+    "label": "Section",
+    "properties": {
+      "section_number": "156",
+      "title": "Section 156"
+    }
+  },
+  {
+    "id": "SEC_482",
+    "label": "Section",
+    "properties": {
+      "section_number": "482",
+      "title": "Section 482"
+    }
+  },
+  {
+    "id": "CASE_DOC_DATARAM_SINGH_2018",
+    "label": "Case",
+    "properties": {
+      "name": "Dataram Singh 2018",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 227 OF 2018",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_DATARAM_SINGH_2018",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_DATARAM_SINGH_2018",
+      "sha256": "62cf596770e2725f9b5db0fac6b9527f782ec575156e10f07f4c0ec40ffb70fd",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "ISSUE_REGULAR_BAIL",
+    "label": "LegalIssue",
+    "properties": {
+      "name": "Regular Bail"
+    }
+  },
+  {
+    "id": "SEC_437",
+    "label": "Section",
+    "properties": {
+      "section_number": "437",
+      "title": "Section 437"
+    }
+  },
+  {
+    "id": "SEC_439",
+    "label": "Section",
+    "properties": {
+      "section_number": "439",
+      "title": "Section 439"
+    }
+  },
+  {
+    "id": "CASE_DOC_GIAN_SINGH_2012",
+    "label": "Case",
+    "properties": {
+      "name": "Gian Singh 2012",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "SPECIAL LEAVE PETITION (CRL.) NO. 8989 OF 2010",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_GIAN_SINGH_2012",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_GIAN_SINGH_2012",
+      "sha256": "ec9a53f9372c4170fbf02bdbe59373db9273d38a59a71f590d3d010ac5424c22",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "SEC_320",
+    "label": "Section",
+    "properties": {
+      "section_number": "320",
+      "title": "Section 320"
+    }
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "label": "Case",
+    "properties": {
+      "name": "Gurbaksh Singh Sibbia 1980",
+      "court": "Supreme Court of India",
+      "judgment_date": "1980-04-09",
+      "case_number": "Criminal Appeal No. 335 of 1978",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_GURBAKSH_SINGH_SIBBIA_1980",
+      "sha256": "9d15f0a54fe668c9d2cab07f3756cd9490a04314521a4d9182b191b86eece28b",
+      "total_pages": 3
+    }
+  },
+  {
+    "id": "JUDGE_Y.V._CHANDRACHUD",
+    "label": "Judge",
+    "properties": {
+      "name": "Y.V. Chandrachud"
+    }
+  },
+  {
+    "id": "JUDGE_P.N._BHAGWATI",
+    "label": "Judge",
+    "properties": {
+      "name": "P.N. Bhagwati"
+    }
+  },
+  {
+    "id": "JUDGE_N.L._UNTWALIA",
+    "label": "Judge",
+    "properties": {
+      "name": "N.L. Untwalia"
+    }
+  },
+  {
+    "id": "JUDGE_V.D._TULZAPURKAR",
+    "label": "Judge",
+    "properties": {
+      "name": "V.D. Tulzapurkar"
+    }
+  },
+  {
+    "id": "JUDGE_A.P._SEN",
+    "label": "Judge",
+    "properties": {
+      "name": "A.P. Sen"
+    }
+  },
+  {
+    "id": "JUDGE_JJ.\nJUDGMENT_DATED:_09_APRIL",
+    "label": "Judge",
+    "properties": {
+      "name": "JJ.\nJudgment Dated: 09 April"
+    }
+  },
+  {
+    "id": "JUDGE_1980",
+    "label": "Judge",
+    "properties": {
+      "name": "1980"
+    }
+  },
+  {
+    "id": "SEC_438",
+    "label": "Section",
+    "properties": {
+      "section_number": "438",
+      "title": "Section 438"
+    }
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020",
+    "label": "Case",
+    "properties": {
+      "name": "Hitesh Verma 2020",
+      "court": "Supreme Court of India",
+      "judgment_date": "2020-11-05",
+      "case_number": "Criminal Appeal No. 707 of 2020",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_HITESH_VERMA_2020",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_HITESH_VERMA_2020",
+      "sha256": "31853ac431c7a03daa4e53d78807020f5dce7da41b9616f5c76e50439a391fd4",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "JUDGE_L._NAGESWARA_RAO",
+    "label": "Judge",
+    "properties": {
+      "name": "L. Nageswara Rao"
+    }
+  },
+  {
+    "id": "JUDGE_HEMANT_GUPTA",
+    "label": "Judge",
+    "properties": {
+      "name": "Hemant Gupta"
+    }
+  },
+  {
+    "id": "JUDGE_AJAY_RASTOGI",
+    "label": "Judge",
+    "properties": {
+      "name": "Ajay Rastogi"
+    }
+  },
+  {
+    "id": "JUDGE_JJ.\nJUDGMENT_DATED:_05_NOVEMBER",
+    "label": "Judge",
+    "properties": {
+      "name": "JJ.\nJudgment Dated: 05 November"
+    }
+  },
+  {
+    "id": "JUDGE_2020",
+    "label": "Judge",
+    "properties": {
+      "name": "2020"
+    }
+  },
+  {
+    "id": "SEC_504",
+    "label": "Section",
+    "properties": {
+      "section_number": "504",
+      "title": "Section 504"
+    }
+  },
+  {
+    "id": "SEC_506",
+    "label": "Section",
+    "properties": {
+      "section_number": "506",
+      "title": "Section 506"
+    }
+  },
+  {
+    "id": "CASE_DOC_LALITA_KUMARI_2014",
+    "label": "Case",
+    "properties": {
+      "name": "Lalita Kumari 2014",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "WRIT PETITION (CRIMINAL) NO. 68 OF 2008",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_LALITA_KUMARI_2014",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_LALITA_KUMARI_2014",
+      "sha256": "8be1b405358128e8da6efa064a666144cef83d21a4f8085f2dc755b6d01e5743",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "SEC_154",
+    "label": "Section",
+    "properties": {
+      "section_number": "154",
+      "title": "Section 154"
+    }
+  },
+  {
+    "id": "CASE_DOC_MANISH_SISODIA_2023",
+    "label": "Case",
+    "properties": {
+      "name": "Manish Sisodia 2023",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 3387 OF 2023",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_MANISH_SISODIA_2023",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_MANISH_SISODIA_2023",
+      "sha256": "a9c98dbbdc108b4e7834015ee0cfa30cb364124af910dca02b30d9c20f44a3a6",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+    "label": "Case",
+    "properties": {
+      "name": "Neeharika Infrastructure 2021",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 330 OF 2021",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+      "sha256": "f0f5e50edc9eef765e1a4f32d47ad17ed5e6638c78f5cf7b10a518278dd290fb",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "label": "Case",
+    "properties": {
+      "name": "P Chidambaram 2019",
+      "court": "Supreme Court of India",
+      "judgment_date": "2019-09-05",
+      "case_number": "Criminal Appeal No. 1340 of 2019",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_P_CHIDAMBARAM_2019",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_P_CHIDAMBARAM_2019",
+      "sha256": "da05fb93d799e8aedd1c4ee227385e50fa1033cc17ba1c85501586cbb2f32216",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "JUDGE_R._BANUMATHI",
+    "label": "Judge",
+    "properties": {
+      "name": "R. Banumathi"
+    }
+  },
+  {
+    "id": "JUDGE_A.S._BOPANNA",
+    "label": "Judge",
+    "properties": {
+      "name": "A.S. Bopanna"
+    }
+  },
+  {
+    "id": "JUDGE_JJ.\nJUDGMENT_DATED:_05_SEPTEMBER",
+    "label": "Judge",
+    "properties": {
+      "name": "JJ.\nJudgment Dated: 05 September"
+    }
+  },
+  {
+    "id": "JUDGE_2019",
+    "label": "Judge",
+    "properties": {
+      "name": "2019"
+    }
+  },
+  {
+    "id": "ISSUE_CHEATING",
+    "label": "LegalIssue",
+    "properties": {
+      "name": "Cheating"
+    }
+  },
+  {
+    "id": "SEC_420",
+    "label": "Section",
+    "properties": {
+      "section_number": "420",
+      "title": "Section 420"
+    }
+  },
+  {
+    "id": "CASE_DOC_SANJAY_CHANDRA_2012",
+    "label": "Case",
+    "properties": {
+      "name": "Sanjay Chandra 2012",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 2178 OF 2011",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SANJAY_CHANDRA_2012",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SANJAY_CHANDRA_2012",
+      "sha256": "4344678baa1105021f1a9c6a8fd7440b65112820b17a7b75b4714270f8fba4a3",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "SEC_120B",
+    "label": "Section",
+    "properties": {
+      "section_number": "120B",
+      "title": "Section 120B"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "label": "Case",
+    "properties": {
+      "name": "Satender Kumar Antil 2022",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "SPECIAL LEAVE PETITION (CRL.) NO. 5191 OF 2021",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SATENDER_KUMAR_ANTIL_2022",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SATENDER_KUMAR_ANTIL_2022",
+      "sha256": "ea30666738304890a2b1d0ffb631bdb158bb12f30c0ab1bb23835ea40d1e8095",
+      "total_pages": 3
+    }
+  },
+  {
+    "id": "SEC_88",
+    "label": "Section",
+    "properties": {
+      "section_number": "88",
+      "title": "Section 88"
+    }
+  },
+  {
+    "id": "SEC_170",
+    "label": "Section",
+    "properties": {
+      "section_number": "170",
+      "title": "Section 170"
+    }
+  },
+  {
+    "id": "SEC_204",
+    "label": "Section",
+    "properties": {
+      "section_number": "204",
+      "title": "Section 204"
+    }
+  },
+  {
+    "id": "SEC_436",
+    "label": "Section",
+    "properties": {
+      "section_number": "436",
+      "title": "Section 436"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "label": "Case",
+    "properties": {
+      "name": "Gurbaksh Singh Sibbia 1980",
+      "court": "Supreme Court of India",
+      "judgment_date": "1980-04-09",
+      "case_number": "Criminal Appeal No. 335 of 1978",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_1980_GURBAKSH_SIBBIA",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_1980_GURBAKSH_SIBBIA",
+      "sha256": "9d15f0a54fe668c9d2cab07f3756cd9490a04314521a4d9182b191b86eece28b",
+      "total_pages": 3
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_1992_BHAJAN_LAL",
+    "label": "Case",
+    "properties": {
+      "name": "Bhajan Lal 1992",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 729 OF 1990",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_1992_BHAJAN_LAL",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_1992_BHAJAN_LAL",
+      "sha256": "ed734bfda6d406d89b4fe06c409c57531d46ed84e589b72ba41cfa49477e519d",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2012_GIAN_SINGH",
+    "label": "Case",
+    "properties": {
+      "name": "Gian Singh 2012",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "SPECIAL LEAVE PETITION (CRL.) NO. 8989 OF 2010",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2012_GIAN_SINGH",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2012_GIAN_SINGH",
+      "sha256": "ec9a53f9372c4170fbf02bdbe59373db9273d38a59a71f590d3d010ac5424c22",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2012_SANJAY_CHANDRA",
+    "label": "Case",
+    "properties": {
+      "name": "Sanjay Chandra 2012",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 2178 OF 2011",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2012_SANJAY_CHANDRA",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2012_SANJAY_CHANDRA",
+      "sha256": "4344678baa1105021f1a9c6a8fd7440b65112820b17a7b75b4714270f8fba4a3",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_CIT_(1977)_4_SCC_308",
+    "label": "Case",
+    "properties": {
+      "name": "(1977) 4 SCC 308",
+      "citation": "(1977) 4 SCC 308",
+      "is_external": true
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "label": "Case",
+    "properties": {
+      "name": "Arnesh Kumar 2014",
+      "court": "Supreme Court of India",
+      "judgment_date": "2014-07-02",
+      "case_number": "Criminal Appeal No. 1277 of 2014",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2014_ARNESH_KUMAR",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2014_ARNESH_KUMAR",
+      "sha256": "d657d88387c0137cbd5f1b368b3f158dbe8e94769d42e19b04519b423877dfbf",
+      "total_pages": 3
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2014_LALITA_KUMARI",
+    "label": "Case",
+    "properties": {
+      "name": "Lalita Kumari 2014",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "WRIT PETITION (CRIMINAL) NO. 68 OF 2008",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2014_LALITA_KUMARI",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2014_LALITA_KUMARI",
+      "sha256": "8be1b405358128e8da6efa064a666144cef83d21a4f8085f2dc755b6d01e5743",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2015_SHREYA_SINGHAL",
+    "label": "Case",
+    "properties": {
+      "name": "Shreya Singhal 2015",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "WRIT PETITION (CRIMINAL) NO. 167 OF 2012",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2015_SHREYA_SINGHAL",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2015_SHREYA_SINGHAL",
+      "sha256": "9539a1dca1f903d15ea877088e77de7eb42ebd7db18ed6faa2a4631622f1b400",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "ISSUE_CYBERCRIME",
+    "label": "LegalIssue",
+    "properties": {
+      "name": "Cybercrime"
+    }
+  },
+  {
+    "id": "SEC_66A",
+    "label": "Section",
+    "properties": {
+      "section_number": "66A",
+      "title": "Section 66A"
+    }
+  },
+  {
+    "id": "SEC_66C",
+    "label": "Section",
+    "properties": {
+      "section_number": "66C",
+      "title": "Section 66C"
+    }
+  },
+  {
+    "id": "SEC_66D",
+    "label": "Section",
+    "properties": {
+      "section_number": "66D",
+      "title": "Section 66D"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2018_DATARAM_SINGH",
+    "label": "Case",
+    "properties": {
+      "name": "Dataram Singh 2018",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 227 OF 2018",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2018_DATARAM_SINGH",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2018_DATARAM_SINGH",
+      "sha256": "62cf596770e2725f9b5db0fac6b9527f782ec575156e10f07f4c0ec40ffb70fd",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "label": "Case",
+    "properties": {
+      "name": "P Chidambaram 2019",
+      "court": "Supreme Court of India",
+      "judgment_date": "2019-09-05",
+      "case_number": "Criminal Appeal No. 1340 of 2019",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2019_P_CHIDAMBARAM",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2019_P_CHIDAMBARAM",
+      "sha256": "da05fb93d799e8aedd1c4ee227385e50fa1033cc17ba1c85501586cbb2f32216",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "label": "Case",
+    "properties": {
+      "name": "Hitesh Verma 2020",
+      "court": "Supreme Court of India",
+      "judgment_date": "2020-11-05",
+      "case_number": "Criminal Appeal No. 707 of 2020",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2020_HITESH_VERMA",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2020_HITESH_VERMA",
+      "sha256": "31853ac431c7a03daa4e53d78807020f5dce7da41b9616f5c76e50439a391fd4",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "label": "Case",
+    "properties": {
+      "name": "Sushila Aggarwal 2020",
+      "court": "Supreme Court of India",
+      "judgment_date": "2020-01-29",
+      "case_number": "",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2020_SUSHILA_AGGARWAL",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2020_SUSHILA_AGGARWAL",
+      "sha256": "3ccbd53e5b4b0849d17d1c3503a34aab5d2af8436cef0fcb26ecf96ad87fbec4",
+      "total_pages": 3
+    }
+  },
+  {
+    "id": "JUDGE_ARUN_MISHRA",
+    "label": "Judge",
+    "properties": {
+      "name": "Arun Mishra"
+    }
+  },
+  {
+    "id": "JUDGE_INDIRA_BANERJEE",
+    "label": "Judge",
+    "properties": {
+      "name": "Indira Banerjee"
+    }
+  },
+  {
+    "id": "JUDGE_VINEET_SARAN",
+    "label": "Judge",
+    "properties": {
+      "name": "Vineet Saran"
+    }
+  },
+  {
+    "id": "JUDGE_M.R._SHAH",
+    "label": "Judge",
+    "properties": {
+      "name": "M.R. Shah"
+    }
+  },
+  {
+    "id": "JUDGE_S._RAVINDRA_BHAT",
+    "label": "Judge",
+    "properties": {
+      "name": "S. Ravindra Bhat"
+    }
+  },
+  {
+    "id": "JUDGE_JJ.\nJUDGMENT_DATED:_29_JANUARY",
+    "label": "Judge",
+    "properties": {
+      "name": "JJ.\nJudgment Dated: 29 January"
+    }
+  },
+  {
+    "id": "SEC_173",
+    "label": "Section",
+    "properties": {
+      "section_number": "173",
+      "title": "Section 173"
+    }
+  },
+  {
+    "id": "CASE_CIT_(1980)_2_SCC_565",
+    "label": "Case",
+    "properties": {
+      "name": "(1980) 2 SCC 565",
+      "citation": "(1980) 2 SCC 565",
+      "is_external": true
+    }
+  },
+  {
+    "id": "CASE_CIT_(1996)_1_SCC_667",
+    "label": "Case",
+    "properties": {
+      "name": "(1996) 1 SCC 667",
+      "citation": "(1996) 1 SCC 667",
+      "is_external": true
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+    "label": "Case",
+    "properties": {
+      "name": "Neeharika Infrastructure 2021",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 330 OF 2021",
+      "legal_domain": "General Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+      "sha256": "f0f5e50edc9eef765e1a4f32d47ad17ed5e6638c78f5cf7b10a518278dd290fb",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "label": "Case",
+    "properties": {
+      "name": "Satender Kumar Antil 2022",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "SPECIAL LEAVE PETITION (CRL.) NO. 5191 OF 2021",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+      "sha256": "ea30666738304890a2b1d0ffb631bdb158bb12f30c0ab1bb23835ea40d1e8095",
+      "total_pages": 3
+    }
+  },
+  {
+    "id": "CASE_CIT_(2014)_8_SCC_273",
+    "label": "Case",
+    "properties": {
+      "name": "(2014) 8 SCC 273",
+      "citation": "(2014) 8 SCC 273",
+      "is_external": true
+    }
+  },
+  {
+    "id": "CASE_CIT_(2018)_3_SCC_22",
+    "label": "Case",
+    "properties": {
+      "name": "(2018) 3 SCC 22",
+      "citation": "(2018) 3 SCC 22",
+      "is_external": true
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2023_MANISH_SISODIA",
+    "label": "Case",
+    "properties": {
+      "name": "Manish Sisodia 2023",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "CRIMINAL APPEAL NO. 3387 OF 2023",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SC_2023_MANISH_SISODIA",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SC_2023_MANISH_SISODIA",
+      "sha256": "a9c98dbbdc108b4e7834015ee0cfa30cb364124af910dca02b30d9c20f44a3a6",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_SHREYA_SINGHAL_2015",
+    "label": "Case",
+    "properties": {
+      "name": "Shreya Singhal 2015",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "WRIT PETITION (CRIMINAL) NO. 167 OF 2012",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SHREYA_SINGHAL_2015",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SHREYA_SINGHAL_2015",
+      "sha256": "9539a1dca1f903d15ea877088e77de7eb42ebd7db18ed6faa2a4631622f1b400",
+      "total_pages": 2
+    }
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "label": "Case",
+    "properties": {
+      "name": "Sushila Aggarwal 2020",
+      "court": "Supreme Court of India",
+      "judgment_date": "2020-01-29",
+      "case_number": "",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_SUSHILA_AGGARWAL_2020",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_SUSHILA_AGGARWAL_2020",
+      "sha256": "203ad5a01775f2a7264d8271dd6b47e8cd017549603cb98cd49ffdd50e538e9d",
+      "total_pages": 3
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP23YV9E4R",
+    "label": "Case",
+    "properties": {
+      "name": "ABC v. State of Maharashtra",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_TMP23YV9E4R",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_TMP23YV9E4R",
+      "sha256": "51e0cd8fa4cba76afdb0d5a1d068c6d1c5edf732ba79d1c7197a11c7aca2882a",
+      "total_pages": 1
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP92KF4HZA",
+    "label": "Case",
+    "properties": {
+      "name": "ABC v. State of Maharashtra",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_TMP92KF4HZA",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_TMP92KF4HZA",
+      "sha256": "51e0cd8fa4cba76afdb0d5a1d068c6d1c5edf732ba79d1c7197a11c7aca2882a",
+      "total_pages": 1
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP9JU6N9NG",
+    "label": "Case",
+    "properties": {
+      "name": "ABC v. State of Maharashtra",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_TMP9JU6N9NG",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_TMP9JU6N9NG",
+      "sha256": "51e0cd8fa4cba76afdb0d5a1d068c6d1c5edf732ba79d1c7197a11c7aca2882a",
+      "total_pages": 1
+    }
+  },
+  {
+    "id": "CASE_DOC_TMPQLKG_8E_",
+    "label": "Case",
+    "properties": {
+      "name": "ABC v. State of Maharashtra",
+      "court": "Supreme Court of India",
+      "judgment_date": null,
+      "case_number": "",
+      "legal_domain": "Criminal Law",
+      "source_url": ""
+    }
+  },
+  {
+    "id": "DOC_TMPQLKG_8E_",
+    "label": "Document",
+    "properties": {
+      "name": "Document DOC_TMPQLKG_8E_",
+      "sha256": "51e0cd8fa4cba76afdb0d5a1d068c6d1c5edf732ba79d1c7197a11c7aca2882a",
+      "total_pages": 1
+    }
+  }
+]

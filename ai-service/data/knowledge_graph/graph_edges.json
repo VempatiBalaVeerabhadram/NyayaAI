@@ -1,0 +1,1985 @@
+[
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_HAS_DOCUMENT_DOC_ARNESH_KUMAR_2014",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "DOC_ARNESH_KUMAR_2014",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_JUDGED_BY_JUDGE_CHANDRAMAULI_KR._PRASAD",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "JUDGE_CHANDRAMAULI_KR._PRASAD",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_JUDGED_BY_JUDGE_PINAKI_CHANDRA_GHOSE",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "JUDGE_PINAKI_CHANDRA_GHOSE",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_02_JULY",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_02_JULY",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_JUDGED_BY_JUDGE_2014",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "JUDGE_2014",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_DISCUSSES_SEC_4",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "SEC_4",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "4"
+    }
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_DISCUSSES_SEC_41",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "SEC_41",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "41"
+    }
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_DISCUSSES_SEC_41A",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "SEC_41A",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "41A"
+    }
+  },
+  {
+    "id": "CASE_DOC_ARNESH_KUMAR_2014_DISCUSSES_SEC_498",
+    "source_id": "CASE_DOC_ARNESH_KUMAR_2014",
+    "target_id": "SEC_498",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "498"
+    }
+  },
+  {
+    "id": "CASE_DOC_BHAJAN_LAL_1992_HAS_DOCUMENT_DOC_BHAJAN_LAL_1992",
+    "source_id": "CASE_DOC_BHAJAN_LAL_1992",
+    "target_id": "DOC_BHAJAN_LAL_1992",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_BHAJAN_LAL_1992_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_BHAJAN_LAL_1992",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_BHAJAN_LAL_1992_INVOLVES_ISSUE_QUASHING_OF_FIR",
+    "source_id": "CASE_DOC_BHAJAN_LAL_1992",
+    "target_id": "ISSUE_QUASHING_OF_FIR",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_BHAJAN_LAL_1992_DISCUSSES_SEC_155",
+    "source_id": "CASE_DOC_BHAJAN_LAL_1992",
+    "target_id": "SEC_155",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "155"
+    }
+  },
+  {
+    "id": "CASE_DOC_BHAJAN_LAL_1992_DISCUSSES_SEC_156",
+    "source_id": "CASE_DOC_BHAJAN_LAL_1992",
+    "target_id": "SEC_156",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "156"
+    }
+  },
+  {
+    "id": "CASE_DOC_BHAJAN_LAL_1992_DISCUSSES_SEC_482",
+    "source_id": "CASE_DOC_BHAJAN_LAL_1992",
+    "target_id": "SEC_482",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "482"
+    }
+  },
+  {
+    "id": "CASE_DOC_DATARAM_SINGH_2018_HAS_DOCUMENT_DOC_DATARAM_SINGH_2018",
+    "source_id": "CASE_DOC_DATARAM_SINGH_2018",
+    "target_id": "DOC_DATARAM_SINGH_2018",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_DATARAM_SINGH_2018_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_DATARAM_SINGH_2018",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_DATARAM_SINGH_2018_INVOLVES_ISSUE_REGULAR_BAIL",
+    "source_id": "CASE_DOC_DATARAM_SINGH_2018",
+    "target_id": "ISSUE_REGULAR_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_DATARAM_SINGH_2018_DISCUSSES_SEC_437",
+    "source_id": "CASE_DOC_DATARAM_SINGH_2018",
+    "target_id": "SEC_437",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "437"
+    }
+  },
+  {
+    "id": "CASE_DOC_DATARAM_SINGH_2018_DISCUSSES_SEC_439",
+    "source_id": "CASE_DOC_DATARAM_SINGH_2018",
+    "target_id": "SEC_439",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "439"
+    }
+  },
+  {
+    "id": "CASE_DOC_GIAN_SINGH_2012_HAS_DOCUMENT_DOC_GIAN_SINGH_2012",
+    "source_id": "CASE_DOC_GIAN_SINGH_2012",
+    "target_id": "DOC_GIAN_SINGH_2012",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GIAN_SINGH_2012_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_GIAN_SINGH_2012",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GIAN_SINGH_2012_INVOLVES_ISSUE_QUASHING_OF_FIR",
+    "source_id": "CASE_DOC_GIAN_SINGH_2012",
+    "target_id": "ISSUE_QUASHING_OF_FIR",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GIAN_SINGH_2012_DISCUSSES_SEC_320",
+    "source_id": "CASE_DOC_GIAN_SINGH_2012",
+    "target_id": "SEC_320",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "320"
+    }
+  },
+  {
+    "id": "CASE_DOC_GIAN_SINGH_2012_DISCUSSES_SEC_482",
+    "source_id": "CASE_DOC_GIAN_SINGH_2012",
+    "target_id": "SEC_482",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "482"
+    }
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_HAS_DOCUMENT_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_JUDGED_BY_JUDGE_Y.V._CHANDRACHUD",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "JUDGE_Y.V._CHANDRACHUD",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_JUDGED_BY_JUDGE_P.N._BHAGWATI",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "JUDGE_P.N._BHAGWATI",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_JUDGED_BY_JUDGE_N.L._UNTWALIA",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "JUDGE_N.L._UNTWALIA",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_JUDGED_BY_JUDGE_V.D._TULZAPURKAR",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "JUDGE_V.D._TULZAPURKAR",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_JUDGED_BY_JUDGE_A.P._SEN",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "JUDGE_A.P._SEN",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_09_APRIL",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_09_APRIL",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_JUDGED_BY_JUDGE_1980",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "JUDGE_1980",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_GURBAKSH_SINGH_SIBBIA_1980",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_HAS_DOCUMENT_DOC_HITESH_VERMA_2020",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "DOC_HITESH_VERMA_2020",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_JUDGED_BY_JUDGE_L._NAGESWARA_RAO",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "JUDGE_L._NAGESWARA_RAO",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_JUDGED_BY_JUDGE_HEMANT_GUPTA",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "JUDGE_HEMANT_GUPTA",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_JUDGED_BY_JUDGE_AJAY_RASTOGI",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "JUDGE_AJAY_RASTOGI",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_05_NOVEMBER",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_05_NOVEMBER",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_JUDGED_BY_JUDGE_2020",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "JUDGE_2020",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_INVOLVES_ISSUE_QUASHING_OF_FIR",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "ISSUE_QUASHING_OF_FIR",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_DISCUSSES_SEC_482",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "SEC_482",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "482"
+    }
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_DISCUSSES_SEC_504",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "SEC_504",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "504"
+    }
+  },
+  {
+    "id": "CASE_DOC_HITESH_VERMA_2020_DISCUSSES_SEC_506",
+    "source_id": "CASE_DOC_HITESH_VERMA_2020",
+    "target_id": "SEC_506",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "506"
+    }
+  },
+  {
+    "id": "CASE_DOC_LALITA_KUMARI_2014_HAS_DOCUMENT_DOC_LALITA_KUMARI_2014",
+    "source_id": "CASE_DOC_LALITA_KUMARI_2014",
+    "target_id": "DOC_LALITA_KUMARI_2014",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_LALITA_KUMARI_2014_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_LALITA_KUMARI_2014",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_LALITA_KUMARI_2014_DISCUSSES_SEC_154",
+    "source_id": "CASE_DOC_LALITA_KUMARI_2014",
+    "target_id": "SEC_154",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "154"
+    }
+  },
+  {
+    "id": "CASE_DOC_MANISH_SISODIA_2023_HAS_DOCUMENT_DOC_MANISH_SISODIA_2023",
+    "source_id": "CASE_DOC_MANISH_SISODIA_2023",
+    "target_id": "DOC_MANISH_SISODIA_2023",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_MANISH_SISODIA_2023_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_MANISH_SISODIA_2023",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_MANISH_SISODIA_2023_INVOLVES_ISSUE_REGULAR_BAIL",
+    "source_id": "CASE_DOC_MANISH_SISODIA_2023",
+    "target_id": "ISSUE_REGULAR_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_MANISH_SISODIA_2023_DISCUSSES_SEC_439",
+    "source_id": "CASE_DOC_MANISH_SISODIA_2023",
+    "target_id": "SEC_439",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "439"
+    }
+  },
+  {
+    "id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021_HAS_DOCUMENT_DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+    "source_id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+    "target_id": "DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021_INVOLVES_ISSUE_QUASHING_OF_FIR",
+    "source_id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+    "target_id": "ISSUE_QUASHING_OF_FIR",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021_DISCUSSES_SEC_156",
+    "source_id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+    "target_id": "SEC_156",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "156"
+    }
+  },
+  {
+    "id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021_DISCUSSES_SEC_482",
+    "source_id": "CASE_DOC_NEEHARIKA_INFRASTRUCTURE_2021",
+    "target_id": "SEC_482",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "482"
+    }
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_HAS_DOCUMENT_DOC_P_CHIDAMBARAM_2019",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "DOC_P_CHIDAMBARAM_2019",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_JUDGED_BY_JUDGE_R._BANUMATHI",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "JUDGE_R._BANUMATHI",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_JUDGED_BY_JUDGE_A.S._BOPANNA",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "JUDGE_A.S._BOPANNA",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_05_SEPTEMBER",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_05_SEPTEMBER",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_JUDGED_BY_JUDGE_2019",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "JUDGE_2019",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_DISCUSSES_SEC_420",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "SEC_420",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "420"
+    }
+  },
+  {
+    "id": "CASE_DOC_P_CHIDAMBARAM_2019_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_P_CHIDAMBARAM_2019",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_SANJAY_CHANDRA_2012_HAS_DOCUMENT_DOC_SANJAY_CHANDRA_2012",
+    "source_id": "CASE_DOC_SANJAY_CHANDRA_2012",
+    "target_id": "DOC_SANJAY_CHANDRA_2012",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SANJAY_CHANDRA_2012_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SANJAY_CHANDRA_2012",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SANJAY_CHANDRA_2012_INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_SANJAY_CHANDRA_2012",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SANJAY_CHANDRA_2012_INVOLVES_ISSUE_REGULAR_BAIL",
+    "source_id": "CASE_DOC_SANJAY_CHANDRA_2012",
+    "target_id": "ISSUE_REGULAR_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SANJAY_CHANDRA_2012_DISCUSSES_SEC_120B",
+    "source_id": "CASE_DOC_SANJAY_CHANDRA_2012",
+    "target_id": "SEC_120B",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "120B"
+    }
+  },
+  {
+    "id": "CASE_DOC_SANJAY_CHANDRA_2012_DISCUSSES_SEC_420",
+    "source_id": "CASE_DOC_SANJAY_CHANDRA_2012",
+    "target_id": "SEC_420",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "420"
+    }
+  },
+  {
+    "id": "CASE_DOC_SANJAY_CHANDRA_2012_DISCUSSES_SEC_439",
+    "source_id": "CASE_DOC_SANJAY_CHANDRA_2012",
+    "target_id": "SEC_439",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "439"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_HAS_DOCUMENT_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "DOC_SATENDER_KUMAR_ANTIL_2022",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_INVOLVES_ISSUE_REGULAR_BAIL",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "ISSUE_REGULAR_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DISCUSSES_SEC_41",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "SEC_41",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "41"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DISCUSSES_SEC_41A",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "SEC_41A",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "41A"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DISCUSSES_SEC_88",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "SEC_88",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "88"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DISCUSSES_SEC_170",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "SEC_170",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "170"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DISCUSSES_SEC_204",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "SEC_204",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "204"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DISCUSSES_SEC_436",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "SEC_436",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "436"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DISCUSSES_SEC_437",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "SEC_437",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "437"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022_DISCUSSES_SEC_439",
+    "source_id": "CASE_DOC_SATENDER_KUMAR_ANTIL_2022",
+    "target_id": "SEC_439",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "439"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_HAS_DOCUMENT_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "DOC_SC_1980_GURBAKSH_SIBBIA",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_JUDGED_BY_JUDGE_Y.V._CHANDRACHUD",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "JUDGE_Y.V._CHANDRACHUD",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_JUDGED_BY_JUDGE_P.N._BHAGWATI",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "JUDGE_P.N._BHAGWATI",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_JUDGED_BY_JUDGE_N.L._UNTWALIA",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "JUDGE_N.L._UNTWALIA",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_JUDGED_BY_JUDGE_V.D._TULZAPURKAR",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "JUDGE_V.D._TULZAPURKAR",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_JUDGED_BY_JUDGE_A.P._SEN",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "JUDGE_A.P._SEN",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_09_APRIL",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_09_APRIL",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_JUDGED_BY_JUDGE_1980",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "JUDGE_1980",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_SC_1980_GURBAKSH_SIBBIA",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_1992_BHAJAN_LAL_HAS_DOCUMENT_DOC_SC_1992_BHAJAN_LAL",
+    "source_id": "CASE_DOC_SC_1992_BHAJAN_LAL",
+    "target_id": "DOC_SC_1992_BHAJAN_LAL",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1992_BHAJAN_LAL_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_1992_BHAJAN_LAL",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1992_BHAJAN_LAL_INVOLVES_ISSUE_QUASHING_OF_FIR",
+    "source_id": "CASE_DOC_SC_1992_BHAJAN_LAL",
+    "target_id": "ISSUE_QUASHING_OF_FIR",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_1992_BHAJAN_LAL_DISCUSSES_SEC_155",
+    "source_id": "CASE_DOC_SC_1992_BHAJAN_LAL",
+    "target_id": "SEC_155",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "155"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_1992_BHAJAN_LAL_DISCUSSES_SEC_156",
+    "source_id": "CASE_DOC_SC_1992_BHAJAN_LAL",
+    "target_id": "SEC_156",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "156"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_1992_BHAJAN_LAL_DISCUSSES_SEC_482",
+    "source_id": "CASE_DOC_SC_1992_BHAJAN_LAL",
+    "target_id": "SEC_482",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "482"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2012_GIAN_SINGH_HAS_DOCUMENT_DOC_SC_2012_GIAN_SINGH",
+    "source_id": "CASE_DOC_SC_2012_GIAN_SINGH",
+    "target_id": "DOC_SC_2012_GIAN_SINGH",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2012_GIAN_SINGH_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2012_GIAN_SINGH",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2012_GIAN_SINGH_INVOLVES_ISSUE_QUASHING_OF_FIR",
+    "source_id": "CASE_DOC_SC_2012_GIAN_SINGH",
+    "target_id": "ISSUE_QUASHING_OF_FIR",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2012_GIAN_SINGH_DISCUSSES_SEC_320",
+    "source_id": "CASE_DOC_SC_2012_GIAN_SINGH",
+    "target_id": "SEC_320",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "320"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2012_GIAN_SINGH_DISCUSSES_SEC_482",
+    "source_id": "CASE_DOC_SC_2012_GIAN_SINGH",
+    "target_id": "SEC_482",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "482"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2012_SANJAY_CHANDRA_HAS_DOCUMENT_DOC_SC_2012_SANJAY_CHANDRA",
+    "source_id": "CASE_DOC_SC_2012_SANJAY_CHANDRA",
+    "target_id": "DOC_SC_2012_SANJAY_CHANDRA",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2012_SANJAY_CHANDRA_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2012_SANJAY_CHANDRA",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2012_SANJAY_CHANDRA_INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_SC_2012_SANJAY_CHANDRA",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2012_SANJAY_CHANDRA_INVOLVES_ISSUE_REGULAR_BAIL",
+    "source_id": "CASE_DOC_SC_2012_SANJAY_CHANDRA",
+    "target_id": "ISSUE_REGULAR_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2012_SANJAY_CHANDRA_DISCUSSES_SEC_120B",
+    "source_id": "CASE_DOC_SC_2012_SANJAY_CHANDRA",
+    "target_id": "SEC_120B",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "120B"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2012_SANJAY_CHANDRA_DISCUSSES_SEC_420",
+    "source_id": "CASE_DOC_SC_2012_SANJAY_CHANDRA",
+    "target_id": "SEC_420",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "420"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2012_SANJAY_CHANDRA_DISCUSSES_SEC_439",
+    "source_id": "CASE_DOC_SC_2012_SANJAY_CHANDRA",
+    "target_id": "SEC_439",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "439"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2012_SANJAY_CHANDRA_CITES_CASE_CIT_(1977)_4_SCC_308",
+    "source_id": "CASE_DOC_SC_2012_SANJAY_CHANDRA",
+    "target_id": "CASE_CIT_(1977)_4_SCC_308",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(1977) 4 SCC 308",
+      "page": null
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_HAS_DOCUMENT_DOC_SC_2014_ARNESH_KUMAR",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "DOC_SC_2014_ARNESH_KUMAR",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_JUDGED_BY_JUDGE_CHANDRAMAULI_KR._PRASAD",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "JUDGE_CHANDRAMAULI_KR._PRASAD",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_JUDGED_BY_JUDGE_PINAKI_CHANDRA_GHOSE",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "JUDGE_PINAKI_CHANDRA_GHOSE",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_02_JULY",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_02_JULY",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_JUDGED_BY_JUDGE_2014",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "JUDGE_2014",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_DISCUSSES_SEC_4",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "SEC_4",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "4"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_DISCUSSES_SEC_41",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "SEC_41",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "41"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_DISCUSSES_SEC_41A",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "SEC_41A",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "41A"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2014_ARNESH_KUMAR_DISCUSSES_SEC_498",
+    "source_id": "CASE_DOC_SC_2014_ARNESH_KUMAR",
+    "target_id": "SEC_498",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "498"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2014_LALITA_KUMARI_HAS_DOCUMENT_DOC_SC_2014_LALITA_KUMARI",
+    "source_id": "CASE_DOC_SC_2014_LALITA_KUMARI",
+    "target_id": "DOC_SC_2014_LALITA_KUMARI",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2014_LALITA_KUMARI_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2014_LALITA_KUMARI",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2014_LALITA_KUMARI_DISCUSSES_SEC_154",
+    "source_id": "CASE_DOC_SC_2014_LALITA_KUMARI",
+    "target_id": "SEC_154",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "154"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2015_SHREYA_SINGHAL_HAS_DOCUMENT_DOC_SC_2015_SHREYA_SINGHAL",
+    "source_id": "CASE_DOC_SC_2015_SHREYA_SINGHAL",
+    "target_id": "DOC_SC_2015_SHREYA_SINGHAL",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2015_SHREYA_SINGHAL_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2015_SHREYA_SINGHAL",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2015_SHREYA_SINGHAL_INVOLVES_ISSUE_CYBERCRIME",
+    "source_id": "CASE_DOC_SC_2015_SHREYA_SINGHAL",
+    "target_id": "ISSUE_CYBERCRIME",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2015_SHREYA_SINGHAL_INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_SC_2015_SHREYA_SINGHAL",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2015_SHREYA_SINGHAL_DISCUSSES_SEC_66A",
+    "source_id": "CASE_DOC_SC_2015_SHREYA_SINGHAL",
+    "target_id": "SEC_66A",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "66A"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2015_SHREYA_SINGHAL_DISCUSSES_SEC_66C",
+    "source_id": "CASE_DOC_SC_2015_SHREYA_SINGHAL",
+    "target_id": "SEC_66C",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "66C"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2015_SHREYA_SINGHAL_DISCUSSES_SEC_66D",
+    "source_id": "CASE_DOC_SC_2015_SHREYA_SINGHAL",
+    "target_id": "SEC_66D",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "66D"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2018_DATARAM_SINGH_HAS_DOCUMENT_DOC_SC_2018_DATARAM_SINGH",
+    "source_id": "CASE_DOC_SC_2018_DATARAM_SINGH",
+    "target_id": "DOC_SC_2018_DATARAM_SINGH",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2018_DATARAM_SINGH_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2018_DATARAM_SINGH",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2018_DATARAM_SINGH_INVOLVES_ISSUE_REGULAR_BAIL",
+    "source_id": "CASE_DOC_SC_2018_DATARAM_SINGH",
+    "target_id": "ISSUE_REGULAR_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2018_DATARAM_SINGH_DISCUSSES_SEC_437",
+    "source_id": "CASE_DOC_SC_2018_DATARAM_SINGH",
+    "target_id": "SEC_437",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "437"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2018_DATARAM_SINGH_DISCUSSES_SEC_439",
+    "source_id": "CASE_DOC_SC_2018_DATARAM_SINGH",
+    "target_id": "SEC_439",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "439"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_HAS_DOCUMENT_DOC_SC_2019_P_CHIDAMBARAM",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "DOC_SC_2019_P_CHIDAMBARAM",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_JUDGED_BY_JUDGE_R._BANUMATHI",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "JUDGE_R._BANUMATHI",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_JUDGED_BY_JUDGE_A.S._BOPANNA",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "JUDGE_A.S._BOPANNA",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_05_SEPTEMBER",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_05_SEPTEMBER",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_JUDGED_BY_JUDGE_2019",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "JUDGE_2019",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_DISCUSSES_SEC_420",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "SEC_420",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "420"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2019_P_CHIDAMBARAM_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_SC_2019_P_CHIDAMBARAM",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_HAS_DOCUMENT_DOC_SC_2020_HITESH_VERMA",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "DOC_SC_2020_HITESH_VERMA",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_JUDGED_BY_JUDGE_L._NAGESWARA_RAO",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "JUDGE_L._NAGESWARA_RAO",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_JUDGED_BY_JUDGE_HEMANT_GUPTA",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "JUDGE_HEMANT_GUPTA",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_JUDGED_BY_JUDGE_AJAY_RASTOGI",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "JUDGE_AJAY_RASTOGI",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_05_NOVEMBER",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_05_NOVEMBER",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_JUDGED_BY_JUDGE_2020",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "JUDGE_2020",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_INVOLVES_ISSUE_QUASHING_OF_FIR",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "ISSUE_QUASHING_OF_FIR",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_DISCUSSES_SEC_482",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "SEC_482",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "482"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_DISCUSSES_SEC_504",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "SEC_504",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "504"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2020_HITESH_VERMA_DISCUSSES_SEC_506",
+    "source_id": "CASE_DOC_SC_2020_HITESH_VERMA",
+    "target_id": "SEC_506",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "506"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_HAS_DOCUMENT_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "DOC_SC_2020_SUSHILA_AGGARWAL",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_JUDGED_BY_JUDGE_ARUN_MISHRA",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "JUDGE_ARUN_MISHRA",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_JUDGED_BY_JUDGE_INDIRA_BANERJEE",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "JUDGE_INDIRA_BANERJEE",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_JUDGED_BY_JUDGE_VINEET_SARAN",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "JUDGE_VINEET_SARAN",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_JUDGED_BY_JUDGE_M.R._SHAH",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "JUDGE_M.R._SHAH",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_JUDGED_BY_JUDGE_S._RAVINDRA_BHAT",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "JUDGE_S._RAVINDRA_BHAT",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_29_JANUARY",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_29_JANUARY",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_JUDGED_BY_JUDGE_2020",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "JUDGE_2020",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_INVOLVES_ISSUE_REGULAR_BAIL",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "ISSUE_REGULAR_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_DISCUSSES_SEC_173",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "SEC_173",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "173"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_CITES_CASE_CIT_(1980)_2_SCC_565",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "CASE_CIT_(1980)_2_SCC_565",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(1980) 2 SCC 565",
+      "page": null
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL_CITES_CASE_CIT_(1996)_1_SCC_667",
+    "source_id": "CASE_DOC_SC_2020_SUSHILA_AGGARWAL",
+    "target_id": "CASE_CIT_(1996)_1_SCC_667",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(1996) 1 SCC 667",
+      "page": null
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE_HAS_DOCUMENT_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+    "source_id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+    "target_id": "DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE_INVOLVES_ISSUE_QUASHING_OF_FIR",
+    "source_id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+    "target_id": "ISSUE_QUASHING_OF_FIR",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE_DISCUSSES_SEC_156",
+    "source_id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+    "target_id": "SEC_156",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "156"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE_DISCUSSES_SEC_482",
+    "source_id": "CASE_DOC_SC_2021_NEEHARIKA_INFRASTRUCTURE",
+    "target_id": "SEC_482",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "482"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_HAS_DOCUMENT_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_INVOLVES_ISSUE_REGULAR_BAIL",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "ISSUE_REGULAR_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DISCUSSES_SEC_41",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "SEC_41",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "41"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DISCUSSES_SEC_41A",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "SEC_41A",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "41A"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DISCUSSES_SEC_88",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "SEC_88",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "88"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DISCUSSES_SEC_170",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "SEC_170",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "170"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DISCUSSES_SEC_204",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "SEC_204",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "204"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DISCUSSES_SEC_436",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "SEC_436",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "436"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DISCUSSES_SEC_437",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "SEC_437",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "437"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_DISCUSSES_SEC_439",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "SEC_439",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "439"
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_CITES_CASE_CIT_(2014)_8_SCC_273",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "CASE_CIT_(2014)_8_SCC_273",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(2014) 8 SCC 273",
+      "page": null
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL_CITES_CASE_CIT_(2018)_3_SCC_22",
+    "source_id": "CASE_DOC_SC_2022_SATENDER_KUMAR_ANTIL",
+    "target_id": "CASE_CIT_(2018)_3_SCC_22",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(2018) 3 SCC 22",
+      "page": null
+    }
+  },
+  {
+    "id": "CASE_DOC_SC_2023_MANISH_SISODIA_HAS_DOCUMENT_DOC_SC_2023_MANISH_SISODIA",
+    "source_id": "CASE_DOC_SC_2023_MANISH_SISODIA",
+    "target_id": "DOC_SC_2023_MANISH_SISODIA",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2023_MANISH_SISODIA_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SC_2023_MANISH_SISODIA",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2023_MANISH_SISODIA_INVOLVES_ISSUE_REGULAR_BAIL",
+    "source_id": "CASE_DOC_SC_2023_MANISH_SISODIA",
+    "target_id": "ISSUE_REGULAR_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SC_2023_MANISH_SISODIA_DISCUSSES_SEC_439",
+    "source_id": "CASE_DOC_SC_2023_MANISH_SISODIA",
+    "target_id": "SEC_439",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "439"
+    }
+  },
+  {
+    "id": "CASE_DOC_SHREYA_SINGHAL_2015_HAS_DOCUMENT_DOC_SHREYA_SINGHAL_2015",
+    "source_id": "CASE_DOC_SHREYA_SINGHAL_2015",
+    "target_id": "DOC_SHREYA_SINGHAL_2015",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SHREYA_SINGHAL_2015_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SHREYA_SINGHAL_2015",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SHREYA_SINGHAL_2015_INVOLVES_ISSUE_CYBERCRIME",
+    "source_id": "CASE_DOC_SHREYA_SINGHAL_2015",
+    "target_id": "ISSUE_CYBERCRIME",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SHREYA_SINGHAL_2015_INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_SHREYA_SINGHAL_2015",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SHREYA_SINGHAL_2015_DISCUSSES_SEC_66A",
+    "source_id": "CASE_DOC_SHREYA_SINGHAL_2015",
+    "target_id": "SEC_66A",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "66A"
+    }
+  },
+  {
+    "id": "CASE_DOC_SHREYA_SINGHAL_2015_DISCUSSES_SEC_66C",
+    "source_id": "CASE_DOC_SHREYA_SINGHAL_2015",
+    "target_id": "SEC_66C",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "66C"
+    }
+  },
+  {
+    "id": "CASE_DOC_SHREYA_SINGHAL_2015_DISCUSSES_SEC_66D",
+    "source_id": "CASE_DOC_SHREYA_SINGHAL_2015",
+    "target_id": "SEC_66D",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "66D"
+    }
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_HAS_DOCUMENT_DOC_SUSHILA_AGGARWAL_2020",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "DOC_SUSHILA_AGGARWAL_2020",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_JUDGED_BY_JUDGE_ARUN_MISHRA",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "JUDGE_ARUN_MISHRA",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_JUDGED_BY_JUDGE_INDIRA_BANERJEE",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "JUDGE_INDIRA_BANERJEE",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_JUDGED_BY_JUDGE_VINEET_SARAN",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "JUDGE_VINEET_SARAN",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_JUDGED_BY_JUDGE_M.R._SHAH",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "JUDGE_M.R._SHAH",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_JUDGED_BY_JUDGE_S._RAVINDRA_BHAT",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "JUDGE_S._RAVINDRA_BHAT",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_JUDGED_BY_JUDGE_JJ.\nJUDGMENT_DATED:_29_JANUARY",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "JUDGE_JJ.\nJUDGMENT_DATED:_29_JANUARY",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_JUDGED_BY_JUDGE_2020",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "JUDGE_2020",
+    "type": "JUDGED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_DISCUSSES_SEC_173",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "SEC_173",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "173"
+    }
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_SUSHILA_AGGARWAL_2020_CITES_CASE_CIT_(1980)_2_SCC_565",
+    "source_id": "CASE_DOC_SUSHILA_AGGARWAL_2020",
+    "target_id": "CASE_CIT_(1980)_2_SCC_565",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(1980) 2 SCC 565",
+      "page": null
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP23YV9E4R_HAS_DOCUMENT_DOC_TMP23YV9E4R",
+    "source_id": "CASE_DOC_TMP23YV9E4R",
+    "target_id": "DOC_TMP23YV9E4R",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP23YV9E4R_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_TMP23YV9E4R",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP23YV9E4R_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_TMP23YV9E4R",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP23YV9E4R_INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_TMP23YV9E4R",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP23YV9E4R_DISCUSSES_SEC_420",
+    "source_id": "CASE_DOC_TMP23YV9E4R",
+    "target_id": "SEC_420",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "420"
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP23YV9E4R_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_TMP23YV9E4R",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP23YV9E4R_CITES_CASE_CIT_(1980)_2_SCC_565",
+    "source_id": "CASE_DOC_TMP23YV9E4R",
+    "target_id": "CASE_CIT_(1980)_2_SCC_565",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(1980) 2 SCC 565",
+      "page": null
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP92KF4HZA_HAS_DOCUMENT_DOC_TMP92KF4HZA",
+    "source_id": "CASE_DOC_TMP92KF4HZA",
+    "target_id": "DOC_TMP92KF4HZA",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP92KF4HZA_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_TMP92KF4HZA",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP92KF4HZA_INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_TMP92KF4HZA",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP92KF4HZA_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_TMP92KF4HZA",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP92KF4HZA_DISCUSSES_SEC_420",
+    "source_id": "CASE_DOC_TMP92KF4HZA",
+    "target_id": "SEC_420",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "420"
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP92KF4HZA_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_TMP92KF4HZA",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP92KF4HZA_CITES_CASE_CIT_(1980)_2_SCC_565",
+    "source_id": "CASE_DOC_TMP92KF4HZA",
+    "target_id": "CASE_CIT_(1980)_2_SCC_565",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(1980) 2 SCC 565",
+      "page": null
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP9JU6N9NG_HAS_DOCUMENT_DOC_TMP9JU6N9NG",
+    "source_id": "CASE_DOC_TMP9JU6N9NG",
+    "target_id": "DOC_TMP9JU6N9NG",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP9JU6N9NG_DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_TMP9JU6N9NG",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP9JU6N9NG_INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_TMP9JU6N9NG",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP9JU6N9NG_INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_TMP9JU6N9NG",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMP9JU6N9NG_DISCUSSES_SEC_420",
+    "source_id": "CASE_DOC_TMP9JU6N9NG",
+    "target_id": "SEC_420",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "420"
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP9JU6N9NG_DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_TMP9JU6N9NG",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_TMP9JU6N9NG_CITES_CASE_CIT_(1980)_2_SCC_565",
+    "source_id": "CASE_DOC_TMP9JU6N9NG",
+    "target_id": "CASE_CIT_(1980)_2_SCC_565",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(1980) 2 SCC 565",
+      "page": null
+    }
+  },
+  {
+    "id": "CASE_DOC_TMPQLKG_8E__HAS_DOCUMENT_DOC_TMPQLKG_8E_",
+    "source_id": "CASE_DOC_TMPQLKG_8E_",
+    "target_id": "DOC_TMPQLKG_8E_",
+    "type": "HAS_DOCUMENT",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMPQLKG_8E__DECIDED_BY_COURT_SUPREME_COURT_OF_INDIA",
+    "source_id": "CASE_DOC_TMPQLKG_8E_",
+    "target_id": "COURT_SUPREME_COURT_OF_INDIA",
+    "type": "DECIDED_BY",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMPQLKG_8E__INVOLVES_ISSUE_ANTICIPATORY_BAIL",
+    "source_id": "CASE_DOC_TMPQLKG_8E_",
+    "target_id": "ISSUE_ANTICIPATORY_BAIL",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMPQLKG_8E__INVOLVES_ISSUE_CHEATING",
+    "source_id": "CASE_DOC_TMPQLKG_8E_",
+    "target_id": "ISSUE_CHEATING",
+    "type": "INVOLVES",
+    "properties": {}
+  },
+  {
+    "id": "CASE_DOC_TMPQLKG_8E__DISCUSSES_SEC_420",
+    "source_id": "CASE_DOC_TMPQLKG_8E_",
+    "target_id": "SEC_420",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "420"
+    }
+  },
+  {
+    "id": "CASE_DOC_TMPQLKG_8E__DISCUSSES_SEC_438",
+    "source_id": "CASE_DOC_TMPQLKG_8E_",
+    "target_id": "SEC_438",
+    "type": "DISCUSSES",
+    "properties": {
+      "section_number": "438"
+    }
+  },
+  {
+    "id": "CASE_DOC_TMPQLKG_8E__CITES_CASE_CIT_(1980)_2_SCC_565",
+    "source_id": "CASE_DOC_TMPQLKG_8E_",
+    "target_id": "CASE_CIT_(1980)_2_SCC_565",
+    "type": "CITES",
+    "properties": {
+      "citation_text": "(1980) 2 SCC 565",
+      "page": null
+    }
+  }
+]
